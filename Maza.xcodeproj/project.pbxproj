@@ -1,0 +1,1912 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 47;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		22005B961C9276AF00F87733 /* BRLinkPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22005B951C9276AF00F87733 /* BRLinkPlugin.swift */; };
+		220128D31C753C670001CAC1 /* BRSocketHelpers.c in Sources */ = {isa = PBXBuildFile; fileRef = 220128D11C753C670001CAC1 /* BRSocketHelpers.c */; };
+		220128D51C76E1550001CAC1 /* BRWebSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220128D41C76E1550001CAC1 /* BRWebSocket.swift */; };
+		220128D71C76E4F30001CAC1 /* BRWalletPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220128D61C76E4F30001CAC1 /* BRWalletPlugin.swift */; };
+		220128D91C77B3100001CAC1 /* BRHTTPIndexMiddleware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 220128D81C77B3100001CAC1 /* BRHTTPIndexMiddleware.swift */; };
+		2204604E1B9F61E600D07B61 /* BREventManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2204604D1B9F61E600D07B61 /* BREventManager.m */; };
+		220460551BA0BEEE00D07B61 /* BREventConfirmView.m in Sources */ = {isa = PBXBuildFile; fileRef = 220460541BA0BEEE00D07B61 /* BREventConfirmView.m */; };
+		222040C41C1A0903005CE1C3 /* BRWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222040C31C1A0903005CE1C3 /* BRWebViewController.swift */; };
+		222040C61C1A1940005CE1C3 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222040C51C1A1940005CE1C3 /* WebKit.framework */; };
+		222E7F561C46E9B8009AB45D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222E7F551C46E9B8009AB45D /* Security.framework */; };
+		222E7F581C46E9BE009AB45D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222E7F571C46E9BE009AB45D /* SystemConfiguration.framework */; };
+		225383011C694D7400968BEE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 225383001C694D7400968BEE /* CoreLocation.framework */; };
+		229279981C695C4200C98E78 /* BRHTTPServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229279971C695C4200C98E78 /* BRHTTPServer.swift */; };
+		2292799A1C695CAE00C98E78 /* BRHTTPFileMiddleware.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229279991C695CAE00C98E78 /* BRHTTPFileMiddleware.swift */; };
+		2292799C1C695CD600C98E78 /* BRHTTPRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2292799B1C695CD600C98E78 /* BRHTTPRouter.swift */; };
+		229279A31C695DB300C98E78 /* BRKeychain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229279A21C695DB300C98E78 /* BRKeychain.swift */; };
+		229279A81C6960FC00C98E78 /* BRGeoLocationPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229279A71C6960FC00C98E78 /* BRGeoLocationPlugin.swift */; };
+		22B6A4481C0E963900673913 /* libbz2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B6A4471C0E963900673913 /* libbz2.tbd */; };
+		22BF17471CDF831800AA41C6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22BF17461CDF831800AA41C6 /* Extensions.swift */; };
+		22D3613D1C56F2CD0057CF76 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 22D3613C1C56F2CD0057CF76 /* libsqlite3.tbd */; };
+		22F04A001C9714EF00F137D8 /* BRUserDefaultsSwitchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 22F45A0D1C3326CC00B07A15 /* BRUserDefaultsSwitchCell.m */; };
+		5207A7921D5FFFE70076EEE9 /* UIImage+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 5207A78F1D5FFFE70076EEE9 /* UIImage+Utility.m */; };
+		5219AAB01D738F8E004BD9C0 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5219AAAE1D738F8E004BD9C0 /* Interface.storyboard */; };
+		5219AAB21D738F8E004BD9C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5219AAB11D738F8E004BD9C0 /* Assets.xcassets */; };
+		5219AAB91D738F8E004BD9C0 /* WatchApp Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 5219AAB81D738F8E004BD9C0 /* WatchApp Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		5219AAC01D738F8E004BD9C0 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AABF1D738F8E004BD9C0 /* InterfaceController.swift */; };
+		5219AAC21D738F8E004BD9C0 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAC11D738F8E004BD9C0 /* ExtensionDelegate.swift */; };
+		5219AAC41D738F8E004BD9C0 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAC31D738F8E004BD9C0 /* NotificationController.swift */; };
+		5219AAC61D738F8E004BD9C0 /* GlanceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAC51D738F8E004BD9C0 /* GlanceController.swift */; };
+		5219AAC81D738F8E004BD9C0 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAC71D738F8E004BD9C0 /* ComplicationController.swift */; };
+		5219AACA1D738F8E004BD9C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5219AAC91D738F8E004BD9C0 /* Assets.xcassets */; };
+		5219AACE1D738F8E004BD9C0 /* WatchApp.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 5219AAAC1D738F8D004BD9C0 /* WatchApp.app */; };
+		5219AAE81D73B23A004BD9C0 /* BRAWWatchDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAE71D73B23A004BD9C0 /* BRAWWatchDataManager.swift */; };
+		5219AAF21D73B2CB004BD9C0 /* BRAWBalanceInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAEB1D73B2CB004BD9C0 /* BRAWBalanceInterfaceController.swift */; };
+		5219AAF41D73B2CB004BD9C0 /* BRAWKeypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAED1D73B2CB004BD9C0 /* BRAWKeypad.swift */; };
+		5219AAF51D73B2CB004BD9C0 /* BRAWReceiveMoneyInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAEE1D73B2CB004BD9C0 /* BRAWReceiveMoneyInterfaceController.swift */; };
+		5219AAF61D73B2CB004BD9C0 /* BRAWTransactionRowControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAEF1D73B2CB004BD9C0 /* BRAWTransactionRowControl.swift */; };
+		5219AAF71D73B2CB004BD9C0 /* BRAWWeakTimerTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5219AAF01D73B2CB004BD9C0 /* BRAWWeakTimerTarget.swift */; };
+		5219AAF91D73B4AB004BD9C0 /* BRAppleWatchData.m in Sources */ = {isa = PBXBuildFile; fileRef = BA7B534F1BDA9A2800355E8D /* BRAppleWatchData.m */; };
+		5219AAFA1D73B4D2004BD9C0 /* BRAppleWatchTransactionData.m in Sources */ = {isa = PBXBuildFile; fileRef = BA7B53531BDAA0A800355E8D /* BRAppleWatchTransactionData.m */; };
+		522010A01F3647B000A00D4B /* BRAPIProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5220109E1F3647B000A00D4B /* BRAPIProxy.swift */; };
+		522010A11F3647B000A00D4B /* BRAPIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5220109F1F3647B000A00D4B /* BRAPIClient.swift */; };
+		524F39C01D72267E00F997FB /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAE12BE61B2DEE7F00895CC5 /* NotificationCenter.framework */; };
+		524F39C71D72267E00F997FB /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 524F39C51D72267E00F997FB /* MainInterface.storyboard */; };
+		524F39CB1D72267E00F997FB /* TodayExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 524F39BF1D72267E00F997FB /* TodayExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		524F39D31D72275100F997FB /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 524F39D21D72275100F997FB /* Media.xcassets */; };
+		524F39D41D72278000F997FB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75D5F3DF191EC270004AB296 /* Images.xcassets */; };
+		524F39D51D72278700F997FB /* BRWalletConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 52569C9E1D71F266001E629E /* BRWalletConstants.m */; };
+		524F39D61D72278E00F997FB /* BRBubbleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 759816E619357D6F005060EA /* BRBubbleView.m */; };
+		524F39D71D7227A800F997FB /* BREventManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2204604D1B9F61E600D07B61 /* BREventManager.m */; };
+		524F39D81D7227B000F997FB /* UIImage+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 5207A78F1D5FFFE70076EEE9 /* UIImage+Utility.m */; };
+		524F39DB1D722A6D00F997FB /* BRTodayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 524F39D91D722A6D00F997FB /* BRTodayViewController.m */; };
+		52AD8B4C1F43953B00D70424 /* FixedPeers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 52AD8B4B1F43953B00D70424 /* FixedPeers.plist */; };
+		751B2B5C1B68911700EA87FB /* BRTxHistoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 751B2B5B1B68911700EA87FB /* BRTxHistoryViewController.m */; };
+		7525B619192453840041C0F2 /* BRNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 7525B618192453840041C0F2 /* BRNavigationBar.m */; };
+		752E289A192349CE00DB5A3C /* BreadWallet.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 752E2898192349CE00DB5A3C /* BreadWallet.xcdatamodeld */; };
+		752E28AA19234AE300DB5A3C /* BRAddressEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E289F19234AE300DB5A3C /* BRAddressEntity.m */; };
+		752E28AB19234AE300DB5A3C /* BRMerkleBlockEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28A119234AE300DB5A3C /* BRMerkleBlockEntity.m */; };
+		752E28AC19234AE300DB5A3C /* BRPeerEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28A319234AE300DB5A3C /* BRPeerEntity.m */; };
+		752E28AD19234AE300DB5A3C /* BRTransactionEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28A519234AE300DB5A3C /* BRTransactionEntity.m */; };
+		752E28AE19234AE300DB5A3C /* BRTxInputEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28A719234AE300DB5A3C /* BRTxInputEntity.m */; };
+		752E28AF19234AE300DB5A3C /* BRTxOutputEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28A919234AE300DB5A3C /* BRTxOutputEntity.m */; };
+		752E28CE19234C3600DB5A3C /* BRBIP32Sequence.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28B119234C3600DB5A3C /* BRBIP32Sequence.m */; };
+		752E28CF19234C3600DB5A3C /* BRBIP39Mnemonic.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28B319234C3600DB5A3C /* BRBIP39Mnemonic.m */; };
+		752E28D019234C3600DB5A3C /* BRBloomFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28B519234C3600DB5A3C /* BRBloomFilter.m */; };
+		752E28D119234C3600DB5A3C /* BRKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28B719234C3600DB5A3C /* BRKey.m */; };
+		752E28D219234C3600DB5A3C /* BRKey+BIP38.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28B919234C3600DB5A3C /* BRKey+BIP38.m */; };
+		752E28D319234C3600DB5A3C /* BRMerkleBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28BC19234C3600DB5A3C /* BRMerkleBlock.m */; };
+		752E28D419234C3600DB5A3C /* BRPaymentProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28BF19234C3600DB5A3C /* BRPaymentProtocol.m */; };
+		752E28D519234C3600DB5A3C /* BRPaymentRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28C119234C3600DB5A3C /* BRPaymentRequest.m */; };
+		752E28D619234C3600DB5A3C /* BRPeer.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28C319234C3600DB5A3C /* BRPeer.m */; };
+		752E28D819234C3600DB5A3C /* BRPeerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28C719234C3600DB5A3C /* BRPeerManager.m */; };
+		752E28D919234C3600DB5A3C /* BRTransaction.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28C919234C3600DB5A3C /* BRTransaction.m */; };
+		752E28DA19234C3600DB5A3C /* BRWallet.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28CB19234C3600DB5A3C /* BRWallet.m */; };
+		752E28DB19234C3600DB5A3C /* BRWalletManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28CD19234C3600DB5A3C /* BRWalletManager.m */; };
+		752E28E719234DA200DB5A3C /* NSData+Bitcoin.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28DE19234DA200DB5A3C /* NSData+Bitcoin.m */; };
+		752E28E919234DA200DB5A3C /* NSManagedObject+Sugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28E219234DA200DB5A3C /* NSManagedObject+Sugar.m */; };
+		752E28EA19234DA200DB5A3C /* NSMutableData+Bitcoin.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28E419234DA200DB5A3C /* NSMutableData+Bitcoin.m */; };
+		752E28EB19234DA200DB5A3C /* NSString+Bitcoin.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28E619234DA200DB5A3C /* NSString+Bitcoin.m */; };
+		752E28F119234E8100DB5A3C /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 752E28F019234E8100DB5A3C /* Reachability.m */; settings = {COMPILER_FLAGS = "-w"; }; };
+		7548CF3719556FD700EF827F /* BRCopyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7548CF3619556FD700EF827F /* BRCopyLabel.m */; };
+		755FC9ED1BF1DF1B00164ABB /* BREventConfirmView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 755FC9EF1BF1DF1B00164ABB /* BREventConfirmView.xib */; };
+		757BE7E3192C0E9D0061CB20 /* BRRestoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 757BE7E2192C0E9D0061CB20 /* BRRestoreViewController.m */; };
+		757BE7E6192C1FF70061CB20 /* BRWelcomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 757BE7E5192C1FF70061CB20 /* BRWelcomeViewController.m */; };
+		757BE7E9192D4E880061CB20 /* BRSeedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 757BE7E8192D4E880061CB20 /* BRSeedViewController.m */; };
+		757C89521A2FCE420076B373 /* BRSettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 757C89511A2FCE420076B373 /* BRSettingsViewController.m */; };
+		757E09991ADB8EEB006FD352 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 757E09971ADB8EEB006FD352 /* Localizable.strings */; };
+		75878BBF192ACD46002505AB /* BRAmountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75878BBE192ACD46002505AB /* BRAmountViewController.m */; };
+		75878BC1192AEC3F002505AB /* BRReceiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75878BC0192AEC3F002505AB /* BRReceiveViewController.m */; };
+		758DBD0E1980634900389E2A /* BRTxDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 758DBD0D1980634900389E2A /* BRTxDetailViewController.m */; };
+		759816E719357D6F005060EA /* BRBubbleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 759816E619357D6F005060EA /* BRBubbleView.m */; };
+		759FBB36193290F600AB4465 /* BRRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 759FBB33193290F600AB4465 /* BRRootViewController.m */; };
+		759FBB37193290F600AB4465 /* BRSendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 759FBB35193290F600AB4465 /* BRSendViewController.m */; };
+		75AA5F55194143D5003F23BD /* BRBouncyBurgerButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 75AA5F54194143D5003F23BD /* BRBouncyBurgerButton.m */; };
+		75C0E3BF1B1BA294007BC531 /* BIP39Words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 75C0E3C11B1BA294007BC531 /* BIP39Words.plist */; };
+		75D5F3CE191EC270004AB296 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D5F3CD191EC270004AB296 /* main.m */; };
+		75D5F3D2191EC270004AB296 /* BRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D5F3D1191EC270004AB296 /* BRAppDelegate.m */; };
+		75D5F3DE191EC270004AB296 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75D5F3DC191EC270004AB296 /* Main.storyboard */; };
+		75D5F3E0191EC270004AB296 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75D5F3DF191EC270004AB296 /* Images.xcassets */; };
+		75D5F3F3191EC270004AB296 /* BreadWalletTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D5F3F2191EC270004AB296 /* BreadWalletTests.m */; };
+		75E83CF61B5F997A0038FB70 /* coinflip.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 75E83CF51B5F997A0038FB70 /* coinflip.aiff */; };
+		75F2E0D31BE9803900EAE861 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75F2E0D21BE9803900EAE861 /* Launch Screen.storyboard */; };
+		75F2E0D61BEAA6A400EAE861 /* BRTxMetadataEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 75F2E0D51BEAA6A400EAE861 /* BRTxMetadataEntity.m */; };
+		84F68C8A1975E9E2002FC300 /* BRScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F68C891975E9E2002FC300 /* BRScanViewController.m */; };
+		BA7B53501BDA9A2800355E8D /* BRAppleWatchData.m in Sources */ = {isa = PBXBuildFile; fileRef = BA7B534F1BDA9A2800355E8D /* BRAppleWatchData.m */; };
+		BA7B53541BDAA0A800355E8D /* BRAppleWatchTransactionData.m in Sources */ = {isa = PBXBuildFile; fileRef = BA7B53531BDAA0A800355E8D /* BRAppleWatchTransactionData.m */; };
+		BA7B535C1BDBC36700355E8D /* BRTransaction+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = BA7B535B1BDBC36700355E8D /* BRTransaction+Utils.m */; };
+		BAA4843C1B3EFFAF0075C749 /* UIImage+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = BAA4843B1B3EFFAF0075C749 /* UIImage+Utils.m */; };
+		BAC7B6BE1BD9C29900165B84 /* BRPhoneWCSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = BAC7B6BD1BD9C29900165B84 /* BRPhoneWCSessionManager.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5219AABA1D738F8E004BD9C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75D5F3B6191EC270004AB296 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5219AAB71D738F8E004BD9C0;
+			remoteInfo = "WatchApp Extension";
+		};
+		5219AACC1D738F8E004BD9C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75D5F3B6191EC270004AB296 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5219AAAB1D738F8D004BD9C0;
+			remoteInfo = WatchApp;
+		};
+		524F39C91D72267E00F997FB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75D5F3B6191EC270004AB296 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 524F39BE1D72267E00F997FB;
+			remoteInfo = TodayExtension;
+		};
+		757FC2521ADA30D100A1FDF7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75D5F3B6191EC270004AB296 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75001D3D1A1EE89500585F55;
+			remoteInfo = submodules;
+		};
+		75D5F3EA191EC270004AB296 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75D5F3B6191EC270004AB296 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75D5F3BD191EC270004AB296;
+			remoteInfo = BreadWallet;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5219AAD21D738F8E004BD9C0 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				5219AAB91D738F8E004BD9C0 /* WatchApp Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BA913C021BD57E4E005A7C0E /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				5219AACE1D738F8E004BD9C0 /* WatchApp.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAE12BF71B2DEE7F00895CC5 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				524F39CB1D72267E00F997FB /* TodayExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		22005B951C9276AF00F87733 /* BRLinkPlugin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRLinkPlugin.swift; sourceTree = "<group>"; };
+		220128D11C753C670001CAC1 /* BRSocketHelpers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = BRSocketHelpers.c; sourceTree = "<group>"; };
+		220128D21C753C670001CAC1 /* BRSocketHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRSocketHelpers.h; sourceTree = "<group>"; };
+		220128D41C76E1550001CAC1 /* BRWebSocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRWebSocket.swift; sourceTree = "<group>"; };
+		220128D61C76E4F30001CAC1 /* BRWalletPlugin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRWalletPlugin.swift; sourceTree = "<group>"; };
+		220128D81C77B3100001CAC1 /* BRHTTPIndexMiddleware.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRHTTPIndexMiddleware.swift; sourceTree = "<group>"; };
+		2204604C1B9F61E600D07B61 /* BREventManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BREventManager.h; sourceTree = "<group>"; };
+		2204604D1B9F61E600D07B61 /* BREventManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BREventManager.m; sourceTree = "<group>"; };
+		220460531BA0BEEE00D07B61 /* BREventConfirmView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BREventConfirmView.h; sourceTree = "<group>"; };
+		220460541BA0BEEE00D07B61 /* BREventConfirmView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BREventConfirmView.m; sourceTree = "<group>"; };
+		222040C31C1A0903005CE1C3 /* BRWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRWebViewController.swift; sourceTree = "<group>"; };
+		222040C51C1A1940005CE1C3 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		222E7F551C46E9B8009AB45D /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		222E7F571C46E9BE009AB45D /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		225383001C694D7400968BEE /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		229279971C695C4200C98E78 /* BRHTTPServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRHTTPServer.swift; sourceTree = "<group>"; };
+		229279991C695CAE00C98E78 /* BRHTTPFileMiddleware.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRHTTPFileMiddleware.swift; sourceTree = "<group>"; };
+		2292799B1C695CD600C98E78 /* BRHTTPRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRHTTPRouter.swift; sourceTree = "<group>"; };
+		229279A21C695DB300C98E78 /* BRKeychain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRKeychain.swift; sourceTree = "<group>"; };
+		229279A71C6960FC00C98E78 /* BRGeoLocationPlugin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRGeoLocationPlugin.swift; sourceTree = "<group>"; };
+		22B6A4471C0E963900673913 /* libbz2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libbz2.tbd; path = usr/lib/libbz2.tbd; sourceTree = SDKROOT; };
+		22BF17461CDF831800AA41C6 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		22D3613C1C56F2CD0057CF76 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		22F45A0C1C3326CC00B07A15 /* BRUserDefaultsSwitchCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRUserDefaultsSwitchCell.h; sourceTree = "<group>"; };
+		22F45A0D1C3326CC00B07A15 /* BRUserDefaultsSwitchCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRUserDefaultsSwitchCell.m; sourceTree = "<group>"; };
+		22F45A0F1C3329EB00B07A15 /* BRUserDefaultsConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRUserDefaultsConstants.h; sourceTree = "<group>"; };
+		22FF2C361BED381400B36384 /* breadwallet-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "breadwallet-Bridging-Header.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5207A78F1D5FFFE70076EEE9 /* UIImage+Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Utility.m"; sourceTree = "<group>"; };
+		5207A7901D5FFFE70076EEE9 /* UIImage+Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Utility.h"; sourceTree = "<group>"; };
+		52155B061D727BB000E85452 /* TodayExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TodayExtension.entitlements; sourceTree = "<group>"; };
+		5219AAAC1D738F8D004BD9C0 /* WatchApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5219AAAF1D738F8E004BD9C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		5219AAB11D738F8E004BD9C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5219AAB31D738F8E004BD9C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5219AAB81D738F8E004BD9C0 /* WatchApp Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WatchApp Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5219AABE1D738F8E004BD9C0 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		5219AABF1D738F8E004BD9C0 /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
+		5219AAC11D738F8E004BD9C0 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
+		5219AAC31D738F8E004BD9C0 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		5219AAC51D738F8E004BD9C0 /* GlanceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlanceController.swift; sourceTree = "<group>"; };
+		5219AAC71D738F8E004BD9C0 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
+		5219AAC91D738F8E004BD9C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5219AACB1D738F8E004BD9C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5219AAE71D73B23A004BD9C0 /* BRAWWatchDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAWWatchDataManager.swift; sourceTree = "<group>"; };
+		5219AAE91D73B2B1004BD9C0 /* WatchApp Extension-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "WatchApp Extension-Bridging-Header.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5219AAEB1D73B2CB004BD9C0 /* BRAWBalanceInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAWBalanceInterfaceController.swift; sourceTree = "<group>"; };
+		5219AAED1D73B2CB004BD9C0 /* BRAWKeypad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAWKeypad.swift; sourceTree = "<group>"; };
+		5219AAEE1D73B2CB004BD9C0 /* BRAWReceiveMoneyInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAWReceiveMoneyInterfaceController.swift; sourceTree = "<group>"; };
+		5219AAEF1D73B2CB004BD9C0 /* BRAWTransactionRowControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAWTransactionRowControl.swift; sourceTree = "<group>"; };
+		5219AAF01D73B2CB004BD9C0 /* BRAWWeakTimerTarget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAWWeakTimerTarget.swift; sourceTree = "<group>"; };
+		5219AAF81D73B40F004BD9C0 /* maza-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; name = "maza-Bridging-Header.h"; path = "BreadWallet/maza-Bridging-Header.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5220109E1F3647B000A00D4B /* BRAPIProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAPIProxy.swift; sourceTree = "<group>"; };
+		5220109F1F3647B000A00D4B /* BRAPIClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BRAPIClient.swift; sourceTree = "<group>"; };
+		524F39BF1D72267E00F997FB /* TodayExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = TodayExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		524F39C61D72267E00F997FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		524F39C81D72267E00F997FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		524F39D21D72275100F997FB /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		524F39D91D722A6D00F997FB /* BRTodayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTodayViewController.m; sourceTree = "<group>"; };
+		524F39DA1D722A6D00F997FB /* BRTodayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTodayViewController.h; sourceTree = "<group>"; };
+		52569C9E1D71F266001E629E /* BRWalletConstants.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = BRWalletConstants.m; path = BreadWallet/BRWalletConstants.m; sourceTree = "<group>"; };
+		529A9F1E1D7B6F1800B9663C /* Maza-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Maza-Prefix.pch"; sourceTree = "<group>"; };
+		52AD8B491F41FB1600D70424 /* WatchApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = WatchApp.entitlements; sourceTree = "<group>"; };
+		52AD8B4A1F41FB2200D70424 /* WatchApp Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "WatchApp Extension.entitlements"; sourceTree = "<group>"; };
+		52AD8B4B1F43953B00D70424 /* FixedPeers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FixedPeers.plist; sourceTree = "<group>"; };
+		52D30AEA1D71319900E8DF36 /* maza.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = maza.entitlements; sourceTree = "<group>"; };
+		7509C10C1AF3076000D03FD5 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		7509C10E1AF3076100D03FD5 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7509C1101AF3720100D03FD5 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		7509C1121AF3720100D03FD5 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		750BF6C71AEB2417004D9893 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/Main.strings; sourceTree = "<group>"; };
+		750BF6C91AEB2417004D9893 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = hu; path = hu.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		750C6CC01B5C8EB60038AAE9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		750C6CC11B5C8EB60038AAE9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8C91AE5FF240025F1B3 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8CB1AE5FF240025F1B3 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7511E8CD1AE5FF2D0025F1B3 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8CF1AE5FF2D0025F1B3 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7511E8D11AE5FF390025F1B3 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8D31AE5FF390025F1B3 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7511E8D51AE5FF410025F1B3 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8D71AE5FF410025F1B3 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7511E8DD1AE5FFB50025F1B3 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8DF1AE5FFB50025F1B3 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = sq; path = sq.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7511E8E11AE5FFCC0025F1B3 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8E31AE5FFCC0025F1B3 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7511E8E51AE5FFD70025F1B3 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8E71AE5FFD70025F1B3 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		7511E8E91AE600220025F1B3 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		7511E8EB1AE600220025F1B3 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		751B2B5B1B68911700EA87FB /* BRTxHistoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRTxHistoryViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		7525B617192453840041C0F2 /* BRNavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRNavigationBar.h; sourceTree = "<group>"; };
+		7525B618192453840041C0F2 /* BRNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRNavigationBar.m; sourceTree = "<group>"; };
+		752E2899192349CE00DB5A3C /* BreadWallet.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BreadWallet.xcdatamodel; sourceTree = "<group>"; };
+		752E289E19234AE300DB5A3C /* BRAddressEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BRAddressEntity.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		752E289F19234AE300DB5A3C /* BRAddressEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRAddressEntity.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		752E28A019234AE300DB5A3C /* BRMerkleBlockEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRMerkleBlockEntity.h; sourceTree = "<group>"; };
+		752E28A119234AE300DB5A3C /* BRMerkleBlockEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRMerkleBlockEntity.m; sourceTree = "<group>"; };
+		752E28A219234AE300DB5A3C /* BRPeerEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRPeerEntity.h; sourceTree = "<group>"; };
+		752E28A319234AE300DB5A3C /* BRPeerEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRPeerEntity.m; sourceTree = "<group>"; };
+		752E28A419234AE300DB5A3C /* BRTransactionEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTransactionEntity.h; sourceTree = "<group>"; };
+		752E28A519234AE300DB5A3C /* BRTransactionEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTransactionEntity.m; sourceTree = "<group>"; };
+		752E28A619234AE300DB5A3C /* BRTxInputEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTxInputEntity.h; sourceTree = "<group>"; };
+		752E28A719234AE300DB5A3C /* BRTxInputEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTxInputEntity.m; sourceTree = "<group>"; };
+		752E28A819234AE300DB5A3C /* BRTxOutputEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTxOutputEntity.h; sourceTree = "<group>"; };
+		752E28A919234AE300DB5A3C /* BRTxOutputEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTxOutputEntity.m; sourceTree = "<group>"; };
+		752E28B119234C3600DB5A3C /* BRBIP32Sequence.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRBIP32Sequence.m; sourceTree = "<group>"; };
+		752E28B219234C3600DB5A3C /* BRBIP39Mnemonic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRBIP39Mnemonic.h; sourceTree = "<group>"; };
+		752E28B319234C3600DB5A3C /* BRBIP39Mnemonic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRBIP39Mnemonic.m; sourceTree = "<group>"; };
+		752E28B419234C3600DB5A3C /* BRBloomFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRBloomFilter.h; sourceTree = "<group>"; };
+		752E28B519234C3600DB5A3C /* BRBloomFilter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRBloomFilter.m; sourceTree = "<group>"; };
+		752E28B619234C3600DB5A3C /* BRKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRKey.h; sourceTree = "<group>"; };
+		752E28B719234C3600DB5A3C /* BRKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRKey.m; sourceTree = "<group>"; };
+		752E28B819234C3600DB5A3C /* BRKey+BIP38.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BRKey+BIP38.h"; sourceTree = "<group>"; };
+		752E28B919234C3600DB5A3C /* BRKey+BIP38.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "BRKey+BIP38.m"; sourceTree = "<group>"; };
+		752E28BA19234C3600DB5A3C /* BRKeySequence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRKeySequence.h; sourceTree = "<group>"; };
+		752E28BB19234C3600DB5A3C /* BRMerkleBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRMerkleBlock.h; sourceTree = "<group>"; };
+		752E28BC19234C3600DB5A3C /* BRMerkleBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRMerkleBlock.m; sourceTree = "<group>"; };
+		752E28BD19234C3600DB5A3C /* BRMnemonic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRMnemonic.h; sourceTree = "<group>"; };
+		752E28BE19234C3600DB5A3C /* BRPaymentProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRPaymentProtocol.h; sourceTree = "<group>"; };
+		752E28BF19234C3600DB5A3C /* BRPaymentProtocol.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRPaymentProtocol.m; sourceTree = "<group>"; };
+		752E28C019234C3600DB5A3C /* BRPaymentRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRPaymentRequest.h; sourceTree = "<group>"; };
+		752E28C119234C3600DB5A3C /* BRPaymentRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRPaymentRequest.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		752E28C219234C3600DB5A3C /* BRPeer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRPeer.h; sourceTree = "<group>"; };
+		752E28C319234C3600DB5A3C /* BRPeer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRPeer.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		752E28C619234C3600DB5A3C /* BRPeerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRPeerManager.h; sourceTree = "<group>"; };
+		752E28C719234C3600DB5A3C /* BRPeerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRPeerManager.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		752E28C819234C3600DB5A3C /* BRTransaction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTransaction.h; sourceTree = "<group>"; };
+		752E28C919234C3600DB5A3C /* BRTransaction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTransaction.m; sourceTree = "<group>"; };
+		752E28CA19234C3600DB5A3C /* BRWallet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRWallet.h; sourceTree = "<group>"; };
+		752E28CB19234C3600DB5A3C /* BRWallet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRWallet.m; sourceTree = "<group>"; };
+		752E28CC19234C3600DB5A3C /* BRWalletManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRWalletManager.h; sourceTree = "<group>"; };
+		752E28CD19234C3600DB5A3C /* BRWalletManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRWalletManager.m; sourceTree = "<group>"; };
+		752E28DC19234D1000DB5A3C /* BRBIP32Sequence.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRBIP32Sequence.h; sourceTree = "<group>"; };
+		752E28DD19234DA200DB5A3C /* NSData+Bitcoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Bitcoin.h"; sourceTree = "<group>"; };
+		752E28DE19234DA200DB5A3C /* NSData+Bitcoin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Bitcoin.m"; sourceTree = "<group>"; };
+		752E28E119234DA200DB5A3C /* NSManagedObject+Sugar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSManagedObject+Sugar.h"; sourceTree = "<group>"; };
+		752E28E219234DA200DB5A3C /* NSManagedObject+Sugar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSManagedObject+Sugar.m"; sourceTree = "<group>"; };
+		752E28E319234DA200DB5A3C /* NSMutableData+Bitcoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableData+Bitcoin.h"; sourceTree = "<group>"; };
+		752E28E419234DA200DB5A3C /* NSMutableData+Bitcoin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableData+Bitcoin.m"; sourceTree = "<group>"; };
+		752E28E519234DA200DB5A3C /* NSString+Bitcoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Bitcoin.h"; sourceTree = "<group>"; };
+		752E28E619234DA200DB5A3C /* NSString+Bitcoin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = "NSString+Bitcoin.m"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		752E28EF19234E8100DB5A3C /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = SOURCE_ROOT; };
+		752E28F019234E8100DB5A3C /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = SOURCE_ROOT; };
+		754119E21CDA97820042DC51 /* main_impl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main_impl.h; sourceTree = "<group>"; };
+		754119E41CDA97820042DC51 /* schnorr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = schnorr.h; sourceTree = "<group>"; };
+		754119E51CDA97820042DC51 /* schnorr_impl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = schnorr_impl.h; sourceTree = "<group>"; };
+		7548CF3519556FD700EF827F /* BRCopyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRCopyLabel.h; sourceTree = "<group>"; };
+		7548CF3619556FD700EF827F /* BRCopyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRCopyLabel.m; sourceTree = "<group>"; };
+		757BE7E1192C0E9D0061CB20 /* BRRestoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRRestoreViewController.h; sourceTree = "<group>"; };
+		757BE7E2192C0E9D0061CB20 /* BRRestoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRRestoreViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		757BE7E4192C1FF70061CB20 /* BRWelcomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRWelcomeViewController.h; sourceTree = "<group>"; };
+		757BE7E5192C1FF70061CB20 /* BRWelcomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRWelcomeViewController.m; sourceTree = "<group>"; };
+		757BE7E7192D4E880061CB20 /* BRSeedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRSeedViewController.h; sourceTree = "<group>"; };
+		757BE7E8192D4E880061CB20 /* BRSeedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRSeedViewController.m; sourceTree = "<group>"; };
+		757C89501A2FCE420076B373 /* BRSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRSettingsViewController.h; sourceTree = "<group>"; };
+		757C89511A2FCE420076B373 /* BRSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRSettingsViewController.m; sourceTree = "<group>"; };
+		757E09981ADB8EEB006FD352 /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; lineEnding = 0; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		75878BBD192ACD46002505AB /* BRAmountViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BRAmountViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		75878BBE192ACD46002505AB /* BRAmountViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRAmountViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		75878BC0192AEC3F002505AB /* BRReceiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRReceiveViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		75878BC4192B1AF0002505AB /* BRTxHistoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTxHistoryViewController.h; sourceTree = "<group>"; };
+		758B16241AA9ADC4002C65DD /* secp256k1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = secp256k1.h; sourceTree = "<group>"; };
+		758B16301AA9ADC4002C65DD /* ecdsa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ecdsa.h; sourceTree = "<group>"; };
+		758B16311AA9ADC4002C65DD /* ecdsa_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ecdsa_impl.h; sourceTree = "<group>"; };
+		758B16321AA9ADC4002C65DD /* eckey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eckey.h; sourceTree = "<group>"; };
+		758B16331AA9ADC4002C65DD /* eckey_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eckey_impl.h; sourceTree = "<group>"; };
+		758B16341AA9ADC4002C65DD /* ecmult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ecmult.h; sourceTree = "<group>"; };
+		758B16351AA9ADC4002C65DD /* ecmult_gen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ecmult_gen.h; sourceTree = "<group>"; };
+		758B16361AA9ADC4002C65DD /* ecmult_gen_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ecmult_gen_impl.h; sourceTree = "<group>"; };
+		758B16371AA9ADC4002C65DD /* ecmult_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ecmult_impl.h; sourceTree = "<group>"; };
+		758B16381AA9ADC4002C65DD /* field.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = field.h; sourceTree = "<group>"; };
+		758B16391AA9ADC4002C65DD /* field_10x26.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = field_10x26.h; sourceTree = "<group>"; };
+		758B163A1AA9ADC4002C65DD /* field_10x26_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = field_10x26_impl.h; sourceTree = "<group>"; };
+		758B163F1AA9ADC4002C65DD /* field_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = field_impl.h; sourceTree = "<group>"; };
+		758B16401AA9ADC4002C65DD /* group.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = group.h; sourceTree = "<group>"; };
+		758B16411AA9ADC4002C65DD /* group_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = group_impl.h; sourceTree = "<group>"; };
+		758B16421AA9ADC4002C65DD /* hash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hash.h; sourceTree = "<group>"; };
+		758B16431AA9ADC4002C65DD /* hash_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hash_impl.h; sourceTree = "<group>"; };
+		758B164A1AA9ADC4002C65DD /* num.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = num.h; sourceTree = "<group>"; };
+		758B164D1AA9ADC4002C65DD /* num_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = num_impl.h; sourceTree = "<group>"; };
+		758B164E1AA9ADC4002C65DD /* scalar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scalar.h; sourceTree = "<group>"; };
+		758B16511AA9ADC4002C65DD /* scalar_8x32.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scalar_8x32.h; sourceTree = "<group>"; };
+		758B16521AA9ADC4002C65DD /* scalar_8x32_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scalar_8x32_impl.h; sourceTree = "<group>"; };
+		758B16531AA9ADC4002C65DD /* scalar_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scalar_impl.h; sourceTree = "<group>"; };
+		758B16541AA9ADC4002C65DD /* secp256k1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = secp256k1.c; sourceTree = "<group>"; };
+		758B16581AA9ADC4002C65DD /* util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = util.h; sourceTree = "<group>"; };
+		758DBD0C1980634900389E2A /* BRTxDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTxDetailViewController.h; sourceTree = "<group>"; };
+		758DBD0D1980634900389E2A /* BRTxDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTxDetailViewController.m; sourceTree = "<group>"; };
+		759816E519357D6F005060EA /* BRBubbleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRBubbleView.h; sourceTree = "<group>"; };
+		759816E619357D6F005060EA /* BRBubbleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRBubbleView.m; sourceTree = "<group>"; };
+		759AB7F71AB8F45900303AAB /* BreadWallet 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "BreadWallet 2.xcdatamodel"; sourceTree = "<group>"; };
+		759FBB31193290F600AB4465 /* BRReceiveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRReceiveViewController.h; sourceTree = "<group>"; };
+		759FBB32193290F600AB4465 /* BRRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRRootViewController.h; sourceTree = "<group>"; };
+		759FBB33193290F600AB4465 /* BRRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRRootViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		759FBB34193290F600AB4465 /* BRSendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRSendViewController.h; sourceTree = "<group>"; };
+		759FBB35193290F600AB4465 /* BRSendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRSendViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		75AA5F53194143D5003F23BD /* BRBouncyBurgerButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRBouncyBurgerButton.h; sourceTree = "<group>"; };
+		75AA5F54194143D5003F23BD /* BRBouncyBurgerButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRBouncyBurgerButton.m; sourceTree = "<group>"; };
+		75BDCC381CE2FC7000AAFA22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		75C0E3C21B1BA29D007BC531 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = fr; path = fr.lproj/BIP39Words.plist; sourceTree = "<group>"; };
+		75C0E3C31B1BA29F007BC531 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = ja; path = ja.lproj/BIP39Words.plist; sourceTree = "<group>"; };
+		75C0E3C41B1BA2A5007BC531 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = es; path = es.lproj/BIP39Words.plist; sourceTree = "<group>"; };
+		75C0E3C51B1BA2AE007BC531 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "zh-Hans"; path = "zh-Hans.lproj/BIP39Words.plist"; sourceTree = "<group>"; };
+		75C0E3C71B1D333F007BC531 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/BIP39Words.plist; sourceTree = "<group>"; };
+		75CE194C1B9642EB000778E4 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Main.strings; sourceTree = "<group>"; };
+		75CE194E1B9642EB000778E4 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = pt; path = pt.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		75CE50B51B5216F100DBC18C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = BreadWalletTests/Info.plist; sourceTree = SOURCE_ROOT; };
+		75D5F3BE191EC270004AB296 /* maza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maza.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		75D5F3C9191EC270004AB296 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75D5F3CD191EC270004AB296 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		75D5F3D0191EC270004AB296 /* BRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BRAppDelegate.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		75D5F3D1191EC270004AB296 /* BRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRAppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		75D5F3DD191EC270004AB296 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		75D5F3DF191EC270004AB296 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		75D5F3E5191EC270004AB296 /* MazaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MazaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		75D5F3F2191EC270004AB296 /* BreadWalletTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BreadWalletTests.m; sourceTree = "<group>"; };
+		75DE023F1B0EB7990027FF08 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
+		75DE02411B0EB79A0027FF08 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		75DE02431B0EB7BD0027FF08 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Main.strings; sourceTree = "<group>"; };
+		75DE02451B0EB7BD0027FF08 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		75DE02471B0EB7C80027FF08 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Main.strings; sourceTree = "<group>"; };
+		75DE02491B0EB7C80027FF08 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75DE024B1B0EB7FC0027FF08 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Main.strings; sourceTree = "<group>"; };
+		75DE024D1B0EB7FC0027FF08 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		75DE024F1B0EB8030027FF08 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		75DE02511B0EB8030027FF08 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		75E83CF51B5F997A0038FB70 /* coinflip.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = coinflip.aiff; sourceTree = "<group>"; };
+		75EDC0E71CD92EA90090B838 /* BreadWalletTests-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BreadWalletTests-Bridging-Header.h"; sourceTree = "<group>"; };
+		75F2E0B61BE2D5F000EAE861 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		75F2E0B81BE5596200EAE861 /* secp256k1_ecdh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = secp256k1_ecdh.h; sourceTree = "<group>"; };
+		75F2E0B91BE5596200EAE861 /* secp256k1_recovery.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = secp256k1_recovery.h; sourceTree = "<group>"; };
+		75F2E0BA1BE5596200EAE861 /* secp256k1_schnorr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = secp256k1_schnorr.h; sourceTree = "<group>"; };
+		75F2E0BB1BE5599100EAE861 /* basic-config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "basic-config.h"; sourceTree = "<group>"; };
+		75F2E0BC1BE559AE00EAE861 /* ecmult_const_impl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ecmult_const_impl.h; sourceTree = "<group>"; };
+		75F2E0BD1BE559AE00EAE861 /* ecmult_const.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ecmult_const.h; sourceTree = "<group>"; };
+		75F2E0C01BE559F200EAE861 /* main_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = main_impl.h; sourceTree = "<group>"; };
+		75F2E0C41BE559F200EAE861 /* main_impl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = main_impl.h; sourceTree = "<group>"; };
+		75F2E0D21BE9803900EAE861 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		75F2E0D41BEAA6A400EAE861 /* BRTxMetadataEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRTxMetadataEntity.h; sourceTree = "<group>"; };
+		75F2E0D51BEAA6A400EAE861 /* BRTxMetadataEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRTxMetadataEntity.m; sourceTree = "<group>"; };
+		75F747501BF41A9F006A6BE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/BREventConfirmView.xib; sourceTree = "<group>"; };
+		75F747521BF41AD0006A6BE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/BREventConfirmView.strings; sourceTree = "<group>"; };
+		75FD2FAF1BFAB97000D56BBA /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/BREventConfirmView.strings; sourceTree = "<group>"; };
+		75FD2FB11BFAB97200D56BBA /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/BREventConfirmView.strings; sourceTree = "<group>"; };
+		75FD2FB31BFAB97500D56BBA /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/BREventConfirmView.strings; sourceTree = "<group>"; };
+		75FD2FB51BFAB97A00D56BBA /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/BREventConfirmView.strings; sourceTree = "<group>"; };
+		84F68C881975E9E2002FC300 /* BRScanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRScanViewController.h; sourceTree = "<group>"; };
+		84F68C891975E9E2002FC300 /* BRScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRScanViewController.m; sourceTree = "<group>"; };
+		BA4EECDF1B351AE200D443A3 /* BRAppGroupConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRAppGroupConstants.h; sourceTree = "<group>"; };
+		BA7B534E1BDA9A2800355E8D /* BRAppleWatchData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BRAppleWatchData.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		BA7B534F1BDA9A2800355E8D /* BRAppleWatchData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BRAppleWatchData.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		BA7B53521BDAA0A800355E8D /* BRAppleWatchTransactionData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRAppleWatchTransactionData.h; sourceTree = "<group>"; };
+		BA7B53531BDAA0A800355E8D /* BRAppleWatchTransactionData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRAppleWatchTransactionData.m; sourceTree = "<group>"; };
+		BA7B535A1BDBC36700355E8D /* BRTransaction+Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BRTransaction+Utils.h"; sourceTree = "<group>"; };
+		BA7B535B1BDBC36700355E8D /* BRTransaction+Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "BRTransaction+Utils.m"; sourceTree = "<group>"; };
+		BA7B53651BDBD04F00355E8D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS2.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
+		BA7B53671BDBD07F00355E8D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS2.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		BA7B53691BDBD08A00355E8D /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS2.0.sdk/System/Library/Frameworks/ImageIO.framework; sourceTree = DEVELOPER_DIR; };
+		BAA4843A1B3EFFAF0075C749 /* UIImage+Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Utils.h"; sourceTree = "<group>"; };
+		BAA4843B1B3EFFAF0075C749 /* UIImage+Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Utils.m"; sourceTree = "<group>"; };
+		BAC7B6BC1BD9C29900165B84 /* BRPhoneWCSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BRPhoneWCSessionManager.h; sourceTree = "<group>"; };
+		BAC7B6BD1BD9C29900165B84 /* BRPhoneWCSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BRPhoneWCSessionManager.m; sourceTree = "<group>"; };
+		BAC7B6C81BD9CA8400165B84 /* BRAppleWatchSharedConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BRAppleWatchSharedConstants.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		BAE12BE61B2DEE7F00895CC5 /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5219AAB51D738F8E004BD9C0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		524F39BC1D72267E00F997FB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				524F39C01D72267E00F997FB /* NotificationCenter.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75D5F3BB191EC270004AB296 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				225383011C694D7400968BEE /* CoreLocation.framework in Frameworks */,
+				22D3613D1C56F2CD0057CF76 /* libsqlite3.tbd in Frameworks */,
+				222E7F581C46E9BE009AB45D /* SystemConfiguration.framework in Frameworks */,
+				222E7F561C46E9B8009AB45D /* Security.framework in Frameworks */,
+				222040C61C1A1940005CE1C3 /* WebKit.framework in Frameworks */,
+				22B6A4481C0E963900673913 /* libbz2.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75D5F3E2191EC270004AB296 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		229279961C695C1100C98E78 /* AppRuntime */ = {
+			isa = PBXGroup;
+			children = (
+				5220109E1F3647B000A00D4B /* BRAPIProxy.swift */,
+				5220109F1F3647B000A00D4B /* BRAPIClient.swift */,
+				2292799D1C695D1B00C98E78 /* Utils */,
+				229279971C695C4200C98E78 /* BRHTTPServer.swift */,
+				229279991C695CAE00C98E78 /* BRHTTPFileMiddleware.swift */,
+				220128D81C77B3100001CAC1 /* BRHTTPIndexMiddleware.swift */,
+				2292799B1C695CD600C98E78 /* BRHTTPRouter.swift */,
+				220128D41C76E1550001CAC1 /* BRWebSocket.swift */,
+				229279A61C6960B200C98E78 /* HTTP Plugins */,
+				222040C31C1A0903005CE1C3 /* BRWebViewController.swift */,
+			);
+			name = AppRuntime;
+			sourceTree = "<group>";
+		};
+		2292799D1C695D1B00C98E78 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				229279A21C695DB300C98E78 /* BRKeychain.swift */,
+				22BF17461CDF831800AA41C6 /* Extensions.swift */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+		229279A61C6960B200C98E78 /* HTTP Plugins */ = {
+			isa = PBXGroup;
+			children = (
+				229279A71C6960FC00C98E78 /* BRGeoLocationPlugin.swift */,
+				220128D61C76E4F30001CAC1 /* BRWalletPlugin.swift */,
+				22005B951C9276AF00F87733 /* BRLinkPlugin.swift */,
+			);
+			name = "HTTP Plugins";
+			sourceTree = "<group>";
+		};
+		5219AAAD1D738F8E004BD9C0 /* WatchApp */ = {
+			isa = PBXGroup;
+			children = (
+				52AD8B491F41FB1600D70424 /* WatchApp.entitlements */,
+				5219AAAE1D738F8E004BD9C0 /* Interface.storyboard */,
+				5219AAB11D738F8E004BD9C0 /* Assets.xcassets */,
+				5219AAB31D738F8E004BD9C0 /* Info.plist */,
+			);
+			path = WatchApp;
+			sourceTree = "<group>";
+		};
+		5219AABC1D738F8E004BD9C0 /* WatchApp Extension */ = {
+			isa = PBXGroup;
+			children = (
+				52AD8B4A1F41FB2200D70424 /* WatchApp Extension.entitlements */,
+				5219AAE91D73B2B1004BD9C0 /* WatchApp Extension-Bridging-Header.h */,
+				5219AABF1D738F8E004BD9C0 /* InterfaceController.swift */,
+				5219AAE71D73B23A004BD9C0 /* BRAWWatchDataManager.swift */,
+				5219AAEB1D73B2CB004BD9C0 /* BRAWBalanceInterfaceController.swift */,
+				5219AAED1D73B2CB004BD9C0 /* BRAWKeypad.swift */,
+				5219AAEE1D73B2CB004BD9C0 /* BRAWReceiveMoneyInterfaceController.swift */,
+				5219AAEF1D73B2CB004BD9C0 /* BRAWTransactionRowControl.swift */,
+				5219AAF01D73B2CB004BD9C0 /* BRAWWeakTimerTarget.swift */,
+				5219AAC11D738F8E004BD9C0 /* ExtensionDelegate.swift */,
+				5219AAC31D738F8E004BD9C0 /* NotificationController.swift */,
+				5219AAC51D738F8E004BD9C0 /* GlanceController.swift */,
+				5219AAC71D738F8E004BD9C0 /* ComplicationController.swift */,
+				5219AAC91D738F8E004BD9C0 /* Assets.xcassets */,
+				5219AACB1D738F8E004BD9C0 /* Info.plist */,
+				5219AABD1D738F8E004BD9C0 /* Supporting Files */,
+			);
+			path = "WatchApp Extension";
+			sourceTree = "<group>";
+		};
+		5219AABD1D738F8E004BD9C0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5219AABE1D738F8E004BD9C0 /* PushNotificationPayload.apns */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		524F39C11D72267E00F997FB /* TodayExtension */ = {
+			isa = PBXGroup;
+			children = (
+				52155B061D727BB000E85452 /* TodayExtension.entitlements */,
+				524F39D91D722A6D00F997FB /* BRTodayViewController.m */,
+				524F39DA1D722A6D00F997FB /* BRTodayViewController.h */,
+				524F39C51D72267E00F997FB /* MainInterface.storyboard */,
+				524F39D21D72275100F997FB /* Media.xcassets */,
+				524F39C81D72267E00F997FB /* Info.plist */,
+			);
+			path = TodayExtension;
+			sourceTree = "<group>";
+		};
+		752E289B19234A3F00DB5A3C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7525B617192453840041C0F2 /* BRNavigationBar.h */,
+				7525B618192453840041C0F2 /* BRNavigationBar.m */,
+				759816E519357D6F005060EA /* BRBubbleView.h */,
+				759816E619357D6F005060EA /* BRBubbleView.m */,
+				75AA5F53194143D5003F23BD /* BRBouncyBurgerButton.h */,
+				75AA5F54194143D5003F23BD /* BRBouncyBurgerButton.m */,
+				7548CF3519556FD700EF827F /* BRCopyLabel.h */,
+				7548CF3619556FD700EF827F /* BRCopyLabel.m */,
+				755FC9EF1BF1DF1B00164ABB /* BREventConfirmView.xib */,
+				220460531BA0BEEE00D07B61 /* BREventConfirmView.h */,
+				220460541BA0BEEE00D07B61 /* BREventConfirmView.m */,
+				22F45A0C1C3326CC00B07A15 /* BRUserDefaultsSwitchCell.h */,
+				22F45A0D1C3326CC00B07A15 /* BRUserDefaultsSwitchCell.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		752E289C19234A4700DB5A3C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				752E289D19234A4E00DB5A3C /* Entities */,
+				752E28B619234C3600DB5A3C /* BRKey.h */,
+				752E28B719234C3600DB5A3C /* BRKey.m */,
+				752E28B819234C3600DB5A3C /* BRKey+BIP38.h */,
+				752E28B919234C3600DB5A3C /* BRKey+BIP38.m */,
+				752E28C819234C3600DB5A3C /* BRTransaction.h */,
+				752E28C919234C3600DB5A3C /* BRTransaction.m */,
+				752E28BA19234C3600DB5A3C /* BRKeySequence.h */,
+				752E28DC19234D1000DB5A3C /* BRBIP32Sequence.h */,
+				752E28B119234C3600DB5A3C /* BRBIP32Sequence.m */,
+				752E28BD19234C3600DB5A3C /* BRMnemonic.h */,
+				752E28B219234C3600DB5A3C /* BRBIP39Mnemonic.h */,
+				752E28B319234C3600DB5A3C /* BRBIP39Mnemonic.m */,
+				752E28CA19234C3600DB5A3C /* BRWallet.h */,
+				752E28CB19234C3600DB5A3C /* BRWallet.m */,
+				752E28CC19234C3600DB5A3C /* BRWalletManager.h */,
+				752E28CD19234C3600DB5A3C /* BRWalletManager.m */,
+				752E28BB19234C3600DB5A3C /* BRMerkleBlock.h */,
+				752E28BC19234C3600DB5A3C /* BRMerkleBlock.m */,
+				752E28B419234C3600DB5A3C /* BRBloomFilter.h */,
+				752E28B519234C3600DB5A3C /* BRBloomFilter.m */,
+				752E28C219234C3600DB5A3C /* BRPeer.h */,
+				752E28C319234C3600DB5A3C /* BRPeer.m */,
+				752E28C619234C3600DB5A3C /* BRPeerManager.h */,
+				752E28C719234C3600DB5A3C /* BRPeerManager.m */,
+				752E28BE19234C3600DB5A3C /* BRPaymentProtocol.h */,
+				752E28BF19234C3600DB5A3C /* BRPaymentProtocol.m */,
+				752E28C019234C3600DB5A3C /* BRPaymentRequest.h */,
+				752E28C119234C3600DB5A3C /* BRPaymentRequest.m */,
+				2204604C1B9F61E600D07B61 /* BREventManager.h */,
+				2204604D1B9F61E600D07B61 /* BREventManager.m */,
+				229279961C695C1100C98E78 /* AppRuntime */,
+				22FF2C361BED381400B36384 /* breadwallet-Bridging-Header.h */,
+				220128D11C753C670001CAC1 /* BRSocketHelpers.c */,
+				220128D21C753C670001CAC1 /* BRSocketHelpers.h */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		752E289D19234A4E00DB5A3C /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				752E289E19234AE300DB5A3C /* BRAddressEntity.h */,
+				752E289F19234AE300DB5A3C /* BRAddressEntity.m */,
+				752E28A019234AE300DB5A3C /* BRMerkleBlockEntity.h */,
+				752E28A119234AE300DB5A3C /* BRMerkleBlockEntity.m */,
+				752E28A219234AE300DB5A3C /* BRPeerEntity.h */,
+				752E28A319234AE300DB5A3C /* BRPeerEntity.m */,
+				752E28A419234AE300DB5A3C /* BRTransactionEntity.h */,
+				752E28A519234AE300DB5A3C /* BRTransactionEntity.m */,
+				752E28A619234AE300DB5A3C /* BRTxInputEntity.h */,
+				752E28A719234AE300DB5A3C /* BRTxInputEntity.m */,
+				752E28A819234AE300DB5A3C /* BRTxOutputEntity.h */,
+				752E28A919234AE300DB5A3C /* BRTxOutputEntity.m */,
+				75F2E0D41BEAA6A400EAE861 /* BRTxMetadataEntity.h */,
+				75F2E0D51BEAA6A400EAE861 /* BRTxMetadataEntity.m */,
+			);
+			name = Entities;
+			sourceTree = "<group>";
+		};
+		752E28B019234B0500DB5A3C /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				5207A78F1D5FFFE70076EEE9 /* UIImage+Utility.m */,
+				5207A7901D5FFFE70076EEE9 /* UIImage+Utility.h */,
+				752E28E519234DA200DB5A3C /* NSString+Bitcoin.h */,
+				752E28E619234DA200DB5A3C /* NSString+Bitcoin.m */,
+				752E28DD19234DA200DB5A3C /* NSData+Bitcoin.h */,
+				752E28DE19234DA200DB5A3C /* NSData+Bitcoin.m */,
+				752E28E319234DA200DB5A3C /* NSMutableData+Bitcoin.h */,
+				752E28E419234DA200DB5A3C /* NSMutableData+Bitcoin.m */,
+				752E28E119234DA200DB5A3C /* NSManagedObject+Sugar.h */,
+				752E28E219234DA200DB5A3C /* NSManagedObject+Sugar.m */,
+				BAA4843A1B3EFFAF0075C749 /* UIImage+Utils.h */,
+				BAA4843B1B3EFFAF0075C749 /* UIImage+Utils.m */,
+				BA7B535A1BDBC36700355E8D /* BRTransaction+Utils.h */,
+				BA7B535B1BDBC36700355E8D /* BRTransaction+Utils.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		754119E11CDA97820042DC51 /* schnorr */ = {
+			isa = PBXGroup;
+			children = (
+				754119E21CDA97820042DC51 /* main_impl.h */,
+				754119E41CDA97820042DC51 /* schnorr.h */,
+				754119E51CDA97820042DC51 /* schnorr_impl.h */,
+			);
+			path = schnorr;
+			sourceTree = "<group>";
+		};
+		7579F7FE19231D4600CA56F4 /* ThirdParty */ = {
+			isa = PBXGroup;
+			children = (
+				752E28EF19234E8100DB5A3C /* Reachability.h */,
+				752E28F019234E8100DB5A3C /* Reachability.m */,
+				758B161A1AA9ADC4002C65DD /* secp256k1 */,
+			);
+			name = ThirdParty;
+			sourceTree = "<group>";
+		};
+		758B161A1AA9ADC4002C65DD /* secp256k1 */ = {
+			isa = PBXGroup;
+			children = (
+				758B16231AA9ADC4002C65DD /* include */,
+				758B162A1AA9ADC4002C65DD /* src */,
+			);
+			path = secp256k1;
+			sourceTree = SOURCE_ROOT;
+		};
+		758B16231AA9ADC4002C65DD /* include */ = {
+			isa = PBXGroup;
+			children = (
+				758B16241AA9ADC4002C65DD /* secp256k1.h */,
+				75F2E0B81BE5596200EAE861 /* secp256k1_ecdh.h */,
+				75F2E0B91BE5596200EAE861 /* secp256k1_recovery.h */,
+				75F2E0BA1BE5596200EAE861 /* secp256k1_schnorr.h */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		758B162A1AA9ADC4002C65DD /* src */ = {
+			isa = PBXGroup;
+			children = (
+				75F2E0BB1BE5599100EAE861 /* basic-config.h */,
+				758B16301AA9ADC4002C65DD /* ecdsa.h */,
+				758B16311AA9ADC4002C65DD /* ecdsa_impl.h */,
+				758B16321AA9ADC4002C65DD /* eckey.h */,
+				758B16331AA9ADC4002C65DD /* eckey_impl.h */,
+				758B16341AA9ADC4002C65DD /* ecmult.h */,
+				75F2E0BD1BE559AE00EAE861 /* ecmult_const.h */,
+				75F2E0BC1BE559AE00EAE861 /* ecmult_const_impl.h */,
+				758B16351AA9ADC4002C65DD /* ecmult_gen.h */,
+				758B16361AA9ADC4002C65DD /* ecmult_gen_impl.h */,
+				758B16371AA9ADC4002C65DD /* ecmult_impl.h */,
+				758B16381AA9ADC4002C65DD /* field.h */,
+				758B16391AA9ADC4002C65DD /* field_10x26.h */,
+				758B163A1AA9ADC4002C65DD /* field_10x26_impl.h */,
+				758B163F1AA9ADC4002C65DD /* field_impl.h */,
+				758B16401AA9ADC4002C65DD /* group.h */,
+				758B16411AA9ADC4002C65DD /* group_impl.h */,
+				758B16421AA9ADC4002C65DD /* hash.h */,
+				758B16431AA9ADC4002C65DD /* hash_impl.h */,
+				75F2E0BE1BE559F200EAE861 /* modules */,
+				758B164A1AA9ADC4002C65DD /* num.h */,
+				758B164D1AA9ADC4002C65DD /* num_impl.h */,
+				758B164E1AA9ADC4002C65DD /* scalar.h */,
+				758B16511AA9ADC4002C65DD /* scalar_8x32.h */,
+				758B16521AA9ADC4002C65DD /* scalar_8x32_impl.h */,
+				758B16531AA9ADC4002C65DD /* scalar_impl.h */,
+				758B16541AA9ADC4002C65DD /* secp256k1.c */,
+				758B16581AA9ADC4002C65DD /* util.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		75BA5D02192296010040304C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				759FBB32193290F600AB4465 /* BRRootViewController.h */,
+				759FBB33193290F600AB4465 /* BRRootViewController.m */,
+				759FBB34193290F600AB4465 /* BRSendViewController.h */,
+				759FBB35193290F600AB4465 /* BRSendViewController.m */,
+				759FBB31193290F600AB4465 /* BRReceiveViewController.h */,
+				75878BC0192AEC3F002505AB /* BRReceiveViewController.m */,
+				84F68C881975E9E2002FC300 /* BRScanViewController.h */,
+				84F68C891975E9E2002FC300 /* BRScanViewController.m */,
+				75878BBD192ACD46002505AB /* BRAmountViewController.h */,
+				75878BBE192ACD46002505AB /* BRAmountViewController.m */,
+				75878BC4192B1AF0002505AB /* BRTxHistoryViewController.h */,
+				751B2B5B1B68911700EA87FB /* BRTxHistoryViewController.m */,
+				757C89501A2FCE420076B373 /* BRSettingsViewController.h */,
+				757C89511A2FCE420076B373 /* BRSettingsViewController.m */,
+				758DBD0C1980634900389E2A /* BRTxDetailViewController.h */,
+				758DBD0D1980634900389E2A /* BRTxDetailViewController.m */,
+				757BE7E4192C1FF70061CB20 /* BRWelcomeViewController.h */,
+				757BE7E5192C1FF70061CB20 /* BRWelcomeViewController.m */,
+				757BE7E1192C0E9D0061CB20 /* BRRestoreViewController.h */,
+				757BE7E2192C0E9D0061CB20 /* BRRestoreViewController.m */,
+				757BE7E7192D4E880061CB20 /* BRSeedViewController.h */,
+				757BE7E8192D4E880061CB20 /* BRSeedViewController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		75D5F3B5191EC270004AB296 = {
+			isa = PBXGroup;
+			children = (
+				5219AAF81D73B40F004BD9C0 /* maza-Bridging-Header.h */,
+				52569C9E1D71F266001E629E /* BRWalletConstants.m */,
+				52D30AEA1D71319900E8DF36 /* maza.entitlements */,
+				75D5F3C7191EC270004AB296 /* BreadWallet */,
+				75D5F3EC191EC270004AB296 /* BreadWalletTests */,
+				524F39C11D72267E00F997FB /* TodayExtension */,
+				5219AAAD1D738F8E004BD9C0 /* WatchApp */,
+				5219AABC1D738F8E004BD9C0 /* WatchApp Extension */,
+				75D5F3C0191EC270004AB296 /* Frameworks */,
+				75D5F3BF191EC270004AB296 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		75D5F3BF191EC270004AB296 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				75D5F3BE191EC270004AB296 /* maza.app */,
+				75D5F3E5191EC270004AB296 /* MazaTests.xctest */,
+				524F39BF1D72267E00F997FB /* TodayExtension.appex */,
+				5219AAAC1D738F8D004BD9C0 /* WatchApp.app */,
+				5219AAB81D738F8E004BD9C0 /* WatchApp Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		75D5F3C0191EC270004AB296 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				225383001C694D7400968BEE /* CoreLocation.framework */,
+				22D3613C1C56F2CD0057CF76 /* libsqlite3.tbd */,
+				222E7F571C46E9BE009AB45D /* SystemConfiguration.framework */,
+				222E7F551C46E9B8009AB45D /* Security.framework */,
+				222040C51C1A1940005CE1C3 /* WebKit.framework */,
+				22B6A4471C0E963900673913 /* libbz2.tbd */,
+				75F2E0B61BE2D5F000EAE861 /* Accelerate.framework */,
+				BA7B53691BDBD08A00355E8D /* ImageIO.framework */,
+				BA7B53671BDBD07F00355E8D /* UIKit.framework */,
+				BA7B53651BDBD04F00355E8D /* CoreGraphics.framework */,
+				BAE12BE61B2DEE7F00895CC5 /* NotificationCenter.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		75D5F3C7191EC270004AB296 /* BreadWallet */ = {
+			isa = PBXGroup;
+			children = (
+				BAC7B6BF1BD9C2B500165B84 /* AppleWatch */,
+				752E289C19234A4700DB5A3C /* Models */,
+				752E289B19234A3F00DB5A3C /* Views */,
+				75BA5D02192296010040304C /* Controllers */,
+				752E28B019234B0500DB5A3C /* Categories */,
+				75D5F3D0191EC270004AB296 /* BRAppDelegate.h */,
+				75D5F3D1191EC270004AB296 /* BRAppDelegate.m */,
+				BA4EECDF1B351AE200D443A3 /* BRAppGroupConstants.h */,
+				22F45A0F1C3329EB00B07A15 /* BRUserDefaultsConstants.h */,
+				75D5F3DF191EC270004AB296 /* Images.xcassets */,
+				52AD8B4B1F43953B00D70424 /* FixedPeers.plist */,
+				75D5F3DC191EC270004AB296 /* Main.storyboard */,
+				75F2E0D21BE9803900EAE861 /* Launch Screen.storyboard */,
+				752E2898192349CE00DB5A3C /* BreadWallet.xcdatamodeld */,
+				75C0E3C11B1BA294007BC531 /* BIP39Words.plist */,
+				75E83CF51B5F997A0038FB70 /* coinflip.aiff */,
+				7579F7FE19231D4600CA56F4 /* ThirdParty */,
+				75D5F3C8191EC270004AB296 /* Supporting Files */,
+			);
+			path = BreadWallet;
+			sourceTree = "<group>";
+		};
+		75D5F3C8191EC270004AB296 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				75D5F3C9191EC270004AB296 /* Info.plist */,
+				757E09971ADB8EEB006FD352 /* Localizable.strings */,
+				75D5F3CD191EC270004AB296 /* main.m */,
+				529A9F1E1D7B6F1800B9663C /* Maza-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		75D5F3EC191EC270004AB296 /* BreadWalletTests */ = {
+			isa = PBXGroup;
+			children = (
+				75D5F3F2191EC270004AB296 /* BreadWalletTests.m */,
+				75CE50B51B5216F100DBC18C /* Info.plist */,
+				75EDC0E71CD92EA90090B838 /* BreadWalletTests-Bridging-Header.h */,
+			);
+			path = BreadWalletTests;
+			sourceTree = "<group>";
+		};
+		75F2E0BE1BE559F200EAE861 /* modules */ = {
+			isa = PBXGroup;
+			children = (
+				75F2E0BF1BE559F200EAE861 /* ecdh */,
+				75F2E0C31BE559F200EAE861 /* recovery */,
+				754119E11CDA97820042DC51 /* schnorr */,
+			);
+			path = modules;
+			sourceTree = "<group>";
+		};
+		75F2E0BF1BE559F200EAE861 /* ecdh */ = {
+			isa = PBXGroup;
+			children = (
+				75F2E0C01BE559F200EAE861 /* main_impl.h */,
+			);
+			path = ecdh;
+			sourceTree = "<group>";
+		};
+		75F2E0C31BE559F200EAE861 /* recovery */ = {
+			isa = PBXGroup;
+			children = (
+				75F2E0C41BE559F200EAE861 /* main_impl.h */,
+			);
+			path = recovery;
+			sourceTree = "<group>";
+		};
+		BAC7B6BF1BD9C2B500165B84 /* AppleWatch */ = {
+			isa = PBXGroup;
+			children = (
+				BAC7B6C81BD9CA8400165B84 /* BRAppleWatchSharedConstants.h */,
+				BAC7B6BC1BD9C29900165B84 /* BRPhoneWCSessionManager.h */,
+				BAC7B6BD1BD9C29900165B84 /* BRPhoneWCSessionManager.m */,
+				BA7B534E1BDA9A2800355E8D /* BRAppleWatchData.h */,
+				BA7B534F1BDA9A2800355E8D /* BRAppleWatchData.m */,
+				BA7B53521BDAA0A800355E8D /* BRAppleWatchTransactionData.h */,
+				BA7B53531BDAA0A800355E8D /* BRAppleWatchTransactionData.m */,
+			);
+			name = AppleWatch;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		75001D3D1A1EE89500585F55 /* submodules */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-c 'git submodule init && git submodule update'";
+			buildConfigurationList = 75001D3E1A1EE89500585F55 /* Build configuration list for PBXLegacyTarget "submodules" */;
+			buildPhases = (
+			);
+			buildToolPath = /bin/sh;
+			buildWorkingDirectory = "";
+			dependencies = (
+			);
+			name = submodules;
+			passBuildSettingsInEnvironment = 1;
+			productName = submodules;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXNativeTarget section */
+		5219AAAB1D738F8D004BD9C0 /* WatchApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5219AAD31D738F8E004BD9C0 /* Build configuration list for PBXNativeTarget "WatchApp" */;
+			buildPhases = (
+				5219AAAA1D738F8D004BD9C0 /* Resources */,
+				5219AAD21D738F8E004BD9C0 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5219AABB1D738F8E004BD9C0 /* PBXTargetDependency */,
+			);
+			name = WatchApp;
+			productName = WatchApp;
+			productReference = 5219AAAC1D738F8D004BD9C0 /* WatchApp.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		5219AAB71D738F8E004BD9C0 /* WatchApp Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5219AACF1D738F8E004BD9C0 /* Build configuration list for PBXNativeTarget "WatchApp Extension" */;
+			buildPhases = (
+				5219AAB41D738F8E004BD9C0 /* Sources */,
+				5219AAB51D738F8E004BD9C0 /* Frameworks */,
+				5219AAB61D738F8E004BD9C0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WatchApp Extension";
+			productName = "WatchApp Extension";
+			productReference = 5219AAB81D738F8E004BD9C0 /* WatchApp Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
+		};
+		524F39BE1D72267E00F997FB /* TodayExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 524F39CC1D72267E00F997FB /* Build configuration list for PBXNativeTarget "TodayExtension" */;
+			buildPhases = (
+				524F39BB1D72267E00F997FB /* Sources */,
+				524F39BC1D72267E00F997FB /* Frameworks */,
+				524F39BD1D72267E00F997FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TodayExtension;
+			productName = TodayExtension;
+			productReference = 524F39BF1D72267E00F997FB /* TodayExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		75D5F3BD191EC270004AB296 /* maza */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75D5F3F6191EC270004AB296 /* Build configuration list for PBXNativeTarget "maza" */;
+			buildPhases = (
+				75D5F3BA191EC270004AB296 /* Sources */,
+				75D5F3BB191EC270004AB296 /* Frameworks */,
+				75D5F3BC191EC270004AB296 /* Resources */,
+				BAE12BF71B2DEE7F00895CC5 /* Embed App Extensions */,
+				BA913C021BD57E4E005A7C0E /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				757FC2531ADA30D100A1FDF7 /* PBXTargetDependency */,
+				524F39CA1D72267E00F997FB /* PBXTargetDependency */,
+				5219AACD1D738F8E004BD9C0 /* PBXTargetDependency */,
+			);
+			name = maza;
+			productName = BreadWallet;
+			productReference = 75D5F3BE191EC270004AB296 /* maza.app */;
+			productType = "com.apple.product-type.application";
+		};
+		75D5F3E4191EC270004AB296 /* MazaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75D5F3F9191EC270004AB296 /* Build configuration list for PBXNativeTarget "MazaTests" */;
+			buildPhases = (
+				75D5F3E1191EC270004AB296 /* Sources */,
+				75D5F3E2191EC270004AB296 /* Frameworks */,
+				75D5F3E3191EC270004AB296 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				75D5F3EB191EC270004AB296 /* PBXTargetDependency */,
+			);
+			name = MazaTests;
+			productName = BreadWalletTests;
+			productReference = 75D5F3E5191EC270004AB296 /* MazaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		75D5F3B6191EC270004AB296 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = BR;
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Aaron Voisine";
+				TargetAttributes = {
+					5219AAAB1D738F8D004BD9C0 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 3EHNCSDX9Y;
+						LastSwiftMigration = 0830;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					5219AAB71D738F8E004BD9C0 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 3EHNCSDX9Y;
+						LastSwiftMigration = 0830;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					524F39BE1D72267E00F997FB = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 3EHNCSDX9Y;
+						LastSwiftMigration = 0830;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					75001D3D1A1EE89500585F55 = {
+						CreatedOnToolsVersion = 6.1;
+						LastSwiftMigration = 0830;
+					};
+					75D5F3BD191EC270004AB296 = {
+						DevelopmentTeam = 3EHNCSDX9Y;
+						LastSwiftMigration = 0830;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.DataProtection = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+					75D5F3E4191EC270004AB296 = {
+						DevelopmentTeam = 3EHNCSDX9Y;
+						LastSwiftMigration = 0830;
+						TestTargetID = 75D5F3BD191EC270004AB296;
+					};
+				};
+			};
+			buildConfigurationList = 75D5F3B9191EC270004AB296 /* Build configuration list for PBXProject "Maza" */;
+			compatibilityVersion = "Xcode 6.3";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				fr,
+				ja,
+				ko,
+				nb,
+				sq,
+				nl,
+				da,
+				de,
+				hu,
+				"zh-Hans",
+				es,
+				it,
+				sv,
+				tr,
+				pl,
+				ru,
+				el,
+				pt,
+			);
+			mainGroup = 75D5F3B5191EC270004AB296;
+			productRefGroup = 75D5F3BF191EC270004AB296 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				75D5F3BD191EC270004AB296 /* maza */,
+				75D5F3E4191EC270004AB296 /* MazaTests */,
+				75001D3D1A1EE89500585F55 /* submodules */,
+				524F39BE1D72267E00F997FB /* TodayExtension */,
+				5219AAAB1D738F8D004BD9C0 /* WatchApp */,
+				5219AAB71D738F8E004BD9C0 /* WatchApp Extension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5219AAAA1D738F8D004BD9C0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5219AAB21D738F8E004BD9C0 /* Assets.xcassets in Resources */,
+				5219AAB01D738F8E004BD9C0 /* Interface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5219AAB61D738F8E004BD9C0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5219AACA1D738F8E004BD9C0 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		524F39BD1D72267E00F997FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				524F39D41D72278000F997FB /* Images.xcassets in Resources */,
+				524F39D31D72275100F997FB /* Media.xcassets in Resources */,
+				524F39C71D72267E00F997FB /* MainInterface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75D5F3BC191EC270004AB296 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75D5F3E0191EC270004AB296 /* Images.xcassets in Resources */,
+				52AD8B4C1F43953B00D70424 /* FixedPeers.plist in Resources */,
+				757E09991ADB8EEB006FD352 /* Localizable.strings in Resources */,
+				75F2E0D31BE9803900EAE861 /* Launch Screen.storyboard in Resources */,
+				75C0E3BF1B1BA294007BC531 /* BIP39Words.plist in Resources */,
+				75E83CF61B5F997A0038FB70 /* coinflip.aiff in Resources */,
+				755FC9ED1BF1DF1B00164ABB /* BREventConfirmView.xib in Resources */,
+				75D5F3DE191EC270004AB296 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75D5F3E3191EC270004AB296 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5219AAB41D738F8E004BD9C0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5219AAFA1D73B4D2004BD9C0 /* BRAppleWatchTransactionData.m in Sources */,
+				5219AAF91D73B4AB004BD9C0 /* BRAppleWatchData.m in Sources */,
+				5219AAC41D738F8E004BD9C0 /* NotificationController.swift in Sources */,
+				5219AAF71D73B2CB004BD9C0 /* BRAWWeakTimerTarget.swift in Sources */,
+				5219AAE81D73B23A004BD9C0 /* BRAWWatchDataManager.swift in Sources */,
+				5219AAC21D738F8E004BD9C0 /* ExtensionDelegate.swift in Sources */,
+				5219AAC81D738F8E004BD9C0 /* ComplicationController.swift in Sources */,
+				5219AAF61D73B2CB004BD9C0 /* BRAWTransactionRowControl.swift in Sources */,
+				5219AAF41D73B2CB004BD9C0 /* BRAWKeypad.swift in Sources */,
+				5219AAF51D73B2CB004BD9C0 /* BRAWReceiveMoneyInterfaceController.swift in Sources */,
+				5219AAC01D738F8E004BD9C0 /* InterfaceController.swift in Sources */,
+				5219AAF21D73B2CB004BD9C0 /* BRAWBalanceInterfaceController.swift in Sources */,
+				5219AAC61D738F8E004BD9C0 /* GlanceController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		524F39BB1D72267E00F997FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				524F39D81D7227B000F997FB /* UIImage+Utility.m in Sources */,
+				524F39D71D7227A800F997FB /* BREventManager.m in Sources */,
+				524F39DB1D722A6D00F997FB /* BRTodayViewController.m in Sources */,
+				524F39D61D72278E00F997FB /* BRBubbleView.m in Sources */,
+				524F39D51D72278700F997FB /* BRWalletConstants.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75D5F3BA191EC270004AB296 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22F04A001C9714EF00F137D8 /* BRUserDefaultsSwitchCell.m in Sources */,
+				752E28AA19234AE300DB5A3C /* BRAddressEntity.m in Sources */,
+				75AA5F55194143D5003F23BD /* BRBouncyBurgerButton.m in Sources */,
+				752E28AB19234AE300DB5A3C /* BRMerkleBlockEntity.m in Sources */,
+				2292799A1C695CAE00C98E78 /* BRHTTPFileMiddleware.swift in Sources */,
+				BA7B53501BDA9A2800355E8D /* BRAppleWatchData.m in Sources */,
+				752E28AC19234AE300DB5A3C /* BRPeerEntity.m in Sources */,
+				752E28AD19234AE300DB5A3C /* BRTransactionEntity.m in Sources */,
+				752E28AE19234AE300DB5A3C /* BRTxInputEntity.m in Sources */,
+				752E28AF19234AE300DB5A3C /* BRTxOutputEntity.m in Sources */,
+				BAA4843C1B3EFFAF0075C749 /* UIImage+Utils.m in Sources */,
+				229279A81C6960FC00C98E78 /* BRGeoLocationPlugin.swift in Sources */,
+				BA7B535C1BDBC36700355E8D /* BRTransaction+Utils.m in Sources */,
+				758DBD0E1980634900389E2A /* BRTxDetailViewController.m in Sources */,
+				522010A01F3647B000A00D4B /* BRAPIProxy.swift in Sources */,
+				7548CF3719556FD700EF827F /* BRCopyLabel.m in Sources */,
+				752E28D119234C3600DB5A3C /* BRKey.m in Sources */,
+				84F68C8A1975E9E2002FC300 /* BRScanViewController.m in Sources */,
+				522010A11F3647B000A00D4B /* BRAPIClient.swift in Sources */,
+				2204604E1B9F61E600D07B61 /* BREventManager.m in Sources */,
+				752E28D219234C3600DB5A3C /* BRKey+BIP38.m in Sources */,
+				220128D71C76E4F30001CAC1 /* BRWalletPlugin.swift in Sources */,
+				220460551BA0BEEE00D07B61 /* BREventConfirmView.m in Sources */,
+				752E28D919234C3600DB5A3C /* BRTransaction.m in Sources */,
+				752E28CE19234C3600DB5A3C /* BRBIP32Sequence.m in Sources */,
+				BAC7B6BE1BD9C29900165B84 /* BRPhoneWCSessionManager.m in Sources */,
+				752E28CF19234C3600DB5A3C /* BRBIP39Mnemonic.m in Sources */,
+				752E28DA19234C3600DB5A3C /* BRWallet.m in Sources */,
+				229279A31C695DB300C98E78 /* BRKeychain.swift in Sources */,
+				229279981C695C4200C98E78 /* BRHTTPServer.swift in Sources */,
+				22BF17471CDF831800AA41C6 /* Extensions.swift in Sources */,
+				220128D91C77B3100001CAC1 /* BRHTTPIndexMiddleware.swift in Sources */,
+				752E28DB19234C3600DB5A3C /* BRWalletManager.m in Sources */,
+				752E28D319234C3600DB5A3C /* BRMerkleBlock.m in Sources */,
+				222040C41C1A0903005CE1C3 /* BRWebViewController.swift in Sources */,
+				752E28D019234C3600DB5A3C /* BRBloomFilter.m in Sources */,
+				752E28D619234C3600DB5A3C /* BRPeer.m in Sources */,
+				752E28D819234C3600DB5A3C /* BRPeerManager.m in Sources */,
+				752E28D419234C3600DB5A3C /* BRPaymentProtocol.m in Sources */,
+				22005B961C9276AF00F87733 /* BRLinkPlugin.swift in Sources */,
+				752E28D519234C3600DB5A3C /* BRPaymentRequest.m in Sources */,
+				7525B619192453840041C0F2 /* BRNavigationBar.m in Sources */,
+				2292799C1C695CD600C98E78 /* BRHTTPRouter.swift in Sources */,
+				75F2E0D61BEAA6A400EAE861 /* BRTxMetadataEntity.m in Sources */,
+				5207A7921D5FFFE70076EEE9 /* UIImage+Utility.m in Sources */,
+				75878BC1192AEC3F002505AB /* BRReceiveViewController.m in Sources */,
+				75878BBF192ACD46002505AB /* BRAmountViewController.m in Sources */,
+				759816E719357D6F005060EA /* BRBubbleView.m in Sources */,
+				757BE7E3192C0E9D0061CB20 /* BRRestoreViewController.m in Sources */,
+				757BE7E6192C1FF70061CB20 /* BRWelcomeViewController.m in Sources */,
+				757BE7E9192D4E880061CB20 /* BRSeedViewController.m in Sources */,
+				752E28E719234DA200DB5A3C /* NSData+Bitcoin.m in Sources */,
+				220128D31C753C670001CAC1 /* BRSocketHelpers.c in Sources */,
+				752E28E919234DA200DB5A3C /* NSManagedObject+Sugar.m in Sources */,
+				BA7B53541BDAA0A800355E8D /* BRAppleWatchTransactionData.m in Sources */,
+				751B2B5C1B68911700EA87FB /* BRTxHistoryViewController.m in Sources */,
+				752E28EA19234DA200DB5A3C /* NSMutableData+Bitcoin.m in Sources */,
+				752E28EB19234DA200DB5A3C /* NSString+Bitcoin.m in Sources */,
+				757C89521A2FCE420076B373 /* BRSettingsViewController.m in Sources */,
+				220128D51C76E1550001CAC1 /* BRWebSocket.swift in Sources */,
+				75D5F3D2191EC270004AB296 /* BRAppDelegate.m in Sources */,
+				759FBB36193290F600AB4465 /* BRRootViewController.m in Sources */,
+				752E289A192349CE00DB5A3C /* BreadWallet.xcdatamodeld in Sources */,
+				759FBB37193290F600AB4465 /* BRSendViewController.m in Sources */,
+				752E28F119234E8100DB5A3C /* Reachability.m in Sources */,
+				75D5F3CE191EC270004AB296 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75D5F3E1191EC270004AB296 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75D5F3F3191EC270004AB296 /* BreadWalletTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5219AABB1D738F8E004BD9C0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5219AAB71D738F8E004BD9C0 /* WatchApp Extension */;
+			targetProxy = 5219AABA1D738F8E004BD9C0 /* PBXContainerItemProxy */;
+		};
+		5219AACD1D738F8E004BD9C0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5219AAAB1D738F8D004BD9C0 /* WatchApp */;
+			targetProxy = 5219AACC1D738F8E004BD9C0 /* PBXContainerItemProxy */;
+		};
+		524F39CA1D72267E00F997FB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 524F39BE1D72267E00F997FB /* TodayExtension */;
+			targetProxy = 524F39C91D72267E00F997FB /* PBXContainerItemProxy */;
+		};
+		757FC2531ADA30D100A1FDF7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 75001D3D1A1EE89500585F55 /* submodules */;
+			targetProxy = 757FC2521ADA30D100A1FDF7 /* PBXContainerItemProxy */;
+		};
+		75D5F3EB191EC270004AB296 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 75D5F3BD191EC270004AB296 /* maza */;
+			targetProxy = 75D5F3EA191EC270004AB296 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		5219AAAE1D738F8E004BD9C0 /* Interface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5219AAAF1D738F8E004BD9C0 /* Base */,
+			);
+			name = Interface.storyboard;
+			sourceTree = "<group>";
+		};
+		524F39C51D72267E00F997FB /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				524F39C61D72267E00F997FB /* Base */,
+			);
+			name = MainInterface.storyboard;
+			sourceTree = "<group>";
+		};
+		755FC9EF1BF1DF1B00164ABB /* BREventConfirmView.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				75F747501BF41A9F006A6BE8 /* Base */,
+				75F747521BF41AD0006A6BE8 /* en */,
+				75FD2FAF1BFAB97000D56BBA /* fr */,
+				75FD2FB11BFAB97200D56BBA /* ja */,
+				75FD2FB31BFAB97500D56BBA /* de */,
+				75FD2FB51BFAB97A00D56BBA /* ru */,
+			);
+			name = BREventConfirmView.xib;
+			sourceTree = "<group>";
+		};
+		757E09971ADB8EEB006FD352 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				757E09981ADB8EEB006FD352 /* en */,
+				7511E8CB1AE5FF240025F1B3 /* fr */,
+				7511E8CF1AE5FF2D0025F1B3 /* ja */,
+				7511E8D31AE5FF390025F1B3 /* ko */,
+				7511E8D71AE5FF410025F1B3 /* nb */,
+				7511E8DF1AE5FFB50025F1B3 /* sq */,
+				7511E8E31AE5FFCC0025F1B3 /* nl */,
+				7511E8E71AE5FFD70025F1B3 /* da */,
+				7511E8EB1AE600220025F1B3 /* de */,
+				750BF6C91AEB2417004D9893 /* hu */,
+				7509C10E1AF3076100D03FD5 /* zh-Hans */,
+				7509C1121AF3720100D03FD5 /* es */,
+				75DE02411B0EB79A0027FF08 /* it */,
+				75DE02451B0EB7BD0027FF08 /* sv */,
+				75DE02491B0EB7C80027FF08 /* tr */,
+				75DE024D1B0EB7FC0027FF08 /* pl */,
+				75DE02511B0EB8030027FF08 /* ru */,
+				750C6CC01B5C8EB60038AAE9 /* el */,
+				75CE194E1B9642EB000778E4 /* pt */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		75C0E3C11B1BA294007BC531 /* BIP39Words.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				75C0E3C71B1D333F007BC531 /* en */,
+				75C0E3C21B1BA29D007BC531 /* fr */,
+				75C0E3C31B1BA29F007BC531 /* ja */,
+				75C0E3C41B1BA2A5007BC531 /* es */,
+				75C0E3C51B1BA2AE007BC531 /* zh-Hans */,
+			);
+			name = BIP39Words.plist;
+			sourceTree = "<group>";
+		};
+		75D5F3DC191EC270004AB296 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				75D5F3DD191EC270004AB296 /* Base */,
+				7511E8C91AE5FF240025F1B3 /* fr */,
+				7511E8CD1AE5FF2D0025F1B3 /* ja */,
+				7511E8D11AE5FF390025F1B3 /* ko */,
+				7511E8D51AE5FF410025F1B3 /* nb */,
+				7511E8DD1AE5FFB50025F1B3 /* sq */,
+				7511E8E11AE5FFCC0025F1B3 /* nl */,
+				7511E8E51AE5FFD70025F1B3 /* da */,
+				7511E8E91AE600220025F1B3 /* de */,
+				750BF6C71AEB2417004D9893 /* hu */,
+				7509C10C1AF3076000D03FD5 /* zh-Hans */,
+				7509C1101AF3720100D03FD5 /* es */,
+				75DE023F1B0EB7990027FF08 /* it */,
+				75DE02431B0EB7BD0027FF08 /* sv */,
+				75DE02471B0EB7C80027FF08 /* tr */,
+				75DE024B1B0EB7FC0027FF08 /* pl */,
+				75DE024F1B0EB8030027FF08 /* ru */,
+				750C6CC11B5C8EB60038AAE9 /* el */,
+				75CE194C1B9642EB000778E4 /* pt */,
+				75BDCC381CE2FC7000AAFA22 /* en */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5219AAD01D738F8E004BD9C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_ENTITLEMENTS = "WatchApp Extension/WatchApp Extension.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "WatchApp Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "WatchApp Extension/WatchApp Extension-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		5219AAD11D738F8E004BD9C0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_ENTITLEMENTS = "WatchApp Extension/WatchApp Extension.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				INFOPLIST_FILE = "WatchApp Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "WatchApp Extension/WatchApp Extension-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		5219AAD41D738F8E004BD9C0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_ENTITLEMENTS = WatchApp/WatchApp.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IBSC_MODULE = WatchApp_Extension;
+				INFOPLIST_FILE = WatchApp/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		5219AAD51D738F8E004BD9C0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_ENTITLEMENTS = WatchApp/WatchApp.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				IBSC_MODULE = WatchApp_Extension;
+				INFOPLIST_FILE = WatchApp/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		524F39CD1D72267E00F997FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TodayExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash.TodayExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		524F39CE1D72267E00F997FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_ENTITLEMENTS = TodayExtension/TodayExtension.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				INFOPLIST_FILE = TodayExtension/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash.TodayExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		75001D3F1A1EE89500585F55 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		75001D411A1EE89500585F55 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		75D5F3F4191EC270004AB296 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					USE_MAZA,
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_PEDANTIC = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "-frandom-seed=$@";
+				SDKROOT = iphoneos;
+				ZERO_AR_DATE = 1;
+			};
+			name = Debug;
+		};
+		75D5F3F5191EC270004AB296 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Distribution";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = USE_MAZA;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_PEDANTIC = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CFLAGS = "-frandom-seed=$@";
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+				ZERO_AR_DATE = 1;
+			};
+			name = Release;
+		};
+		75D5F3F7191EC270004AB296 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = maza.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BreadWallet/Maza-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					USE_MAZA,
+					HIDE_DEPRECATED,
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/secp256k1",
+					"$(SRCROOT)",
+					"$(SRCROOT)/BreadWallet",
+					"$(SRCROOT)/CoreBitcoin",
+				);
+				INFOPLIST_FILE = BreadWallet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/lib",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "BreadWallet/maza-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/CoreBitcoin";
+			};
+			name = Debug;
+		};
+		75D5F3F8191EC270004AB296 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = maza.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BreadWallet/Maza-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					USE_MAZA,
+					HIDE_DEPRECATED,
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/secp256k1",
+					"$(SRCROOT)",
+					"$(SRCROOT)/BreadWallet",
+					"$(SRCROOT)/CoreBitcoin",
+				);
+				INFOPLIST_FILE = BreadWallet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/lib",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.mazacoin.mazacash;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "BreadWallet/maza-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/CoreBitcoin";
+			};
+			name = Release;
+		};
+		75D5F3FA191EC270004AB296 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/maza.app/maza";
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "BreadWallet/Maza-Prefix.pch";
+				GCC_WARN_PEDANTIC = NO;
+				INFOPLIST_FILE = BreadWalletTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/lib",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.maza.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = MazaTests;
+				SWIFT_OBJC_BRIDGING_HEADER = "BreadWalletTests/BreadWalletTests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Debug;
+		};
+		75D5F3FB191EC270004AB296 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/mazacash.app/mazacash";
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = 3EHNCSDX9Y;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "BreadWallet/Maza-Prefix.pch";
+				GCC_WARN_PEDANTIC = NO;
+				INFOPLIST_FILE = BreadWalletTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/lib",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.maza.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = MazaTests;
+				SWIFT_OBJC_BRIDGING_HEADER = "BreadWalletTests/BreadWalletTests-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5219AACF1D738F8E004BD9C0 /* Build configuration list for PBXNativeTarget "WatchApp Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5219AAD01D738F8E004BD9C0 /* Debug */,
+				5219AAD11D738F8E004BD9C0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5219AAD31D738F8E004BD9C0 /* Build configuration list for PBXNativeTarget "WatchApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5219AAD41D738F8E004BD9C0 /* Debug */,
+				5219AAD51D738F8E004BD9C0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		524F39CC1D72267E00F997FB /* Build configuration list for PBXNativeTarget "TodayExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				524F39CD1D72267E00F997FB /* Debug */,
+				524F39CE1D72267E00F997FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75001D3E1A1EE89500585F55 /* Build configuration list for PBXLegacyTarget "submodules" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75001D3F1A1EE89500585F55 /* Debug */,
+				75001D411A1EE89500585F55 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75D5F3B9191EC270004AB296 /* Build configuration list for PBXProject "Maza" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75D5F3F4191EC270004AB296 /* Debug */,
+				75D5F3F5191EC270004AB296 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75D5F3F6191EC270004AB296 /* Build configuration list for PBXNativeTarget "maza" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75D5F3F7191EC270004AB296 /* Debug */,
+				75D5F3F8191EC270004AB296 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75D5F3F9191EC270004AB296 /* Build configuration list for PBXNativeTarget "MazaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75D5F3FA191EC270004AB296 /* Debug */,
+				75D5F3FB191EC270004AB296 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		752E2898192349CE00DB5A3C /* BreadWallet.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				759AB7F71AB8F45900303AAB /* BreadWallet 2.xcdatamodel */,
+				752E2899192349CE00DB5A3C /* BreadWallet.xcdatamodel */,
+			);
+			currentVersion = 759AB7F71AB8F45900303AAB /* BreadWallet 2.xcdatamodel */;
+			path = BreadWallet.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 75D5F3B6191EC270004AB296 /* Project object */;
+}

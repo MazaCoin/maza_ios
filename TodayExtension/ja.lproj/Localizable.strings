@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "1%$ @ は、'ダフズ' です。2%$ @ = 1 ダッシュ。";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO ない回復句を参照してください誰か彼らは dash.\n\nNEVER 型のパスワード マネージャーや他の場所であなたの回復フレーズを過ごすことができます。その他のデバイスに感染する可能性があります \n。";
+/* Translated from: bad signature */
+"bad signature" = "署名が正しくありません。";
+/* Translated from: dash address */
+"dash address" = "ダッシュ アドレス";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "ダッシュのアドレスは、クリップボードにもコピーできます。ダッシュは、'7' または 'X' で始まる常に対処します。";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "ダッシュ ネットワーク料が (削除は遅延を引き起こすかもしれません) 優先度の高いトランザクションのオプションのみ";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "有効なダッシュまたは Bitcoin アドレスがクリップボードに含まれていません。";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "ワイプを確認します。";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "デバイスのセキュリティ COMPROMISED\nAny '脱獄' アプリが他のアプリのキーチェーン データにアクセス (とあなたの dashs を盗む)。";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "デバイスのセキュリティ COMPROMISED\nAny '脱獄' アプリが他のアプリのキーチェーン データにアクセス (とあなたの dashs を盗む)。すぐにこの財布をワイプし、セキュリティで保護されたデバイス上に復元します。";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "他のダッシュ アドレスを取得するには、この QR コードをスキャンしましょう。誰でもはそれらをあなたのアドレスに転送することによってあなたの財布に dashs を送信できます。";
+/* Translated from: new phrase */
+"new phrase" = "新しいフレーズ";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "ダッシュやダッシュ QR コードではなく";
+/* Translated from: post-dated */
+"post-dated" = "ポスト付け";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "このアドレスで dashs を受信: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "このトランザクションの標準ダッシュ ネットワーク料は 1%$ @ (%2$@)\n\nremoving この料金は確認を遅らせる可能性があります";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "電子マネー (ダッシュ) アドレスです。それをコピーまたは電子メールまたは sms で送信するをタップします。アドレスが変更されるたびに、資金を受け取るが、古いアドレスとは限りません。";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "トランザクションは後 †";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@「ダッシュ」のためです。%@ = 1 ダッシュ。";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ はカメラにアクセスできません。";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d の確認";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 確認";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 確認";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\'%@ \'回復フレーズの言葉ではないです。";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n 合計 %1$ @ (2%$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif まで電話をなくしたら、それはあなたの財布を回復する必要があります。";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d 試行 %10s";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1. 試み %10s";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n 量 1%$ @ (2%$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA デバイスのパスコードは、あなたの財布を守るために必要です。設定に移動し、パスコードをオンにすると、続行します。";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS only\n\nre 単一使用して受信者のプライバシーを低減、受信者がアドレスを直接制御しない場合に失われる可能性がアドレスは、USED\n\ndash すでに";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow カメラ アクセス in\nSettings->-> カメラ-> プライバシー %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO 誰も教えては、recovery\nphrase を参照してくださいまたはあなたのダッシュします。 \n を過ごすことができます。";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO 取る、screenshot.\nScreenshots 他の apps\nand デバイス。 \n に表示されます。";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork 料 + 1%$ @ (2%$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER 回復フレーズの into\npassword マネージャーまたは別の場所を入力します \nOther デバイスに感染する可能性があります。 \n。";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "%1$ d 2%$ @ に再び \ntry";
+/* Translated from: about */
+"about" = "について";
+/* Translated from: always require passcode */
+"always require passcode" = "常にパスコードを必要とします。";
+/* Translated from: amount too small */
+"amount too small" = "小さすぎる量";
+/* Translated from: bad password, try again */
+"bad password, try again" = "不正なパスワード、もう一度やり直してください。";
+/* Translated from: bad payment request */
+"bad payment request" = "悪い支払い要求";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "悪い支払要求 URL";
+/* Translated from: bad payment URL */
+"bad payment URL" = "悪いお支払い URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "悪い回復フレーズ";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "#%1 %2$ d $d をブロックします。";
+/* Translated from: Buy Dash */
+"Buy Dash" = "ダッシュを購入します。";
+/* Translated from: cancel */
+"cancel" = "キャンセル";
+/* Translated from: change */
+"change" = "変更";
+/* Translated from: change passcode */
+"change passcode" = "パスコードを変更します。";
+/* Translated from: change payment amount? */
+"change payment amount?" = "支払額を変更するには?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "アドレスのバランスをチェックしています.";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "プライベート キーのバランスをチェックしています.";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "パスコードを選択 %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "クリップボードに有効なダッシュのアドレスが含まれていません。";
+/* Translated from: close app */
+"close app" = "アプリを閉じる";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "ブロック #%d で確認";
+/* Translated from: connect timeout */
+"connect timeout" = "接続のタイムアウト";
+/* Translated from: copied */
+"copied" = "コピー";
+/* Translated from: copy */
+"copy" = "コピー";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "クリップボードにコピー アドレス";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "クリップボードへのコピーの要求";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "財布アドレスをクリップボードにコピーですか。";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "アドレス バランスを確認できませんでした。";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "支払を作ることができなかった";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "バランスをスイープすることができませんでした。";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "ダッシュ ネットワークに支払を送信することができませんでした。";
+/* Translated from: Dash address */
+"Dash address" = "ダッシュ アドレス";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "ダッシュのアドレスは、クリップボードにもコピーできます。ダッシュのアドレスは常に '1' または '3' で始まります。";
+/* Translated from: dash network fee */
+"dash network fee" = "ダッシュ ネットワーク料";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "ダッシュの支払いをすることはできません未満 %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "署名されていないダッシュ トランザクション";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "ダッシュのトランザクションの出力をすることはできません未満 %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "デバイスのセキュリティ COMPROMISED\nAny '脱獄' アプリが他のアプリのキーチェーン データにアクセス (とあなたのダッシュを盗む)。";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "デバイスのセキュリティ COMPROMISED\nAny '脱獄' アプリが他のアプリのキーチェーン データにアクセス (とあなたのダッシュを盗む)。すぐにこの財布をワイプし、セキュリティで保護されたデバイス上に復元します。";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "48 時間のウォレットを無効にするか。再度、回復フレーズを使用していつでも有効にできます。";
+/* Translated from: do it later */
+"do it later" = "それを後で行う";
+/* Translated from: done */
+"done" = "行われます";
+/* Translated from: double spend */
+"double spend" = "ダブルを使う";
+/* Translated from: email not configured */
+"email not configured" = "電子メールが構成されていません";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "有効にする通知を受信します。";
+/* Translated from: enter old passcode */
+"enter old passcode" = "古いパスコードを入力します。";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "バンドルが存在する場合を判断するエラー";
+/* Translated from: error determining versions */
+"error determining versions" = "エラーのバージョンを特定します。";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "差分のダウンロード エラー: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "バンドルを抽出エラー: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "エラー フェッチ バンドル:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "エラー読書現在のバンドル";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "エラー署名ダッシュ トランザクション";
+/* Translated from: error signing transaction */
+"error signing transaction" = "エラー署名トランザクション";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "バンドル ファイルを書き込み中にエラー:";
+/* Translated from: from: */
+"from:" = "差出人：";
+/* Translated from: hour */
+"hour" = "時間";
+/* Translated from: hours */
+"hours" = "時間";
+/* Translated from: id: */
+"id:" = "id:";
+/* Translated from: ignore */
+"ignore" = "無視します。";
+/* Translated from: import private key */
+"import private key" = "秘密キーをインポートします。";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "重要です";
+/* Translated from: insufficient funds */
+"insufficient funds" = "資金不足";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "ダッシュ ネットワーク料金のための不十分な資金";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "数分待ってからまたは通常送信してください instantSend に送信するための資金が不足";
+/* Translated from: INVALID */
+"INVALID" = "無効です";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON シリアル化エラー";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "他のダッシュ アドレスを取得するには、この QR コードをスキャンしましょう。誰でもはそれらをあなたのアドレスに転送することによってあなたの財布にダッシュを送信できます。";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "位置情報サービスが無効になっています。";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "位置情報サービスは許可されていません";
+/* Translated from: lock */
+"lock" = "ロック";
+/* Translated from: memo: */
+"memo:" = "メモ:";
+/* Translated from: minute */
+"minute" = "分";
+/* Translated from: minutes */
+"minutes" = "分";
+/* Translated from: missing certificate */
+"missing certificate" = "証明書が見つからない";
+/* Translated from: more... */
+"more..." = "詳細.";
+/* Translated from: moved */
+"moved" = "移動";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "次に、あなたの回復のフレーズを書き留めてください。";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "為替レート データなし";
+/* Translated from: no peers found */
+"no peers found" = "ピアなしが見つかりました";
+/* Translated from: No wallet */
+"No wallet" = "ない財布";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "ダッシュ QR コードではないです。";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "ダッシュが有効なアドレスではなく";
+/* Translated from: not a valid private key */
+"not a valid private key" = "いない有効な秘密キー";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "ダッシュのネットワークに接続していません。";
+/* Translated from: ok */
+"ok" = "わかりました";
+/* Translated from: panic */
+"panic" = "パニック";
+/* Translated from: panic lock */
+"panic lock" = "パニック ロック";
+/* Translated from: passcode */
+"passcode" = "パスコード";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "パスコード %@";
+/* Translated from: password */
+"password" = "パスワード";
+/* Translated from: password protected key */
+"password protected key" = "パスワード保護されたキー";
+/* Translated from: pay */
+"pay" = "支払う";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "支払い先の id が認定されていません。";
+/* Translated from: payment address */
+"payment address" = "費用の支払い先";
+/* Translated from: payment output */
+"payment output" = "支払い出力";
+/* Translated from: pending */
+"pending" = "保留中";
+/* Translated from: Please wait */
+"Please wait" = "お待ちください";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "このアドレスでダッシュを受け取る: %@";
+/* Translated from: received */
+"received" = "受信";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "1%$ @ を受け取った (2%$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "回復フレーズ";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "回復フレーズが一致しません。";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "回復フレーズの文字数は %d を持つ必要があります。";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "支払金額 by\n%1$@ を減らす (2%$ @)?";
+/* Translated from: request */
+"request" = "要求";
+/* Translated from: request an amount */
+"request an amount" = "要求量";
+/* Translated from: request expired */
+"request expired" = "要求の有効期限が切れてください。";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "要求されたネットワーク \'%1$@\'\'%2$@\ ではなく」";
+/* Translated from: rescan */
+"rescan" = "再スキャン";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "blockchain を再スキャンします。";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "トランザクションを持たないかトラブル送信 (再スキャンすることができます数分かかる) を持っていると思う場合は、blockchain を再スキャンします。";
+/* Translated from: reset */
+"reset" = "リセット";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "そのダッシュのアドレスを取得する誰か他の人の QR コードをスキャンします。アドレスとのだれでもに支払いを送信することができます。";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "スクリーン ショットは、他のアプリやデバイスに表示されます。新しい回復フレーズを生成し、それを秘密保ちます。";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "スクリーン ショットは、他のアプリやデバイスに表示されます。あなたの資金は、リスクです。もう一つの財布にあなたのバランスを転送します。";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "%1$ で見られる d %2$ d の仲間";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "1%$ @ を送る (2%$ @) お財布にこの秘密キーからですか?ダッシュ ネットワーク @ %3 ドルの手数料が表示されます (4%$ @)。";
+/* Translated from: send address as email */
+"send address as email" = "アドレスを電子メールとして送信します。";
+/* Translated from: send address as message */
+"send address as message" = "アドレスをメッセージとして送信します。";
+/* Translated from: send request as email */
+"send request as email" = "要求を電子メールとして送信します。";
+/* Translated from: send request as message */
+"send request as message" = "要求をメッセージとして送信します。";
+/* Translated from: sent */
+"sent" = "送信";
+/* Translated from: sent! */
+"sent!" = "送信!";
+/* Translated from: settings */
+"settings" = "設定";
+/* Translated from: show */
+"show" = "ショー";
+/* Translated from: show phrase */
+"show phrase" = "フレーズを見る";
+/* Translated from: sms not currently available */
+"sms not currently available" = "sms は現在利用できません。";
+/* Translated from: spent address */
+"spent address" = "使用済みアドレス";
+/* Translated from: spent input */
+"spent input" = "使用済みの入力";
+/* Translated from: status: */
+"status:" = "ステータス:";
+/* Translated from: swept! */
+"swept!" = "掃引!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "同期、お待ちください.";
+/* Translated from: the app will now close */
+"the app will now close" = "アプリを終了します";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "これは、ダッシュの住所です。それをコピーまたは電子メールまたは sms で送信するをタップします。アドレスが変更されるたびに、資金を受け取るが、古いアドレスとは限りません。";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "これは、あなたのダッシュのバランスです。ダッシュは、通貨です。市場と為替レートの変動。";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "このお支払いのアドレスは既にあなたの財布";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "この秘密キーは既にあなたの財布に";
+/* Translated from: this private key is empty */
+"this private key is empty" = "この秘密キーは空";
+/* Translated from: to: */
+"to:" = "宛先：";
+/* Translated from: to: %@ */
+"to: %@" = ": %@";
+/* Translated from: touch id limit */
+"touch id limit" = "id 制限に触れる";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "id 支出限度をタッチします。";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "トランザクションがキャンセルされると、ネットワークのタイムアウト";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "手数料 (小さな \'dust\'堆積物) のためにこの秘密キーに利用可能な資金よりも多くのコストです。";
+/* Translated from: transaction history */
+"transaction history" = "取引履歴";
+/* Translated from: transaction rejected */
+"transaction rejected" = "取引拒否";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "デバイスのパスコードをオンにします。";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "API トークンを取得できません。";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "API トークンを保存できません。";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "予期しない応答 %@";
+/* Translated from: unknown address */
+"unknown address" = "不明なアドレス";
+/* Translated from: unrecognized address */
+"unrecognized address" = "認識されないアドレス";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "サポートされていないか破損しているドキュメント";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "サポートされていない署名の種類";
+/* Translated from: unsupported url */
+"unsupported url" = "サポートされていない url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "信頼されていない証明書";
+/* Translated from: unverified */
+"unverified" = "未確認";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "検証、確認を待って";
+/* Translated from: verify passcode */
+"verify passcode" = "パスコードを確認します。";
+/* Translated from: wallet address */
+"wallet address" = "財布アドレス";
+/* Translated from: wallet disabled */
+"wallet disabled" = "無効になっている財布";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "財布の準備ができていません";
+/* Translated from: WARNING */
+"WARNING" = "警告";
+/* Translated from: wipe */
+"wipe" = "ワイプ";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "回復フレーズを書き留めてください。";
+/* Translated from: you received dash! */
+"you received dash!" = "あなたはダッシュを受け取った!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "あなたの財布のうちかもしれない同期します。 \nThis は、blockchain の再スキャンによってしばしば修正ことができます。";

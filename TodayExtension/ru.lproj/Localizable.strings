@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ является «ДАФС». %2$ @ = 1 тире.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO не позволяйте никому видеть ваши фразы восстановления или они могут потратить ваш тип dash.\n\nNEVER фразу восстановления в менеджеры паролей или в другом месте. Другие устройства могут быть инфицированы. \n";
+/* Translated from: bad signature */
+"bad signature" = "плохая подпись";
+/* Translated from: dash address */
+"dash address" = "тире адрес";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Тире адреса можно также скопировать в буфер обмена. Тире адрес всегда начинается с «X» или '7'.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "тире сетевые платы только для высокоприоритетных операций (удаление может привести к задержкам)";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "буфер обмена не содержит действительный тире или Bitcoin адрес";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "ПОДТВЕРДИТЕ УДАЛЕНИЕ";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "БЕЗОПАСНОСТЬ устройства COMPROMISED\nAny «побег из тюрьмы» приложение может получить доступ к любой другой app брелок данных (и украсть ваши dashs).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "БЕЗОПАСНОСТЬ устройства COMPROMISED\nAny «побег из тюрьмы» приложение может получить доступ к любой другой app брелок данных (и украсть ваши dashs). Протрите этот бумажник немедленно и восстановить безопасные устройства.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Пусть другие сканировать этот QR код, чтобы получить ваш адрес тире. Кто-нибудь может отправить dashs на ваш кошелек путем передачи их на ваш адрес.";
+/* Translated from: new phrase */
+"new phrase" = "Новая фраза";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "не тире или тире QR-код";
+/* Translated from: post-dated */
+"post-dated" = "пост от";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Получить dashs по этому адресу: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "Стандартная комбинация сети плата за эту сделку составляет %1$ @ (%2$@)\n\nremoving этот сбор может задержать подтверждение";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Это ваш адрес цифровые деньги (ТИРЕ). Нажмите, чтобы скопировать его или отправить его по электронной почте или sms. Адрес будет меняться каждый раз, когда вы получаете средства, но старые адреса всегда работают.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "транзакция — от пост";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ предназначен для «тире». %@ = 1 тире.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ не разрешается доступ к камере";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d подтверждений";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 подтверждений";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 подтверждение";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \» не является слово фразы восстановления";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n всего 1% $@ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif вы никогда не потеряете свой телефон, вам понадобится восстановить ваш кошелек";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d попытки remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\N1 попытка remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n сумма %1$ @ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "секретный код устройства \nA необходимо для защиты вашего кошелька. Перейдите в настройки и включить секретный код, чтобы продолжить.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS уже USED\n\ndash адреса предназначены для одноместного размещения only\n\nre использование снижает конфиденциальность для вас и получатель и может привести к потере, если получатель не контролирует непосредственно адрес";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow камеры доступ к in\nSettings-> конфиденциальности-> камеры-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO не позволяйте никому видеть ваши recovery\nphrase или они могут потратить тире. \n";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO не screenshot.\nScreenshots являются видимыми для других apps\nand устройств. \n";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork плата + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER тип менеджеров into\npassword фразу восстановления или в другом месте. \nOther устройства могут быть инфицированы. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "\ntry снова в %1$ d %2$ @";
+/* Translated from: about */
+"about" = "о";
+/* Translated from: always require passcode */
+"always require passcode" = "всегда требовать секретный код";
+/* Translated from: amount too small */
+"amount too small" = "размер слишком мал";
+/* Translated from: bad password, try again */
+"bad password, try again" = "неверный пароль, попробуйте еще раз";
+/* Translated from: bad payment request */
+"bad payment request" = "плохой оплаты запрос";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "URL-адрес запроса плохой оплаты";
+/* Translated from: bad payment URL */
+"bad payment URL" = "плохой оплаты URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "Bad восстановления фраза";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "блок #%1$ d %2$ d";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Купить Dash";
+/* Translated from: cancel */
+"cancel" = "Отмена";
+/* Translated from: change */
+"change" = "изменить";
+/* Translated from: change passcode */
+"change passcode" = "изменить секретный код";
+/* Translated from: change payment amount? */
+"change payment amount?" = "изменить сумму платежа?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "Проверка адреса баланса...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "Проверка баланса частного ключа...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "Выберите секретный код для %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "буфер обмена не содержит действительный тире адрес";
+/* Translated from: close app */
+"close app" = "закрыть приложение";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "подтверждено в блоке # %d";
+/* Translated from: connect timeout */
+"connect timeout" = "время ожидания подключения";
+/* Translated from: copied */
+"copied" = "копирование";
+/* Translated from: copy */
+"copy" = "копия";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "Копировать адрес в буфер обмена";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "Копировать запрос в буфер обмена";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "Скопируйте адреса кошелек в буфер обмена?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "не удалось проверить баланс адреса";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "не удалось произвести платеж";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "не удалось подмести баланс";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "не удалось передать платеж в тире сети";
+/* Translated from: Dash address */
+"Dash address" = "Тире адрес";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Тире адреса можно также скопировать в буфер обмена. Тире адрес всегда начинается с '1' или '3'.";
+/* Translated from: dash network fee */
+"dash network fee" = "Комбинация сети плата";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "тире платежи не может быть меньше, чем %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "тире транзакция не подписан";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "тире результаты транзакции не может быть меньше, чем %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "БЕЗОПАСНОСТЬ устройства COMPROMISED\nAny «побег из тюрьмы» приложение может получить доступ к любой другой app брелок данных (и украсть ваши тире).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "БЕЗОПАСНОСТЬ устройства COMPROMISED\nAny «побег из тюрьмы» приложение может получить доступ к любой другой app брелок данных (и украсть ваши тире). Протрите этот бумажник немедленно и восстановить безопасные устройства.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "Отключить бумажник 48 часов? Можно повторно включить в любое время, используя вашу фразу восстановления.";
+/* Translated from: do it later */
+"do it later" = "сделать это позже";
+/* Translated from: done */
+"done" = "Договорились";
+/* Translated from: double spend */
+"double spend" = "двойной тратить";
+/* Translated from: email not configured */
+"email not configured" = "Электронная почта не настроена";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "разрешить получение уведомлений";
+/* Translated from: enter old passcode */
+"enter old passcode" = "Введите старый пароль";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "Ошибка при определении если пакет существует";
+/* Translated from: error determining versions */
+"error determining versions" = "Ошибка при определении версии";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "Ошибка загрузки diff: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "ошибка распаковки пакета: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "Ошибка загрузки пакета:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "Ошибка чтения текущего пакета";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "Ошибка подписи тире транзакции";
+/* Translated from: error signing transaction */
+"error signing transaction" = "Ошибка подписи транзакции";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "Ошибка при записи файла комплекта:";
+/* Translated from: from: */
+"from:" = "От:";
+/* Translated from: hour */
+"hour" = "час";
+/* Translated from: hours */
+"hours" = "Часы";
+/* Translated from: id: */
+"id:" = "ID:";
+/* Translated from: ignore */
+"ignore" = "игнорировать";
+/* Translated from: import private key */
+"import private key" = "Импорт закрытого ключа";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "ВАЖНО";
+/* Translated from: insufficient funds */
+"insufficient funds" = "нехватка средств";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "нехватка средств для тире сетевой платы";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "недостаточно средств для отправки с instantSend, пожалуйста, подождите несколько минут, или отправить обычно";
+/* Translated from: INVALID */
+"INVALID" = "Недопустимый";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "Ошибка сериализации JSON";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Пусть другие сканировать этот QR код, чтобы получить ваш адрес тире. Любой пользователь может отправлять тире на ваш кошелек путем передачи их на ваш адрес.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Расположение службы отключены";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Службы определения местоположения не разрешены";
+/* Translated from: lock */
+"lock" = "Блокировка";
+/* Translated from: memo: */
+"memo:" = "Памятка:";
+/* Translated from: minute */
+"minute" = "минута";
+/* Translated from: minutes */
+"minutes" = "минуты";
+/* Translated from: missing certificate */
+"missing certificate" = "отсутствует сертификат";
+/* Translated from: more... */
+"more..." = "Подробнее...";
+/* Translated from: moved */
+"moved" = "переехал";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "затем запишите фразу восстановления";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "данные валютного курса";
+/* Translated from: no peers found */
+"no peers found" = "узлы не найдены";
+/* Translated from: No wallet */
+"No wallet" = "Нет бумажника";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "не тире QR-код";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "не адрес действительный тире";
+/* Translated from: not a valid private key */
+"not a valid private key" = "не действительный закрытый ключ";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "не подключен к сети тире";
+/* Translated from: ok */
+"ok" = "Хорошо";
+/* Translated from: panic */
+"panic" = "паника";
+/* Translated from: panic lock */
+"panic lock" = "Panic lock";
+/* Translated from: passcode */
+"passcode" = "секретный код";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "секретный код для %@";
+/* Translated from: password */
+"password" = "пароль";
+/* Translated from: password protected key */
+"password protected key" = "защищенный ключ паролем";
+/* Translated from: pay */
+"pay" = "оплатить";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "личность получателя не сертифицирован";
+/* Translated from: payment address */
+"payment address" = "адрес оплаты";
+/* Translated from: payment output */
+"payment output" = "выходные данные платежа";
+/* Translated from: pending */
+"pending" = "Ожидание";
+/* Translated from: Please wait */
+"Please wait" = "Подождите";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Получить тире по этому адресу: %@";
+/* Translated from: received */
+"received" = "получено";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "получено %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "фраза восстановления";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "восстановления фраза не соответствует";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "восстановления фраза должна иметь слова %d";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "уменьшить by\n%1$@ сумму платежа (%2$ @)?";
+/* Translated from: request */
+"request" = "запрос";
+/* Translated from: request an amount */
+"request an amount" = "Запрос суммы";
+/* Translated from: request expired */
+"request expired" = "истек срок действия запроса";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "просил сеть \'%1$@\» вместо \'%2$@\»";
+/* Translated from: rescan */
+"rescan" = "Повторное сканирование";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "Повторное сканирование blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "Повторное сканирование blockchain, если вы думаете, вы, возможно, отсутствуют транзакции, или возникают проблемы отправки (повторного сканирования может занять несколько минут)";
+/* Translated from: reset */
+"reset" = "Сброс";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Сканировать чужой QR код, чтобы получить их адрес тире. Вы можете отправить платеж кому-либо с адресом.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Скриншоты являются видимыми для других приложений и устройств. Создать новую фразу восстановления и держать его в секрете.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Скриншоты являются видимыми для других приложений и устройств. Ваши средства подвергаются риску. Перевести свой баланс на другой кошелек.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "видели %1$ d %2$ d сверстников";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Отправить %1$ @ (%2$ @) от этого закрытого ключа в ваш кошелек? Тире сеть получит плату в размере %3$ @ (%4$ @).";
+/* Translated from: send address as email */
+"send address as email" = "отправить адрес электронной почты";
+/* Translated from: send address as message */
+"send address as message" = "отправить адрес как сообщение";
+/* Translated from: send request as email */
+"send request as email" = "Отправить запрос по электронной почте";
+/* Translated from: send request as message */
+"send request as message" = "Отправить запрос в виде сообщения";
+/* Translated from: sent */
+"sent" = "Отправлено";
+/* Translated from: sent! */
+"sent!" = "Отправлено!";
+/* Translated from: settings */
+"settings" = "Параметры";
+/* Translated from: show */
+"show" = "Показать";
+/* Translated from: show phrase */
+"show phrase" = "Показать фразы";
+/* Translated from: sms not currently available */
+"sms not currently available" = "в настоящее время нет SMS";
+/* Translated from: spent address */
+"spent address" = "отработавшее адрес";
+/* Translated from: spent input */
+"spent input" = "отработавшее вход";
+/* Translated from: status: */
+"status:" = "статус:";
+/* Translated from: swept! */
+"swept!" = "прокатились!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "Синхронизация, пожалуйста, подождите...";
+/* Translated from: the app will now close */
+"the app will now close" = "приложение сейчас будет закрыто";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Это ваш адрес тире. Нажмите, чтобы скопировать его или отправить его по электронной почте или sms. Адрес будет меняться каждый раз, когда вы получаете средства, но старые адреса всегда работают.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Это ваш баланс тире. Dash-это валюта. Изменения обменного курса с рынком.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "Этот адрес оплаты уже в вашем бумажнике";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "Этот закрытый ключ уже находится в вашем бумажнике";
+/* Translated from: this private key is empty */
+"this private key is empty" = "Этот закрытый ключ пустой";
+/* Translated from: to: */
+"to:" = "Кому:";
+/* Translated from: to: %@ */
+"to: %@" = "для: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "Touch id предел";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "Touch id расходного лимита";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "транзакция отменена, время ожидания сети";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "комиссионные сборы будут стоить дороже, чем средства, имеющиеся на этот закрытый ключ (из-за крошечные \'dust\ «депозиты)";
+/* Translated from: transaction history */
+"transaction history" = "История транзакций";
+/* Translated from: transaction rejected */
+"transaction rejected" = "транзакция отклонена";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "Включение устройства секретный код";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "Не удалось получить маркер API";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "Не удается сохранить маркер API";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "неожиданный ответ от %@";
+/* Translated from: unknown address */
+"unknown address" = "неизвестный адрес";
+/* Translated from: unrecognized address */
+"unrecognized address" = "неизвестный адрес";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "неподдерживаемый или поврежденный документ";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "тип подписи не поддерживается";
+/* Translated from: unsupported url */
+"unsupported url" = "неподдерживаемый URL-адрес";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "ненадежный сертификат";
+/* Translated from: unverified */
+"unverified" = "непроверенная";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "Проверено, ожидает подтверждения";
+/* Translated from: verify passcode */
+"verify passcode" = "Проверка пароля";
+/* Translated from: wallet address */
+"wallet address" = "кошелек адрес";
+/* Translated from: wallet disabled */
+"wallet disabled" = "кошелек отключен";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "Кошелек не готов";
+/* Translated from: WARNING */
+"WARNING" = "ПРЕДУПРЕЖДЕНИЕ";
+/* Translated from: wipe */
+"wipe" = "Протрите";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "ЗАПИШИТЕ ВАШУ ФРАЗУ ВОССТАНОВЛЕНИЯ";
+/* Translated from: you received dash! */
+"you received dash!" = "Вы получили тире!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Ваш кошелек может быть из sync. \nThis часто может быть исправлено путем повторного чтения blockchain.";

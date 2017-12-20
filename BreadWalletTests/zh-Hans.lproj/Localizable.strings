@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ 为水果布丁。%2$ @ = 1 破折号。";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO 不让任何人看到你恢复短语或者他们可以花费您的 dash.\n\nNEVER 类型您恢复短语到密码经理或其他地方。其他设备可能被感染。 \n";
+/* Translated from: bad signature */
+"bad signature" = "错误签名";
+/* Translated from: dash address */
+"dash address" = "破折号地址";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "破折号地址也可以复制到剪贴板中。一个破折号地址总是开头 'X' 或 '7'。";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "破折号网络收费只是可选的高优先级事务 （去除可能导致延迟）";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "剪贴板中不包含一个有效的短划线或比特币地址";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "确认清除";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "设备安全 COMPROMISED\nAny '越狱' 应用程序可以访问的任何其他应用程序的钥匙串数据 （和偷你划）。";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "设备安全 COMPROMISED\nAny '越狱' 应用程序可以访问的任何其他应用程序的钥匙串数据 （和偷你划）。立即擦这个钱包和恢复在安全设备上。";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "让别人扫描这个二维码，获取您的破折号地址。任何人都可以发送划到你的钱包，将其转到您的地址。";
+/* Translated from: new phrase */
+"new phrase" = "新短语";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "不划线或短划线的 QR 码";
+/* Translated from: post-dated */
+"post-dated" = "后信";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "接收划在此地址: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "这笔交易的标准划线网络费用是 %1$ @ (%2$@)\n\nremoving 这项费用可能会延迟确认";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "这是您的数字现金 (DASH) 地址。点击可将其复制或通过电子邮件或短信发送。地址会改变每次你获得的资金，但旧地址总是工作。";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "交易是远期";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ 为 '冲'。%@ = 1 破折号。";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ 是不允许访问相机";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ （*）";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d 确认";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 确认";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 确认";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\'%@ \'不是一个恢复短语词";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n 总的 %1$ @ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif 你永远失去你的手机，你会需要它来恢复你的钱包";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d 尝试 remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1.尝试 remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n 金额 %1$ @ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA 设备通行码被需要捍卫你的钱包。转到设置并打开密码继续。";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS 已经 USED\n\ndash 地址用于单一使用 only\n\nre 使用降低隐私了你和收件人，可以造成损失如果收件人不能直接控制地址";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow 摄像机访问 in\nSettings 网站-隐私-相机-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO 不让任何人看到你的 recovery\nphrase，或者他们可以花费您的破折号 \n";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO 不带 screenshot.\nScreenshots 都可见到 \n 其他 apps\nand 设备。";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork 费 + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER 键入您恢复短语 into\npassword 经理或其他地方。 \nOther 设备可能被感染。 \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "再次在 %1$ d %2$ @ \ntry";
+/* Translated from: about */
+"about" = "关于";
+/* Translated from: always require passcode */
+"always require passcode" = "总是需要密码";
+/* Translated from: amount too small */
+"amount too small" = "量太小";
+/* Translated from: bad password, try again */
+"bad password, try again" = "输入错误的密码，再试一次";
+/* Translated from: bad payment request */
+"bad payment request" = "坏的付款请求";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "坏的付款请求 URL";
+/* Translated from: bad payment URL */
+"bad payment URL" = "坏付款 URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "坏恢复短语";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "%2$ d # %1$ d 座";
+/* Translated from: Buy Dash */
+"Buy Dash" = "买短划线";
+/* Translated from: cancel */
+"cancel" = "取消";
+/* Translated from: change */
+"change" = "更改";
+/* Translated from: change passcode */
+"change passcode" = "更改密码";
+/* Translated from: change payment amount? */
+"change payment amount?" = "更改付款金额吗？";
+/* Translated from: checking address balance... */
+"checking address balance..." = "检查地址平衡......";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "正在检查关键的私人部门收支平衡...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "选择密码 %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "剪贴板中不包含有效的破折号地址";
+/* Translated from: close app */
+"close app" = "关闭应用程序";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "确认在块 # %d";
+/* Translated from: connect timeout */
+"connect timeout" = "连接超时";
+/* Translated from: copied */
+"copied" = "复制";
+/* Translated from: copy */
+"copy" = "副本";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "复制地址到剪贴板";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "复制到剪贴板的请求";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "将钱包地址复制到剪贴板？";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "不能检查地址平衡";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "不能付款";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "不能扫平衡";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "不能传输到短跑网络付款";
+/* Translated from: Dash address */
+"Dash address" = "破折号地址";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "破折号地址也可以复制到剪贴板中。一个破折号地址总是以 '1' 或 '3' 开始。";
+/* Translated from: dash network fee */
+"dash network fee" = "破折号网络费";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "破折号付款不能少于 %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "未签名的破折号交易";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "破折号交易输出不能少于 %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "设备安全 COMPROMISED\nAny '越狱' 应用程序可以访问任何其他应用程序的钥匙串数据 （和窃取你的破折号）。";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "设备安全 COMPROMISED\nAny '越狱' 应用程序可以访问任何其他应用程序的钥匙串数据 （和窃取你的破折号）。立即擦这个钱包和恢复在安全设备上。";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "48 小时内禁用的钱包吗？在任何时候使用您恢复的短语，您可以重新启用。";
+/* Translated from: do it later */
+"do it later" = "以后做";
+/* Translated from: done */
+"done" = "完成";
+/* Translated from: double spend */
+"double spend" = "双花";
+/* Translated from: email not configured */
+"email not configured" = "未配置的电子邮件";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "启用接收通知";
+/* Translated from: enter old passcode */
+"enter old passcode" = "输入旧密码";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "确定如果包存在时出错";
+/* Translated from: error determining versions */
+"error determining versions" = "确定版本时出错";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "下载 diff 时出错︰ \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "解压缩包时出错︰ \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "错误取包︰";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "错误阅读当前束";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "错误签名的破折号交易";
+/* Translated from: error signing transaction */
+"error signing transaction" = "错误签名交易";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "写包文件时出错︰";
+/* Translated from: from: */
+"from:" = "从：";
+/* Translated from: hour */
+"hour" = "小时";
+/* Translated from: hours */
+"hours" = "小时";
+/* Translated from: id: */
+"id:" = "id:";
+/* Translated from: ignore */
+"ignore" = "忽略";
+/* Translated from: import private key */
+"import private key" = "导入的私钥";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "重要";
+/* Translated from: insufficient funds */
+"insufficient funds" = "资金不足";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "资金不足为破折号网络费的";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "资金不足为发送 instantSend，请等待几分钟或通常发送";
+/* Translated from: INVALID */
+"INVALID" = "无效";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON 序列化错误";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "让别人扫描这个二维码，获取您的破折号地址。任何人都可以通过将它们转移到您的地址到你的钱包发送短划线。";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "位置服务将被禁用";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "位置服务未被授权";
+/* Translated from: lock */
+"lock" = "锁";
+/* Translated from: memo: */
+"memo:" = "备注︰";
+/* Translated from: minute */
+"minute" = "分钟";
+/* Translated from: minutes */
+"minutes" = "分钟";
+/* Translated from: missing certificate */
+"missing certificate" = "失踪的证书";
+/* Translated from: more... */
+"more..." = "更多...";
+/* Translated from: moved */
+"moved" = "移动";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "下一步，写下你恢复短语";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "没有汇率数据";
+/* Translated from: no peers found */
+"no peers found" = "发现没有同行";
+/* Translated from: No wallet */
+"No wallet" = "没钱包";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "不短划线的 QR 码";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "不是有效的短划线的地址";
+/* Translated from: not a valid private key */
+"not a valid private key" = "没有有效的私钥";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "不连接到短跑网络";
+/* Translated from: ok */
+"ok" = "还行";
+/* Translated from: panic */
+"panic" = "恐慌";
+/* Translated from: panic lock */
+"panic lock" = "恐慌的锁";
+/* Translated from: passcode */
+"passcode" = "密码";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "密码 %@";
+/* Translated from: password */
+"password" = "密码";
+/* Translated from: password protected key */
+"password protected key" = "密码保护的密钥";
+/* Translated from: pay */
+"pay" = "工资";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "收款人的身份并不被认证";
+/* Translated from: payment address */
+"payment address" = "付款地址";
+/* Translated from: payment output */
+"payment output" = "付款输出";
+/* Translated from: pending */
+"pending" = "挂起";
+/* Translated from: Please wait */
+"Please wait" = "请稍候";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "接收短划线在此地址: %@";
+/* Translated from: received */
+"received" = "收到";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "收到 %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "恢复短语";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "恢复短语不匹配";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "恢复短语必须有 %d 个单词";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "减少付款金额 by\n%1$@ (%2$ @)？";
+/* Translated from: request */
+"request" = "请求";
+/* Translated from: request an amount */
+"request an amount" = "请求金额";
+/* Translated from: request expired */
+"request expired" = "请求已过期";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "要求网络 \'%1$@\'而不是 \'%2$@\'";
+/* Translated from: rescan */
+"rescan" = "重新扫描";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "重新扫描 blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "重新扫描 blockchain 如果你认为你可能已经错过交易，或有麻烦发送 （重扫描可以需要几分钟时间）";
+/* Translated from: reset */
+"reset" = "重置";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "扫描别人的二维码，获取他们的破折号地址。您可以向任何一个地址发送付款。";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "截图都可见到其他应用程序和设备。生成一个新的恢复短语和保守秘密。";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "截图都可见到其他应用程序和设备。您的资金处于危险之中。你的平衡转移到另一个钱包。";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "被 %1$ %2$ d d 同行";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "发送 %1$ @ (%2$ @) 从这个私钥进你的钱包吗？破折号网络将收取的 %3$ @ (%4$ @)。";
+/* Translated from: send address as email */
+"send address as email" = "作为电子邮件发送地址";
+/* Translated from: send address as message */
+"send address as message" = "以邮件形式发送地址";
+/* Translated from: send request as email */
+"send request as email" = "作为电子邮件发送的请求";
+/* Translated from: send request as message */
+"send request as message" = "作为消息发送的请求";
+/* Translated from: sent */
+"sent" = "发送";
+/* Translated from: sent! */
+"sent!" = "发送 ！";
+/* Translated from: settings */
+"settings" = "设置";
+/* Translated from: show */
+"show" = "显示";
+/* Translated from: show phrase */
+"show phrase" = "显示短语";
+/* Translated from: sms not currently available */
+"sms not currently available" = "目前尚不具备的短信";
+/* Translated from: spent address */
+"spent address" = "用过的地址";
+/* Translated from: spent input */
+"spent input" = "乏的输入";
+/* Translated from: status: */
+"status:" = "状态︰";
+/* Translated from: swept! */
+"swept!" = "横扫 ！";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "同步，请稍候...";
+/* Translated from: the app will now close */
+"the app will now close" = "该应用程序将立即关闭";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "这是您的破折号地址。点击可将其复制或通过电子邮件或短信发送。地址会改变每次你获得的资金，但旧地址总是工作。";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "这是你的破折号平衡。短跑是一种货币。与市场汇率的变化。";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "此付款地址已在你的钱包";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "这个私有密钥已在你的钱包";
+/* Translated from: this private key is empty */
+"this private key is empty" = "此私钥是空";
+/* Translated from: to: */
+"to:" = "自：";
+/* Translated from: to: %@ */
+"to: %@" = "到: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "触摸 id 限制";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "触摸 id 支出限额";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "交易取消，网络超时";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "交易费用将花费更多比此私钥 （由于微小 \'dust\'存款) 上可用资金";
+/* Translated from: transaction history */
+"transaction history" = "交易历史记录";
+/* Translated from: transaction rejected */
+"transaction rejected" = "被拒绝的交易";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "打开设备通行码";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "无法检索 API 令牌";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "无法保存 API 令牌";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "意外的响应，从 %@";
+/* Translated from: unknown address */
+"unknown address" = "未知的地址";
+/* Translated from: unrecognized address */
+"unrecognized address" = "无法识别的地址";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "不支持或已损坏的文档";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "不支持的签名类型";
+/* Translated from: unsupported url */
+"unsupported url" = "不支持的 url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "不受信任的证书";
+/* Translated from: unverified */
+"unverified" = "未验证";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "验证，等待确认";
+/* Translated from: verify passcode */
+"verify passcode" = "验证密码";
+/* Translated from: wallet address */
+"wallet address" = "钱包地址";
+/* Translated from: wallet disabled */
+"wallet disabled" = "禁用的钱包";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "未准备好的钱包";
+/* Translated from: WARNING */
+"WARNING" = "警告";
+/* Translated from: wipe */
+"wipe" = "擦去";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "恢复密码写";
+/* Translated from: you received dash! */
+"you received dash!" = "你收到冲刺 ！";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "你的钱包可能出同步。 \nThis 经常可以通过重新扫描 blockchain 固定。";

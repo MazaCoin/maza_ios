@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ er for 'duffs'. %2$ @ = 1 dash.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO lade ikke nogen se din opsving sætning eller de kan tilbringe din dash.\n\nNEVER type din opsving sætning i password ledere eller andre steder. Andre enheder kan være inficeret. \n";
+/* Translated from: bad signature */
+"bad signature" = "forkert signatur";
+/* Translated from: dash address */
+"dash address" = "Dash adresse";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Dash adresser kan også blive kopieret til Udklipsholder. En dash adresse altid starter med 'X' eller '7'.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "Dash netværk gebyrer er kun valgfrit for høj prioritet transaktioner (fjernelse kan forårsage forsinkelser)";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "Udklipsholder indeholder ikke en gyldig Dash eller Bitcoin adresse";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "BEKRÆFT SLETNING";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "ENHEDSSIKKERHED COMPROMISED\nAny 'jailbreak' app kan få adgang til alle andre app nøglering data (og stjæle dine nedslå).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "ENHEDSSIKKERHED COMPROMISED\nAny 'jailbreak' app kan få adgang til alle andre app nøglering data (og stjæle dine nedslå). Tør denne tegnebog straks og gendanne på en sikker enhed.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Lad andre scanne denne QR kode for at få din dash adresse. Enhver kan sende nedslå til tegnebogen ved at overføre dem til din adresse.";
+/* Translated from: new phrase */
+"new phrase" = "ny sætning";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "ikke en streg eller dash QR kode";
+/* Translated from: post-dated */
+"post-dated" = "post dateret";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Modtage nedslå på denne adresse: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "standard dash netværk gebyr for denne transaktion er %1$ @ (%2$@)\n\nremoving dette gebyr kan forsinke bekræftelse";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Dette er din digitale kontanter (DASH) adresse. Tryk for at kopiere det eller sende den via e-mail eller sms. Adressen vil ændre hver gang du modtager midler, men gamle adresser altid arbejde.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "transaktionen er post-dateret";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ er 'dash'. %@ = 1 dash.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ er ikke tilladt at få adgang til kameraet";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d bekræftelser";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 bekræftelser";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 bekræftelse";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \' er ikke et opsving sætning ord";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n total %1$ @ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif du mister nogensinde telefonen, skal du bruge det til at gendanne din tegnebog";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d forsøg på remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 forsøg på remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n beløb %1$ @ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA enhed passcode er nødvendig for at beskytte din tegnebog. Gå til indstillinger og aktivere adgangskoden til at fortsætte.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS allerede USED\n\ndash adresser er beregnet til brug til en enkelt only\n\nre-brug reducerer privatlivets fred for både dig og modtageren og kan resultere i tab, hvis modtageren ikke direkte kontrollere adressen";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow kamera adgang in\nSettings-> privatliv-> kamera-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO lade ikke nogen se din recovery\nphrase eller de kan tilbringe din dash. \n";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO ikke tage et screenshot.\nScreenshots er synlige for andre apps\nand enheder. \n";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork gebyr + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER Skriv din opsving sætning into\npassword ledere eller andetsteds. \nOther enheder kan være inficeret. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "\ntry igen i %1$ d %2$ @";
+/* Translated from: about */
+"about" = "om";
+/* Translated from: always require passcode */
+"always require passcode" = "altid kræve adgangskode";
+/* Translated from: amount too small */
+"amount too small" = "beløb for lille";
+/* Translated from: bad password, try again */
+"bad password, try again" = "forkert adgangskode, prøv igen";
+/* Translated from: bad payment request */
+"bad payment request" = "anmodning om dårlig betaling";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "dårlig betaling URL-anmodningen";
+/* Translated from: bad payment URL */
+"bad payment URL" = "dårlig betaling URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "dårlig opsving sætning";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "blokere #%1$ d %2$ d";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Købe Dash";
+/* Translated from: cancel */
+"cancel" = "Annuller";
+/* Translated from: change */
+"change" = "ændre";
+/* Translated from: change passcode */
+"change passcode" = "ændre adgangskode";
+/* Translated from: change payment amount? */
+"change payment amount?" = "ændre betalingsbeløbet?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "kontrol adresse balance...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "kontrol af privat nøgle balance...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "Vælg adgangskoden for %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "Udklipsholder indeholder ikke en gyldig dash adresse";
+/* Translated from: close app */
+"close app" = "lukke app";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "bekræftet i blok #%d";
+/* Translated from: connect timeout */
+"connect timeout" = "Connect timeout";
+/* Translated from: copied */
+"copied" = "kopieret";
+/* Translated from: copy */
+"copy" = "kopi";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "Kopier adressen til Udklipsholder";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "kopi anmodning til Udklipsholder";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "kopiere tegnebog adresser til Udklipsholder?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "kunne ikke kontrollere adresse balance";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "kunne ikke foretage betaling";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "kunne ikke feje balance";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "ikke kunne overføre betalingen til dash netværk";
+/* Translated from: Dash address */
+"Dash address" = "Dash adresse";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Dash adresser kan også blive kopieret til Udklipsholder. En dash adressen starter altid med '1' eller '3'.";
+/* Translated from: dash network fee */
+"dash network fee" = "Dash netværk gebyr";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "Dash betalinger kan ikke være mindre end %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "Dash transaktion ikke signeret";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "Dash transaktion udgange kan ikke være mindre end %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "ENHEDSSIKKERHED COMPROMISED\nAny 'jailbreak' app kan få adgang til alle andre app nøglering data (og stjæle din dash).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "ENHEDSSIKKERHED COMPROMISED\nAny 'jailbreak' app kan få adgang til alle andre app nøglering data (og stjæle din dash). Tør denne tegnebog straks og gendanne på en sikker enhed.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "Deaktivere tegnebog i 48 timer? Du kan genaktivere når som helst ved hjælp af din opsving sætning.";
+/* Translated from: do it later */
+"do it later" = "gøre det senere";
+/* Translated from: done */
+"done" = "gjort";
+/* Translated from: double spend */
+"double spend" = "dobbelt tilbringe";
+/* Translated from: email not configured */
+"email not configured" = "e-mail ikke konfigureret";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "Aktiver modtage meddelelser";
+/* Translated from: enter old passcode */
+"enter old passcode" = "Angiv gammel adgangskode";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "fejl fastlæggelse af, om pakken eksisterer";
+/* Translated from: error determining versions */
+"error determining versions" = "fejl bestemmelse versioner";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "Fejl downloade diff: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "Fejl udtrække bundle: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "fejl hentning bundt:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "fejl læsning nuværende bundt";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "fejl signeringsgrænse dash transaktion";
+/* Translated from: error signing transaction */
+"error signing transaction" = "fejl signeringsgrænse transaktion";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "fejl under skrivning bundt fil:";
+/* Translated from: from: */
+"from:" = "fra:";
+/* Translated from: hour */
+"hour" = "time";
+/* Translated from: hours */
+"hours" = "timer";
+/* Translated from: id: */
+"id:" = "id:";
+/* Translated from: ignore */
+"ignore" = "ignorere";
+/* Translated from: import private key */
+"import private key" = "Importer private nøgle";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "VIGTIGT";
+/* Translated from: insufficient funds */
+"insufficient funds" = "utilstrækkelige midler";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "utilstrækkelige midler til dash netværk gebyr";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "utilstrækkelige midler til at sende med instantSend, vent et par minutter eller sende normalt";
+/* Translated from: INVALID */
+"INVALID" = "UGYLDIG";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON Serialization fejl";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Lad andre scanne denne QR kode for at få din dash adresse. Enhver kan sende dash til tegnebogen ved at overføre dem til din adresse.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Placeringstjenester er deaktiveret";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Placeringstjenester er ikke tilladt";
+/* Translated from: lock */
+"lock" = "Lås";
+/* Translated from: memo: */
+"memo:" = "notat:";
+/* Translated from: minute */
+"minute" = "minut";
+/* Translated from: minutes */
+"minutes" = "minutter";
+/* Translated from: missing certificate */
+"missing certificate" = "mangler certifikat";
+/* Translated from: more... */
+"more..." = "mere...";
+/* Translated from: moved */
+"moved" = "flyttet";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "Næste, skrive ned dine opsving sætning";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "ingen valutakursdata";
+/* Translated from: no peers found */
+"no peers found" = "ingen peers fundet";
+/* Translated from: No wallet */
+"No wallet" = "Ingen tegnebog";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "ikke en dash QR kode";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "ikke en gyldig dash adresse";
+/* Translated from: not a valid private key */
+"not a valid private key" = "ikke en gyldig privat nøgle";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "ikke tilsluttet dash-netværk";
+/* Translated from: ok */
+"ok" = "Ok";
+/* Translated from: panic */
+"panic" = "panik";
+/* Translated from: panic lock */
+"panic lock" = "panik lås";
+/* Translated from: passcode */
+"passcode" = "adgangskode";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "adgangskoden for %@";
+/* Translated from: password */
+"password" = "adgangskode";
+/* Translated from: password protected key */
+"password protected key" = "password beskyttede nøgle";
+/* Translated from: pay */
+"pay" = "betale";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "betalingsmodtagerens identitet ikke er certificeret";
+/* Translated from: payment address */
+"payment address" = "betalingsadresse";
+/* Translated from: payment output */
+"payment output" = "betaling output";
+/* Translated from: pending */
+"pending" = "ventende";
+/* Translated from: Please wait */
+"Please wait" = "Vent venligst";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Modtage dash på denne adresse: %@";
+/* Translated from: received */
+"received" = "modtaget";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "modtaget %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "Recovery sætning";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "Recovery sætning svarer ikke";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "Recovery sætning skal have %d ord";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "reducere betaling beløb by\n%1$@ (%2$ @)?";
+/* Translated from: request */
+"request" = "anmodning";
+/* Translated from: request an amount */
+"request an amount" = "anmode om et beløb";
+/* Translated from: request expired */
+"request expired" = "anmodning udløbet";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "anmodet om netværk \'%1$@\' i stedet for \'%2$@\'";
+/* Translated from: rescan */
+"rescan" = "RESCAN";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "Scan blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "Skanner igen blockchain hvis du tror, du kan nyde savnet transaktioner, eller har problemer med at sende (scanne igen kan tage flere minutter)";
+/* Translated from: reset */
+"reset" = "nulstille";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Scan en andens QR kode for at få deres dash adresse. Du kan sende en betaling til alle med en adresse.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Screenshots er synlige for andre apps og enheder. Generere et nyt opsving sætning og holde det hemmeligt.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Screenshots er synlige for andre apps og enheder. Dine penge er i fare. Overføre din saldo til en anden tegnebog.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "set af %1$ d %2$ d jævnaldrende";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Send %1$ @ (%2$ @) fra denne private nøgle i din tegnebog? Dash netværk vil modtage et gebyr på %3$ @ (%4$ @).";
+/* Translated from: send address as email */
+"send address as email" = "Send adressen som e-mail";
+/* Translated from: send address as message */
+"send address as message" = "Send adressen som besked";
+/* Translated from: send request as email */
+"send request as email" = "Send anmodning som e-mail";
+/* Translated from: send request as message */
+"send request as message" = "Send anmodning som besked";
+/* Translated from: sent */
+"sent" = "sendt";
+/* Translated from: sent! */
+"sent!" = "sendt!";
+/* Translated from: settings */
+"settings" = "indstillinger";
+/* Translated from: show */
+"show" = "Vis";
+/* Translated from: show phrase */
+"show phrase" = "Vis sætning";
+/* Translated from: sms not currently available */
+"sms not currently available" = "SMS ikke aktuelt tilgængelige";
+/* Translated from: spent address */
+"spent address" = "brugt adresse";
+/* Translated from: spent input */
+"spent input" = "brugt input";
+/* Translated from: status: */
+"status:" = "status:";
+/* Translated from: swept! */
+"swept!" = "fejede!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "synkronisering, vent venligst...";
+/* Translated from: the app will now close */
+"the app will now close" = "app vil nu lukke";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Dette er din dash adresse. Tryk for at kopiere det eller sende den via e-mail eller sms. Adressen vil ændre hver gang du modtager midler, men gamle adresser altid arbejde.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Dette er din dash balance. Dash er en valuta. Valutakursændringer med markedet.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "denne betalingsadresse er allerede i din tegnebog";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "denne private nøgle er allerede i din pung";
+/* Translated from: this private key is empty */
+"this private key is empty" = "denne private nøgle er tom";
+/* Translated from: to: */
+"to:" = "til:";
+/* Translated from: to: %@ */
+"to: %@" = "til: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "touch-id grænse";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "touch id udgiftsgrænse";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "transaktion annulleres, netværk timeout";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "transaktionsgebyrer ville koste mere end de midler til rådighed på denne private nøgle (på grund af lille \'dust\'indskud)";
+/* Translated from: transaction history */
+"transaction history" = "transaktionshistorie";
+/* Translated from: transaction rejected */
+"transaction rejected" = "transaktion afvist";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "Tænd enheden adgangskode";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "Kunne ikke hente API token";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "Afskåret fra opspare API token";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "uventet svar fra %@";
+/* Translated from: unknown address */
+"unknown address" = "Ukendt adresse";
+/* Translated from: unrecognized address */
+"unrecognized address" = "Ukendt adresse";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "ikke-understøttet eller beskadigede dokument";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "ikke-understøttet signatur type";
+/* Translated from: unsupported url */
+"unsupported url" = "ikke-understøttet url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "domænecontrollercertifikat";
+/* Translated from: unverified */
+"unverified" = "ubekræftet";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "verificeret, venter på bekræftelse";
+/* Translated from: verify passcode */
+"verify passcode" = "Bekræft adgangskode";
+/* Translated from: wallet address */
+"wallet address" = "tegnebog adresse";
+/* Translated from: wallet disabled */
+"wallet disabled" = "tegnebog deaktiveret";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "Tegnebog ikke klar";
+/* Translated from: WARNING */
+"WARNING" = "ADVARSEL";
+/* Translated from: wipe */
+"wipe" = "tørre";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "NEDSKRIVE DIN OPSVING SÆTNING";
+/* Translated from: you received dash! */
+"you received dash!" = "du har modtaget dash!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Din tegnebog kan være ud af sync. \nThis kan ofte løses ved scanne igen blockchain.";

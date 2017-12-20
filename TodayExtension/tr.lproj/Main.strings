@@ -1,0 +1,166 @@
+/* Translated from: Detail */
+"00M-e1-IWY.text" = "Ayrıntı";
+/* Translated from: đ 1,000 */
+"0ui-yr-JjJ.text" = "đ 1.000";
+/* Translated from: recover wallet */
+"4w7-k8-9wY.normalTitle" = "m-cüzdan kurtarmak";
+/* Translated from: subtitle */
+"55a-IW-IjK.text" = "altyazı";
+/* Translated from: spiralus@mazacoin.org */
+"5OA-tB-Exg.text" = "Dev@mazacoin.org";
+/* Translated from: TopTransactions */
+"6Bl-Zl-U7O.title" = "TopTransactions";
+/* Translated from: local currency */
+"8e2-ar-Ehc.text" = "Yerel para birimi";
+/* Translated from:   */
+"9L3-gM-TgP.title" = "";
+/* Translated from: to: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"9T2-dq-yVS.text" = "için: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: generate recovery phrase */
+"A4M-yq-26d.normalTitle" = "Kurtarma ifade oluşturmak";
+/* Translated from: USD */
+"CsQ-fq-mfQ.text" = "USD";
+/* Translated from: start/recover another wallet */
+"D1b-HB-lKH.text" = "başka bir cüzdan Başlat/yeniden elde etmek";
+/* Translated from: exchange rate data provided by\nbitpay.com/rates and coinmarketcap.com. Graphics by Giovanni Martina */
+"D4H-hd-LsX.text" = "Döviz Kuru sağlanan veri by\nbitpay.com/rates ve coinmarketcap.com. Giovanni Martina tarafından grafikler";
+/* Translated from: đ 0.00 */
+"DLS-lz-uxJ.placeholder" = "đ 0,00";
+/* Translated from: 2 */
+"E2i-Cd-bly.normalTitle" = "2";
+/* Translated from: if you ever lose your phone, you will need this phrase to recover your wallet */
+"EQG-Km-ZKY.text" = "Hiç telefonunuzu kaybederseniz, cüzdanını kurtarmak için bu ifade gerekir";
+/* Translated from: sent */
+"FjB-H2-BnK.text" = "Gönderilen";
+/* Translated from: Detail */
+"GAm-wQ-UwG.text" = "Ayrıntı";
+/* Translated from: Title */
+"GWf-4e-jTu.text" = "Başlık";
+/* Translated from: Detail */
+"HrP-wv-Y1B.text" = "Ayrıntı";
+/* Translated from:   */
+"Huq-Vk-LaF.title" = "";
+/* Translated from: copy logs */
+"Irz-6P-zvD.normalTitle" = "kopya günlükleri";
+/* Translated from: ($1,000.00) */
+"JNR-nK-iyP.text" = "($1,000.00)";
+/* Translated from: . */
+"Ktu-9p-xOl.normalTitle" = ".";
+/* Translated from: 1 */
+"Lbu-bB-iV8.normalTitle" = "1";
+/* Translated from: 6 */
+"LgR-qo-dYy.normalTitle" = "6";
+/* Translated from: 8 */
+"MOQ-nc-fFL.normalTitle" = "8";
+/* Translated from: 0 */
+"Mvz-cZ-Yby.normalTitle" = "0";
+/* Translated from: đ 1,000 */
+"N6a-t6-1jK.text" = "đ 1.000";
+/* Translated from: 5 */
+"NyY-8N-uhK.normalTitle" = "5";
+/* Translated from: ($1,000.00) */
+"O7K-cF-GAA.text" = "($1,000.00)";
+/* Translated from:   */
+"OBr-C7-abe.title" = "";
+/* Translated from: ($1,000.00) */
+"Ofd-q3-a1P.text" = "($1,000.00)";
+/* Translated from: đ 1,000 */
+"PSx-oa-hSL.text" = "đ 1.000";
+/* Translated from: remind me later */
+"QQS-Me-RNh.title" = "daha sonra anımsat";
+/* Translated from: please write it down */
+"Td7-xP-kmB.text" = "Lütfen yaz";
+/* Translated from: not connected */
+"UyF-OV-QVY.text" = "bağlı değil";
+/* Translated from: settings */
+"W8m-Eh-Nf9.title" = "Ayarlar";
+/* Translated from: subtitle */
+"WHQ-zW-IjD.text" = "altyazı";
+/* Translated from: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"WSe-0v-Fha.normalTitle" = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: id: */
+"WsQ-ej-Wh4.text" = "numarası:";
+/* Translated from: amount: */
+"XJu-9x-HqQ.text" = "tutar:";
+/* Translated from: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"XV7-2s-hZs.normalTitle" = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: Enter this wallet's recovery phrase to wipe it and start/recover another. Your current balance remains on this phrase. */
+"YC6-rN-4P5.text" = "Temizle ve Başlat/başka bir yeniden elde etmek için bu Cüzdanı hafifleyecek kurtarma tümceciği girin. Geçerli bakiyeniz bu ifade üzerinde kalır.";
+/* Translated from: ($0.00) */
+"ZH0-Ng-7xb.text" = "($0.00)";
+/* Translated from: ↔︎ */
+"Zbe-Kx-XvG.normalTitle" = "↔︎";
+/* Translated from: 4 */
+"b8y-tJ-xAB.normalTitle" = "4";
+/* Translated from: pay address from clipboard */
+"bfj-xS-5rN.normalTitle" = "Pano adresinden ödeme";
+/* Translated from: đ 0.00 ($0.00) */
+"cRT-Sr-x6R.text" = "đ 0.00 ($0.00)";
+/* Translated from: scan QR code */
+"ce6-Wi-wk4.normalTitle" = "tarama QR kodu";
+/* Translated from: I wrote it down: */
+"cyp-mV-Bhd.text" = "Yazmıştım:";
+/* Translated from: 9 */
+"dBP-3X-1o6.normalTitle" = "9";
+/* Translated from: new wallet */
+"dOa-zm-TDG.normalTitle" = "Yeni cüzdan";
+/* Translated from: if you ever lose your phone, you will need this phrase to recover your wallet */
+"dX6-jg-5IA.text" = "Hiç telefonunuzu kaybederseniz, cüzdanını kurtarmak için bu ifade gerekir";
+/* Translated from: unconfirmed */
+"eJ2-5h-DO2.text" = "teyit edilmemiş";
+/* Translated from: show */
+"efL-Cj-Aho.normalTitle" = "göster";
+/* Translated from: confirm: */
+"fQN-xb-SYb.title" = "onaylayın:";
+/* Translated from: Title */
+"fVX-tM-tZx.text" = "Başlık";
+/* Translated from: StartWallet */
+"gE8-de-XET.title" = "StartWallet";
+/* Translated from: subtitle */
+"gZx-fI-siU.text" = "altyazı";
+/* Translated from: đ 1,000 */
+"hJG-af-ws1.text" = "đ 1.000";
+/* Translated from:   */
+"hWS-2G-hHE.title" = "";
+/* Translated from: About */
+"hre-wm-YW3.title" = "Hakkında";
+/* Translated from: 3 */
+"jGg-9z-XEe.normalTitle" = "3";
+/* Translated from: Send Dash: */
+"l5l-JR-LKA.text" = "Dash gönder:";
+/* Translated from: app support: */
+"lYb-eg-NfF.text" = "App destek:";
+/* Translated from: Title */
+"mpz-vn-jZ1.text" = "Başlık";
+/* Translated from: Title */
+"mxS-i4-y1n.text" = "Başlık";
+/* Translated from: Title */
+"ncN-gc-vpQ.text" = "Başlık";
+/* Translated from: recovery phrase: */
+"ooJ-EA-DFl.title" = "Kurtarma ifade:";
+/* Translated from: 7 */
+"p8P-3o-INx.normalTitle" = "7";
+/* Translated from: Detail */
+"pXc-8D-8Gh.text" = "Ayrıntı";
+/* Translated from: ($1,000.00) */
+"qNV-Ka-14n.text" = "($1,000.00)";
+/* Translated from: Receive Dash: */
+"qel-3J-2VC.text" = "Dash alırsınız:";
+/* Translated from: transaction details */
+"s4T-yd-VfX.title" = "Hareket ayrıntılarını";
+/* Translated from: no transactions */
+"t1j-JZ-FW0.text" = "hiçbir hareket";
+/* Translated from: Title */
+"uaG-gX-Ias.text" = "Başlık";
+/* Translated from: đ 1,000,000 */
+"ue1-2S-fEr.text" = "đ 1.000.000";
+/* Translated from: dashwallet v%ver%%net%\ncopyright © 2016 */
+"uvz-hk-Nr4.text" = "dashwallet v%ver%%net%\ncopyright © 2016";
+/* Translated from: start a new wallet by generating a wallet recovery phrase */
+"wDZ-DN-szv.text" = "yeni bir cüzdan bir cüzdan kurtarma ifade oluşturarak başlamak";
+/* Translated from: ($1,000.00) */
+"wd8-oB-KWn.text" = "($1,000.00)";
+/* Translated from: status: */
+"x2u-C3-wz6.text" = "durum:";
+/* Translated from: 88.8% */
+"xl3-sr-16q.text" = "%88.8";

@@ -1,0 +1,166 @@
+/* Translated from: Detail */
+"00M-e1-IWY.text" = "详细";
+/* Translated from: đ 1,000 */
+"0ui-yr-JjJ.text" = "1,000 Đ";
+/* Translated from: recover wallet */
+"4w7-k8-9wY.normalTitle" = "恢复的钱包";
+/* Translated from: subtitle */
+"55a-IW-IjK.text" = "字幕";
+/* Translated from: spiralus@mazacoin.org */
+"5OA-tB-Exg.text" = "spiralus@mazacoin.org";
+/* Translated from: TopTransactions */
+"6Bl-Zl-U7O.title" = "TopTransactions";
+/* Translated from: local currency */
+"8e2-ar-Ehc.text" = "当地货币";
+/* Translated from:   */
+"9L3-gM-TgP.title" = "";
+/* Translated from: to: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"9T2-dq-yVS.text" = "到︰ 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: generate recovery phrase */
+"A4M-yq-26d.normalTitle" = "生成恢复短语";
+/* Translated from: USD */
+"CsQ-fq-mfQ.text" = "美元";
+/* Translated from: start/recover another wallet */
+"D1b-HB-lKH.text" = "启动/恢复另一个钱包";
+/* Translated from: exchange rate data provided by\nbitpay.com/rates and coinmarketcap.com. Graphics by Giovanni Martina */
+"D4H-hd-LsX.text" = "汇率数据提供了 by\nbitpay.com/rates 和 coinmarketcap.com。由乔瓦尼 · 玛蒂娜的图形";
+/* Translated from: đ 0.00 */
+"DLS-lz-uxJ.placeholder" = "0.00 Đ";
+/* Translated from: 2 */
+"E2i-Cd-bly.normalTitle" = "2";
+/* Translated from: if you ever lose your phone, you will need this phrase to recover your wallet */
+"EQG-Km-ZKY.text" = "如果你丢失了你的手机，你会需要这句话来恢复你的钱包";
+/* Translated from: sent */
+"FjB-H2-BnK.text" = "发送";
+/* Translated from: Detail */
+"GAm-wQ-UwG.text" = "详细";
+/* Translated from: Title */
+"GWf-4e-jTu.text" = "标题";
+/* Translated from: Detail */
+"HrP-wv-Y1B.text" = "详细";
+/* Translated from:   */
+"Huq-Vk-LaF.title" = "";
+/* Translated from: copy logs */
+"Irz-6P-zvD.normalTitle" = "复制日志";
+/* Translated from: ($1,000.00) */
+"JNR-nK-iyP.text" = "($) 1,000.00";
+/* Translated from: . */
+"Ktu-9p-xOl.normalTitle" = ".";
+/* Translated from: 1 */
+"Lbu-bB-iV8.normalTitle" = "1";
+/* Translated from: 6 */
+"LgR-qo-dYy.normalTitle" = "6";
+/* Translated from: 8 */
+"MOQ-nc-fFL.normalTitle" = "8";
+/* Translated from: 0 */
+"Mvz-cZ-Yby.normalTitle" = "0";
+/* Translated from: đ 1,000 */
+"N6a-t6-1jK.text" = "1,000 Đ";
+/* Translated from: 5 */
+"NyY-8N-uhK.normalTitle" = "5";
+/* Translated from: ($1,000.00) */
+"O7K-cF-GAA.text" = "($) 1,000.00";
+/* Translated from:   */
+"OBr-C7-abe.title" = "";
+/* Translated from: ($1,000.00) */
+"Ofd-q3-a1P.text" = "($) 1,000.00";
+/* Translated from: đ 1,000 */
+"PSx-oa-hSL.text" = "1,000 Đ";
+/* Translated from: remind me later */
+"QQS-Me-RNh.title" = "以后提醒我";
+/* Translated from: please write it down */
+"Td7-xP-kmB.text" = "请把它写";
+/* Translated from: not connected */
+"UyF-OV-QVY.text" = "未连接";
+/* Translated from: settings */
+"W8m-Eh-Nf9.title" = "设置";
+/* Translated from: subtitle */
+"WHQ-zW-IjD.text" = "字幕";
+/* Translated from: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"WSe-0v-Fha.normalTitle" = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: id: */
+"WsQ-ej-Wh4.text" = "id:";
+/* Translated from: amount: */
+"XJu-9x-HqQ.text" = "金额︰";
+/* Translated from: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"XV7-2s-hZs.normalTitle" = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: Enter this wallet's recovery phrase to wipe it and start/recover another. Your current balance remains on this phrase. */
+"YC6-rN-4P5.text" = "输入这个钱包恢复短语擦它，并开始/恢复另一个。您当前的余额仍对这句话。";
+/* Translated from: ($0.00) */
+"ZH0-Ng-7xb.text" = "(￥ 0.00)";
+/* Translated from: ↔︎ */
+"Zbe-Kx-XvG.normalTitle" = "↔︎";
+/* Translated from: 4 */
+"b8y-tJ-xAB.normalTitle" = "4";
+/* Translated from: pay address from clipboard */
+"bfj-xS-5rN.normalTitle" = "支付地址从剪贴板";
+/* Translated from: đ 0.00 ($0.00) */
+"cRT-Sr-x6R.text" = "Đ 0.00 (￥ 0.00)";
+/* Translated from: scan QR code */
+"ce6-Wi-wk4.normalTitle" = "扫描二维码";
+/* Translated from: I wrote it down: */
+"cyp-mV-Bhd.text" = "我写下来︰";
+/* Translated from: 9 */
+"dBP-3X-1o6.normalTitle" = "9";
+/* Translated from: new wallet */
+"dOa-zm-TDG.normalTitle" = "新的钱包";
+/* Translated from: if you ever lose your phone, you will need this phrase to recover your wallet */
+"dX6-jg-5IA.text" = "如果你丢失了你的手机，你会需要这句话来恢复你的钱包";
+/* Translated from: unconfirmed */
+"eJ2-5h-DO2.text" = "未经证实的";
+/* Translated from: show */
+"efL-Cj-Aho.normalTitle" = "显示";
+/* Translated from: confirm: */
+"fQN-xb-SYb.title" = "确认︰";
+/* Translated from: Title */
+"fVX-tM-tZx.text" = "标题";
+/* Translated from: StartWallet */
+"gE8-de-XET.title" = "StartWallet";
+/* Translated from: subtitle */
+"gZx-fI-siU.text" = "字幕";
+/* Translated from: đ 1,000 */
+"hJG-af-ws1.text" = "1,000 Đ";
+/* Translated from:   */
+"hWS-2G-hHE.title" = "";
+/* Translated from: About */
+"hre-wm-YW3.title" = "关于";
+/* Translated from: 3 */
+"jGg-9z-XEe.normalTitle" = "3";
+/* Translated from: Send Dash: */
+"l5l-JR-LKA.text" = "发送破折号︰";
+/* Translated from: app support: */
+"lYb-eg-NfF.text" = "应用程序支持︰";
+/* Translated from: Title */
+"mpz-vn-jZ1.text" = "标题";
+/* Translated from: Title */
+"mxS-i4-y1n.text" = "标题";
+/* Translated from: Title */
+"ncN-gc-vpQ.text" = "标题";
+/* Translated from: recovery phrase: */
+"ooJ-EA-DFl.title" = "恢复短语︰";
+/* Translated from: 7 */
+"p8P-3o-INx.normalTitle" = "7";
+/* Translated from: Detail */
+"pXc-8D-8Gh.text" = "详细";
+/* Translated from: ($1,000.00) */
+"qNV-Ka-14n.text" = "($) 1,000.00";
+/* Translated from: Receive Dash: */
+"qel-3J-2VC.text" = "收到短划线︰";
+/* Translated from: transaction details */
+"s4T-yd-VfX.title" = "交易记录详细信息";
+/* Translated from: no transactions */
+"t1j-JZ-FW0.text" = "没有交易记录";
+/* Translated from: Title */
+"uaG-gX-Ias.text" = "标题";
+/* Translated from: đ 1,000,000 */
+"ue1-2S-fEr.text" = "1,000,000 Đ";
+/* Translated from: dashwallet v%ver%%net%\ncopyright © 2016 */
+"uvz-hk-Nr4.text" = "dashwallet v%ver%%net%\ncopyright © 2016年";
+/* Translated from: start a new wallet by generating a wallet recovery phrase */
+"wDZ-DN-szv.text" = "通过生成一个钱包恢复短语开始一个新的钱包";
+/* Translated from: ($1,000.00) */
+"wd8-oB-KWn.text" = "($) 1,000.00";
+/* Translated from: status: */
+"x2u-C3-wz6.text" = "状态︰";
+/* Translated from: 88.8% */
+"xl3-sr-16q.text" = "88.8%";

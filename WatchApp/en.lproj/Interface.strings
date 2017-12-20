@@ -1,0 +1,90 @@
+
+/* Class = "WKInterfaceLabel"; text = "Open Maza iPhone app to setup your wallet"; ObjectID = "0G6-TY-Hz8"; */
+"0G6-TY-Hz8.text" = "";
+
+/* Class = "WKInterfaceController"; title = "Cancel"; ObjectID = "0Vz-O9-jKb"; */
+"0Vz-O9-jKb.title" = "";
+
+/* Class = "WKInterfaceButton"; title = "OK"; ObjectID = "16j-i7-bps"; */
+"16j-i7-bps.title" = "";
+
+/* Class = "WKInterfaceController"; title = "Maza"; ObjectID = "AgC-eL-Hgc"; */
+"AgC-eL-Hgc.title" = "";
+
+/* Class = "WKInterfaceButton"; title = "0"; ObjectID = "D7f-AR-hLE"; */
+"D7f-AR-hLE.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "$211.86"; ObjectID = "Ete-WK-T2f"; */
+"Ete-WK-T2f.text" = "";
+
+/* Class = "WKInterfaceButton"; title = "8"; ObjectID = "HZI-2Y-VSr"; */
+"HZI-2Y-VSr.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "m1,000,000"; ObjectID = "NrA-Sa-gol"; */
+"NrA-Sa-gol.text[device=watch42mm]" = "";
+
+/* Class = "WKInterfaceLabel"; text = "m1,000,000"; ObjectID = "NrA-Sa-gol"; */
+"NrA-Sa-gol.text" = "";
+
+/* Class = "WKInterfaceButton"; title = "3"; ObjectID = "VQW-CH-6pL"; */
+"VQW-CH-6pL.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "$272.87"; ObjectID = "Vkk-lL-tRJ"; */
+"Vkk-lL-tRJ.text" = "";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "XkS-y5-khE"; */
+"XkS-y5-khE.text" = "";
+
+/* Class = "WKInterfaceController"; title = "Balance"; ObjectID = "Z4S-M1-kAB"; */
+"Z4S-M1-kAB.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "Transactions"; ObjectID = "cJA-1T-GPI"; */
+"cJA-1T-GPI.text" = "";
+
+/* Class = "WKInterfaceLabel"; text = "receive m 100, 5 days ago"; ObjectID = "ciz-eK-H2G"; */
+"ciz-eK-H2G.text" = "";
+
+/* Class = "WKInterfaceLabel"; text = "10/12/05"; ObjectID = "dRd-xj-QAV"; */
+"dRd-xj-QAV.text" = "";
+
+/* Class = "WKInterfaceLabel"; text = "m 0.00"; ObjectID = "gGv-2G-qCG"; */
+"gGv-2G-qCG.text" = "";
+
+/* Class = "WKInterfaceButton"; title = "7"; ObjectID = "hTf-r7-6aV"; */
+"hTf-r7-6aV.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "m 14,659"; ObjectID = "hdP-bG-Psh"; */
+"hdP-bG-Psh.text" = "";
+
+/* Class = "WKInterfaceButton"; title = "6"; ObjectID = "kax-Of-XJA"; */
+"kax-Of-XJA.title" = "";
+
+/* Class = "WKInterfaceButton"; title = "4"; ObjectID = "mKe-go-dtV"; */
+"mKe-go-dtV.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "Open maza iPhone app to setup your wallet"; ObjectID = "oZJ-5z-9KB"; */
+"oZJ-5z-9KB.text" = "";
+
+/* Class = "WKInterfaceController"; title = "Receive Money"; ObjectID = "pMv-3G-yix"; */
+"pMv-3G-yix.title" = "";
+
+/* Class = "WKInterfaceButton"; title = "1"; ObjectID = "pXY-ZE-M1z"; */
+"pXY-ZE-M1z.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "m 802,130"; ObjectID = "sG9-6X-XlP"; */
+"sG9-6X-XlP.text" = "";
+
+/* Class = "WKInterfaceButton"; title = "5"; ObjectID = "svD-aB-ldn"; */
+"svD-aB-ldn.title" = "";
+
+/* Class = "WKInterfaceLabel"; text = "$4.00"; ObjectID = "vtz-w2-H90"; */
+"vtz-w2-H90.text" = "";
+
+/* Class = "WKInterfaceLabel"; text = "⌫"; ObjectID = "yf1-ls-Qqp"; */
+"yf1-ls-Qqp.text" = "";
+
+/* Class = "WKInterfaceButton"; title = "2"; ObjectID = "ynr-Gx-N8z"; */
+"ynr-Gx-N8z.title" = "";
+
+/* Class = "WKInterfaceButton"; title = "9"; ObjectID = "zL5-ux-cbp"; */
+"zL5-ux-cbp.title" = "";

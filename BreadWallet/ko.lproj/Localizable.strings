@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ 'duffs'입니다. %2$ @ = 1 대 쉬.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO 하지 복구 문구를 보고 누구 든 지 나 그들은 복구 구문 비밀 번호를 관리자 또는 다른 dash.\n\nNEVER 종류를 보낼 수 있습니다. 다른 장치에 감염 될 수 있습니다. \n";
+/* Translated from: bad signature */
+"bad signature" = "나쁜 서명";
+/* Translated from: dash address */
+"dash address" = "대시 주소";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "대시 주소 클립보드에 복사할 수 있습니다. 대시 'X'로 시작 하거나 '7' 항상 주소.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "대시 네트워크 요금은 우선 순위가 높은 거래 (제거 지연이 발생할 수 있습니다) 선택 사항";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "클립보드에 유효한 대시 또는 Bitcoin 주소 포함 되어 있지 않습니다.";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "지우기 확인";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "장치 보안 COMPROMISED\nAny '탈 옥' 애플 리 케이 션 수 있습니다 어떤 다른 애플 리 케이 션의 키체인 데이터에 액세스 (그리고 당신의 dashs를 훔치는).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "장치 보안 COMPROMISED\nAny '탈 옥' 애플 리 케이 션 수 있습니다 어떤 다른 애플 리 케이 션의 키체인 데이터에 액세스 (그리고 당신의 dashs를 훔치는). 이 지갑을 즉시 닦 고 보안 장치에 복원.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "다른 대시 주소를이 QR 코드를 스캔 하자. 누구 든 지 당신의 지갑에 귀하의 주소로 전송 하 여 dashs을 보낼 수 있습니다.";
+/* Translated from: new phrase */
+"new phrase" = "새로운 구문";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "안 대시 또는 대시 QR 코드";
+/* Translated from: post-dated */
+"post-dated" = "게시 일자";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "이 주소에 dashs를 받기: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "이 거래에 대 한 표준 대시 네트워크 수수료는 %1$ @ (%2$@)\n\nremoving이이 수수료 확인 지연 될 수 있습니다";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "이것은 당신의 디지털 현금 (대시) 주소 이다. 이메일 이나 sms를 보내거나 복사를 누릅니다. 주소 때마다 바뀝니다 메시지가 자금, 하지만 오래 된 주소는 항상 작동.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "거래는 날짜가";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ '대시'입니다. %@ 1 대시 =.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ 카메라에 액세스할 수 없습니다은";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d 확인";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 확인";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 확인";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \' 복구 구문 단어 하지 않습니다";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "@ \n 총 %1$ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif 당신이 잃을 수도 귀하의 휴대 전화, 지갑 복구 필요";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d 시도 remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 시도 remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "@ \n\n 금액 %1$ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA 장치 패스 코드는 당신의 지갑을 보호 하기 위해 필요 하다. 이동 설정 하 고 계속 하려면 암호를 켜십시오.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS 이미 USED\n\ndash 주소 단일 사용 only\n\nre-사용 둘 다 당신과 받는 사람에 대 한 개인 정보 보호를 감소 하 고 받는 주소를 직접 제어 하지 않는 경우 손실 될 수 있습니다 것입니다";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow 카메라 액세스 in\nSettings->->-> 카메라 개인 정보 %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "당신의 recovery\nphrase를 볼 사람이 못하게 \nDO 또는 그들은 당신의 대시. \n을 보낼 수 있습니다.";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO 하지 screenshot.\nScreenshots는 다른 apps\nand 장치. \n을 볼 수 있습니다.";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork + @ %1$ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER 복구 문구 into\npassword 관리자 또는 다른 입력. \nOther 장치에 감염 될 수 있습니다. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "%1$ d %2$ @에 다시 \ntry";
+/* Translated from: about */
+"about" = "에 대 한";
+/* Translated from: always require passcode */
+"always require passcode" = "항상 암호 필요";
+/* Translated from: amount too small */
+"amount too small" = "너무 작은 금액";
+/* Translated from: bad password, try again */
+"bad password, try again" = "잘못 된 암호, 다시 시도";
+/* Translated from: bad payment request */
+"bad payment request" = "나쁜 지불 요청";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "나쁜 지불 요청 URL";
+/* Translated from: bad payment URL */
+"bad payment URL" = "나쁜 결제 URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "나쁜 복구 문구";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "%2$ d의 # %1$ d 블록";
+/* Translated from: Buy Dash */
+"Buy Dash" = "대시를 구매";
+/* Translated from: cancel */
+"cancel" = "취소";
+/* Translated from: change */
+"change" = "변경";
+/* Translated from: change passcode */
+"change passcode" = "암호 변경";
+/* Translated from: change payment amount? */
+"change payment amount?" = "지불 금액을 변경?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "주소 균형을 확인...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "개인 키 균형 검사...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "에 대 한 암호를 선택 %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "클립보드에 유효한 대시 주소 포함 되어 있지 않습니다.";
+/* Translated from: close app */
+"close app" = "응용 프로그램을 닫습니다";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "블록 # %d 확인";
+/* Translated from: connect timeout */
+"connect timeout" = "연결 타임 아웃";
+/* Translated from: copied */
+"copied" = "복사";
+/* Translated from: copy */
+"copy" = "복사";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "클립보드로 복사 주소";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "클립보드로 복사 요청";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "지갑 주소 클립보드 복사?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "주소 잔액을 확인 하지 못했습니다.";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "지불을 만들 수 없습니다.";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "균형을 청소 수 없습니다.";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "대시 네트워크에 지불을 전송할 수 없습니다.";
+/* Translated from: Dash address */
+"Dash address" = "대시 주소";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "대시 주소 클립보드에 복사할 수 있습니다. 대시 주소는 항상 '1' 또는 '3'으로 시작합니다.";
+/* Translated from: dash network fee */
+"dash network fee" = "대시 네트워크 수수료";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "대시 지불 수 없습니다 미만 %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "대시 트랜잭션 서명 되지";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "대시 트랜잭션 출력 수 없습니다 미만 %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "장치 보안 COMPROMISED\nAny '탈 옥' 애플 리 케이 션 수 있습니다 어떤 다른 애플 리 케이 션의 키체인 데이터에 액세스 (그리고 훔치는 당신의 대시).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "장치 보안 COMPROMISED\nAny '탈 옥' 애플 리 케이 션 수 있습니다 어떤 다른 애플 리 케이 션의 키체인 데이터에 액세스 (그리고 훔치는 당신의 대시). 이 지갑을 즉시 닦 고 보안 장치에 복원.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "48 시간 동안 지갑 해제? 다시 복구 구문을 사용 하 여 언제 든 지 사용할 수 있습니다.";
+/* Translated from: do it later */
+"do it later" = "나중에 그것을";
+/* Translated from: done */
+"done" = "완료";
+/* Translated from: double spend */
+"double spend" = "이중 지출";
+/* Translated from: email not configured */
+"email not configured" = "전자 메일 구성 되지 않음";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "활성화 수신 알림";
+/* Translated from: enter old passcode */
+"enter old passcode" = "오래 된 암호를 입력";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "번들 존재 여부를 확인 하는 오류";
+/* Translated from: error determining versions */
+"error determining versions" = "버전을 결정 하는 오류";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "diff 다운로드 오류: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "번들을 추출 오류: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "오류 가져오는 번들:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "오류 읽기 현재 번들";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "오류 서명 대시 트랜잭션";
+/* Translated from: error signing transaction */
+"error signing transaction" = "오류 서명 트랜잭션";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "번들 파일 쓰기 오류:";
+/* Translated from: from: */
+"from:" = "보낸 사람:";
+/* Translated from: hour */
+"hour" = "시간";
+/* Translated from: hours */
+"hours" = "시간";
+/* Translated from: id: */
+"id:" = "id:";
+/* Translated from: ignore */
+"ignore" = "무시";
+/* Translated from: sweep private key */
+"sweep private key" = "개인 키 가져오기";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "중요 한";
+/* Translated from: insufficient funds */
+"insufficient funds" = "부족 한 자금";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "대시 네트워크 비용에 대 한 부족 한 자금";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "instantSend, 함께 보내는 부족 자금 제발 몇 분 또는 일반적으로 보낼";
+/* Translated from: INVALID */
+"INVALID" = "올바르지 않음";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON 직렬화 오류";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "다른 대시 주소를이 QR 코드를 스캔 하자. 누구 든 지 귀하의 주소를 전송 하 여 지갑에 대시를 보낼 수 있습니다.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "위치 서비스를 사용할 수 없습니다.";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "위치 서비스 권한이 없습니다.";
+/* Translated from: lock */
+"lock" = "잠금";
+/* Translated from: memo: */
+"memo:" = "메모:";
+/* Translated from: minute */
+"minute" = "분";
+/* Translated from: minutes */
+"minutes" = "분";
+/* Translated from: missing certificate */
+"missing certificate" = "누락 된 인증서";
+/* Translated from: more... */
+"more..." = "더 많은...";
+/* Translated from: moved */
+"moved" = "이동";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "다음, 복구 문구를 적어";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "환율 데이터";
+/* Translated from: no peers found */
+"no peers found" = "아니 동료 발견";
+/* Translated from: No wallet */
+"No wallet" = "아니 지갑";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "안 대시 QR 코드";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "주소를 유효한 대시 하지";
+/* Translated from: not a valid private key */
+"not a valid private key" = "아닙니다 유효한 개인 키";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "대시 네트워크에 연결 되어 있지";
+/* Translated from: ok */
+"ok" = "괜찮았던 것";
+/* Translated from: panic */
+"panic" = "공황";
+/* Translated from: panic lock */
+"panic lock" = "공황 잠금";
+/* Translated from: passcode */
+"passcode" = "암호";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "암호에 대 한 %@";
+/* Translated from: password */
+"password" = "암호";
+/* Translated from: password protected key */
+"password protected key" = "암호 보호 키";
+/* Translated from: pay */
+"pay" = "지불";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "수취인 신원 인증 되지 않습니다.";
+/* Translated from: payment address */
+"payment address" = "결제 주소";
+/* Translated from: payment output */
+"payment output" = "지불 출력";
+/* Translated from: pending */
+"pending" = "보류 중";
+/* Translated from: Please wait */
+"Please wait" = "잠시만 기다려 주십시오";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "이 주소에 대시를 받을: %@";
+/* Translated from: received */
+"received" = "받은";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "@ %1 $를 받았습니다 (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "복구 구문";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "복구 어구 일치 하지 않습니다.";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "복구 문구 %d 단어 있어야 합니다.";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "지불 금액 by\n%1$@ 감소 (%2$ @)?";
+/* Translated from: request */
+"request" = "요청";
+/* Translated from: request an amount */
+"request an amount" = "요청 금액";
+/* Translated from: request expired */
+"request expired" = "요청 만료";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "네트워크 \'%1$@\ 요청한' \'%2$@\ 대신'";
+/* Translated from: rescan */
+"rescan" = "다시 검색";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "blockchain를 다시";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "만약 당신이 생각 하는 수 있습니다 트랜잭션을 누락 했거나 문제가 보내는 (중이거나 수 몇 분 정도 걸릴) 하는 데 blockchain를 다시";
+/* Translated from: reset */
+"reset" = "리셋";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "다른 사람의 그들의 대시 주소를 QR 코드를 스캔 합니다. 주소와 사람에 게 지불을 보낼 수 있습니다.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "스크린샷을 다른 애플 리 케이 션 및 장치를 볼 수 있습니다. 새로운 복구 구문을 생성 하 고 그것을 비밀로.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "스크린샷을 다른 애플 리 케이 션 및 장치를 볼 수 있습니다. 당신의 자금을 위험에 있습니다. 다른 지갑에 당신의 균형을 전송 합니다.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "%1 $ 본 %2$ d의 d 동료";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "%1$ @ 보내기 (%2$ @) 당신의 지갑에이 개인 키에서? 대시 네트워크 @ %3 $의 수수료를 받게 됩니다 (%4$ @).";
+/* Translated from: send address as email */
+"send address as email" = "으로 이메일 주소를 보내";
+/* Translated from: send address as message */
+"send address as message" = "메시지 주소를 보낼";
+/* Translated from: send request as email */
+"send request as email" = "이메일로 요청을 보내";
+/* Translated from: send request as message */
+"send request as message" = "요청을 메시지로 보내기";
+/* Translated from: sent */
+"sent" = "전송";
+/* Translated from: sent! */
+"sent!" = "전송!";
+/* Translated from: settings */
+"settings" = "설정";
+/* Translated from: show */
+"show" = "보기";
+/* Translated from: show phrase */
+"show phrase" = "문구를 표시";
+/* Translated from: sms not currently available */
+"sms not currently available" = "현재 사용할 수 없는 sms";
+/* Translated from: spent address */
+"spent address" = "보낸된 주소";
+/* Translated from: spent input */
+"spent input" = "지출된 입력";
+/* Translated from: status: */
+"status:" = "상태:";
+/* Translated from: swept! */
+"swept!" = "휩 쓸!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "동기화, 잠시만 기다려 주세요...";
+/* Translated from: the app will now close */
+"the app will now close" = "app는 지금 닫힙니다.";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "이것은 당신의 대시 주소 이다. 이메일 이나 sms를 보내거나 복사를 누릅니다. 주소 때마다 바뀝니다 메시지가 자금, 하지만 오래 된 주소는 항상 작동.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "이것은 당신의 대시 균형 이다. 대시는 통화입니다. 시장 환율 변화입니다.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "이 결제 주소는 이미 당신의 지갑에";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "이 개인 키가 이미 당신의 지갑에";
+/* Translated from: this private key is empty */
+"this private key is empty" = "이 개인 키가 빈";
+/* Translated from: to: */
+"to:" = "받는 사람:";
+/* Translated from: to: %@ */
+"to: %@" = ": %@";
+/* Translated from: touch id limit */
+"touch id limit" = "터치 id 제한";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "id 지출 한도 터치";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "거래 취소, 네트워크 시간 초과";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "거래 수수료 (때문에 작은 \'dust\'예금)이 개인 키에 사용할 수 있는 자금 보다 더 많은 비용이";
+/* Translated from: transaction history */
+"transaction history" = "거래 내역";
+/* Translated from: transaction rejected */
+"transaction rejected" = "거래 거부";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "장치 패스 코드 설정";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "API 토큰을 검색할 수 없습니다";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "API 토큰을 저장할 수 없습니다";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "예기치 않은 응답 %@";
+/* Translated from: unknown address */
+"unknown address" = "알 수 없는 주소";
+/* Translated from: unrecognized address */
+"unrecognized address" = "알 수 없는 주소";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "지원 되지 않는 또는 손상 된 문서";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "지원 되지 않는 서명 유형";
+/* Translated from: unsupported url */
+"unsupported url" = "지원 되지 않는 url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "신뢰할 수 없는 인증서";
+/* Translated from: unverified */
+"unverified" = "확인 되지 않은";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "확인, 확인을 기다리고";
+/* Translated from: verify passcode */
+"verify passcode" = "암호 확인";
+/* Translated from: wallet address */
+"wallet address" = "지갑 주소";
+/* Translated from: wallet disabled */
+"wallet disabled" = "지갑 사용 하지 않도록 설정";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "지갑 안 준비";
+/* Translated from: WARNING */
+"WARNING" = "경고";
+/* Translated from: wipe */
+"wipe" = "지우기";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "복구 문구를 적어";
+/* Translated from: you received dash! */
+"you received dash!" = "대시 받은!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "당신의 지갑의 밖으로 있을 수 있습니다 동기화. \nThis는 blockchain를 재검색 하 여 종종 고쳐질 수 있다.";

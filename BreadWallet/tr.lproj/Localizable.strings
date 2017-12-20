@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "'duffs için' %1$ @ olduğunu. %2$ @ 1 tutam =.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO kimsenin kurtarma metninizi görmesine izin değil veya kurtarma sıralı parola müdür içine veya başka bir yerde, dash.\n\nNEVER türü geçirebilirsiniz. Diğer cihazlar bulaşabilir. \n";
+/* Translated from: bad signature */
+"bad signature" = "hatalı imza";
+/* Translated from: dash address */
+"dash address" = "Dash adresi";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Dash adreslerini panoya kopyalanabilir. Bir çizgi her zaman 'X' ile başlayan ya da '7' adresi.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "Dash ağ ücretler yalnızca yüksek öncelikli işlemleri (kaldırma gecikmelere neden) için isteğe bağlı";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "Pano geçerli bir çizgi veya Bitcoin adresi içermiyor";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "TEMİZLEME İŞLEMİ ONAYLAMAK";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "AYGIT güvenlik COMPROMISED\nAny 'firar' app herhangi bir başka app Anahtarlık veri erişim (ve senin dashs çalmak).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "AYGIT güvenlik COMPROMISED\nAny 'firar' app herhangi bir başka app Anahtarlık veri erişim (ve senin dashs çalmak). Bu cüzdanı hemen silin ve güvenli bir aygıtta geri yükleme.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Diğerleri senin çizgi adresini almak için bu QR Kod tarama sağlar. Dashs, m-cüzdana adresinize aktararak-ebilmek kimse göndermek.";
+/* Translated from: new phrase */
+"new phrase" = "yeni ifade";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "değil bir çizgi veya çizgi QR kodu";
+/* Translated from: post-dated */
+"post-dated" = "sonrası tarihli";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Dashs bu adresten alırsınız: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "Bu işlem için Standart çizgi ağ ücreti olduğunu @ %1$ (%2$@)\n\nremoving bu ücret onay gecikme olabilir";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Bu, dijital nakit (çizgi) adresidir. Kopyalamak veya e-posta veya sms göndermek için dokunun. Belgili tanımlık adres yazmak-ecek değişmek her zaman para almak, ama eski adresleri her zaman iş.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "post-tarihli hareketidir";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ 'çizgi' için var. * 1 tutam =.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ kameraya erişmek için izin verilmez";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d teyitleri";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 teyitleri";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 onay";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \' kurtarma ifade kelime değil";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n toplam %1$ @ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif hiç telefonunuzun kaybolması, cüzdanını kurtarmak için ihtiyacınız";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d remaining\n çalışır";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 girişimi remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "@ \n\n miktar %1$ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA aygıt parolası cüzdanını korumak için gereklidir. Ayarları'na gidin ve devam etmek için giriş kodu açın.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS zaten USED\n\ndash Kişilik only\n\nre kullanımı hem sizde hem de alıcıda için gizlilik azaltır ve alıcı doğrudan adresi kontrol etmiyor kaybına neden olabilir için adresleri yöneliktir";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow kamera erişim in\nSettings-> gizlilik-> kamera-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO kimsenin senin recovery\nphrase görmesine izin değil veya çizgi. \n geçirebilirsiniz";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO almaz bir screenshot.\nScreenshots diğer apps\nand aygıtları. \n görünür";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork ücret + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER tip kurtarma ifade into\npassword yöneticileriniz ya da başka bir yerde. \nOther cihazlar enfekte olabilir. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "%1$ d %2$ içinde yeniden \ntry";
+/* Translated from: about */
+"about" = "hakkında";
+/* Translated from: always require passcode */
+"always require passcode" = "her zaman şifre gerektirir";
+/* Translated from: amount too small */
+"amount too small" = "çok küçük bir miktar";
+/* Translated from: bad password, try again */
+"bad password, try again" = "hatalı parola, yeniden deneyin";
+/* Translated from: bad payment request */
+"bad payment request" = "kötü ödeme talebi";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "kötü ödeme istek URL'si ile döner";
+/* Translated from: bad payment URL */
+"bad payment URL" = "kötü ödeme URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "kötü kurtarma ifade";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "#%1 %2$ d $d blok";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Dash satın";
+/* Translated from: cancel */
+"cancel" = "İptal";
+/* Translated from: change */
+"change" = "Değiştir";
+/* Translated from: change passcode */
+"change passcode" = "Şifre değiştirme";
+/* Translated from: change payment amount? */
+"change payment amount?" = "ödeme tutarı değiştirmek?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "Adres denge denetleniyor...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "özel anahtar denge denetleniyor...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "şifre için seçin %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "Pano geçerli çizgi adres içermiyor";
+/* Translated from: close app */
+"close app" = "App kapatmak";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "#%d bloğunda doğruladı";
+/* Translated from: connect timeout */
+"connect timeout" = "zaman aşımı bağlanmak";
+/* Translated from: copied */
+"copied" = "kopyalanan";
+/* Translated from: copy */
+"copy" = "kopya";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "adresini panoya kopyala";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "Panoya Kopyala isteği";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "m-cüzdan adreslerini panoya kopyalamak?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "Adres denge kontrol edemez";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "ödeme yapamadım";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "denge süpürüp olamaz";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "ödeme dash ağa iletme olamaz";
+/* Translated from: Dash address */
+"Dash address" = "Dash adresi";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Dash adreslerini panoya kopyalanabilir. Bir çizgi adresi her zaman '1' veya '3' ile başlar.";
+/* Translated from: dash network fee */
+"dash network fee" = "Dash ağ ücreti";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "Dash ödemeler olamaz az %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "imzalı çizgi hareket";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "çizgi hareket çıkışlarını olamaz az %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "AYGIT güvenlik COMPROMISED\nAny 'firar' app herhangi bir başka app Anahtarlık veri erişim (ve dash çalmak).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "AYGIT güvenlik COMPROMISED\nAny 'firar' app herhangi bir başka app Anahtarlık veri erişim (ve dash çalmak). Bu cüzdanı hemen silin ve güvenli bir aygıtta geri yükleme.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "M-cüzdan için 48 saat devre dışı bırakmak? Kurtarma ifade kullanarak istediğiniz zaman yeniden etkinleştirebilirsiniz.";
+/* Translated from: do it later */
+"do it later" = "daha sonra yapmak";
+/* Translated from: done */
+"done" = "bitmiş";
+/* Translated from: double spend */
+"double spend" = "Çift harcamak";
+/* Translated from: email not configured */
+"email not configured" = "e-posta değil yapılandırılmış";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "bildirimleri almayı etkinleştir";
+/* Translated from: enter old passcode */
+"enter old passcode" = "eski giriş kodunu girin";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "paket varsa saptama hatası";
+/* Translated from: error determining versions */
+"error determining versions" = "sürümleri saptama hatası";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "diff yükleme hatası: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "hata ayıklama paket: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "hata alma paket:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "hata okuma geçerli paket";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "hata imza çizgi hareket";
+/* Translated from: error signing transaction */
+"error signing transaction" = "hata imza hareketi";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "paket dosyası yazılırken bir hata oluştu:";
+/* Translated from: from: */
+"from:" = "Kaynak:";
+/* Translated from: hour */
+"hour" = "Saat";
+/* Translated from: hours */
+"hours" = "Saat";
+/* Translated from: id: */
+"id:" = "numarası:";
+/* Translated from: ignore */
+"ignore" = "Yoksay";
+/* Translated from: sweep private key */
+"sweep private key" = "özel anahtarı alma";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "ÖNEMLİ";
+/* Translated from: insufficient funds */
+"insufficient funds" = "yetersiz bakiye";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "dash ağ ücret karşılığında yetersiz bakiye";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "yetersiz bakiye instantSend ile göndermek için lütfen birkaç dakika bekleyin veya normalde göndermek";
+/* Translated from: INVALID */
+"INVALID" = "Geçersiz";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON seri hale getirme hatası";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Diğerleri senin çizgi adresini almak için bu QR Kod tarama sağlar. Herkes, m-cüzdana adresinize aktararak çizgi gönderebilirsiniz.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Konum servisleri devre dışı bırakılır";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Konum servisleri yetkiniz yok";
+/* Translated from: lock */
+"lock" = "kilit";
+/* Translated from: memo: */
+"memo:" = "Not:";
+/* Translated from: minute */
+"minute" = "dakika";
+/* Translated from: minutes */
+"minutes" = "dakika";
+/* Translated from: missing certificate */
+"missing certificate" = "Eksik sertifika";
+/* Translated from: more... */
+"more..." = "daha fazla...";
+/* Translated from: moved */
+"moved" = "taşındı";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "sonra kurtarma metninizi yazın";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "Döviz Kuru veri yok";
+/* Translated from: no peers found */
+"no peers found" = "hiçbir eş bulunamadı";
+/* Translated from: No wallet */
+"No wallet" = "Cüzdan yok";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "değil bir çizgi QR kodu";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "Geçerli çizgi adresi";
+/* Translated from: not a valid private key */
+"not a valid private key" = "değil geçerli bir özel anahtarı";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "dash þebekeye baðlý deðil";
+/* Translated from: ok */
+"ok" = "Tamam";
+/* Translated from: panic */
+"panic" = "Panik";
+/* Translated from: panic lock */
+"panic lock" = "Panik kilidi";
+/* Translated from: passcode */
+"passcode" = "giriş kodu";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "şifre için %@";
+/* Translated from: password */
+"password" = "şifre";
+/* Translated from: password protected key */
+"password protected key" = "parola korumalı anahtar";
+/* Translated from: pay */
+"pay" = "ödeme";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "alacaklı kimliği sertifikalı değil";
+/* Translated from: payment address */
+"payment address" = "ödeme adresi";
+/* Translated from: payment output */
+"payment output" = "ödeme çıktı";
+/* Translated from: pending */
+"pending" = "Bekleyen";
+/* Translated from: Please wait */
+"Please wait" = "Lütfen bekleyin";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Dash bu adresten alırsınız: %@";
+/* Translated from: received */
+"received" = "alınan";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "alınan %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "Kurtarma ifade";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "Kurtarma ifade eşleşmiyor";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "Kurtarma ifade %d kelime olmalıdır";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "ödeme tutarı by\n%1$@ azaltmak (%2$ @)?";
+/* Translated from: request */
+"request" = "istek";
+/* Translated from: request an amount */
+"request an amount" = "isteği bir miktar";
+/* Translated from: request expired */
+"request expired" = "istek süresi";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "Ağ \'%1$@\ istenen' yerine \'%2$@\'";
+/* Translated from: rescan */
+"rescan" = "Yeniden Tara";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "blockchain yeniden Tara";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "hareketleri eksik olabilir veya (almak birkaç zabıtname sorun Gönderen yeniden tararken) sahip düşünüyorsanız blockchain yeniden Tara";
+/* Translated from: reset */
+"reset" = "sıfırlama";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Kendi çizgi adresini almak için başka birinin QR kodu tarayın. Bir adresi olan herkese bir ödeme gönderebilirsiniz.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Ekran görüntüleri diğer apps ve cihazlar için görülebilir. Yeni bir kurtarma ifade oluşturmak ve gizli tutun.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Ekran görüntüleri diğer apps ve cihazlar için görülebilir. Para risk altındadır. Denge başka bir cüzdan için transfer.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "gördün mü %1$ tarafından %2$ d d akranlar";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Göndermek @ %1$ (%2$ @) üzerinden cüzdanını içine bu özel anahtarı? Dash ağ @ %3$ bir ücret alacaksınız (%4$ @).";
+/* Translated from: send address as email */
+"send address as email" = "adres e-posta olarak gönder";
+/* Translated from: send address as message */
+"send address as message" = "Adres iletisi olarak gönderme";
+/* Translated from: send request as email */
+"send request as email" = "isteği e-posta olarak gönder";
+/* Translated from: send request as message */
+"send request as message" = "istek iletisi olarak gönderme";
+/* Translated from: sent */
+"sent" = "Gönderilen";
+/* Translated from: sent! */
+"sent!" = "gönderdi!";
+/* Translated from: settings */
+"settings" = "Ayarlar";
+/* Translated from: show */
+"show" = "göster";
+/* Translated from: show phrase */
+"show phrase" = "ifade göster";
+/* Translated from: sms not currently available */
+"sms not currently available" = "SMS değil şimdiki elde edilebilir";
+/* Translated from: spent address */
+"spent address" = "harcanan adresi";
+/* Translated from: spent input */
+"spent input" = "harcanan giriş";
+/* Translated from: status: */
+"status:" = "durum:";
+/* Translated from: swept! */
+"swept!" = "süpürüp götürdü!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "senkronizasyonu, lütfen bekleyin...";
+/* Translated from: the app will now close */
+"the app will now close" = "belgili tanımlık app şimdi kapatılacak";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Bu sizin dash adresidir. Kopyalamak veya e-posta veya sms göndermek için dokunun. Belgili tanımlık adres yazmak-ecek değişmek her zaman para almak, ama eski adresleri her zaman iş.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Bu sizin dash dengedir. Çizgi bir para birimidir. Döviz kurundaki piyasa ile.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "Bu ödeme zaten cüzdanında adresidir";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "Bu özel anahtarı, zaten var";
+/* Translated from: this private key is empty */
+"this private key is empty" = "Bu özel anahtar boş";
+/* Translated from: to: */
+"to:" = "Hedef:";
+/* Translated from: to: %@ */
+"to: %@" = "için: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "dokunmatik kimliği sınırı";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "sınırı harcama kimliği dokunma";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "işlem iptal edildi, ağ zaman aşımı";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "işlem ücretleri fonları (nedeniyle küçük \'dust\'mevduat) bu özel anahtara daha pahalıya mal";
+/* Translated from: transaction history */
+"transaction history" = "işlem geçmişi";
+/* Translated from: transaction rejected */
+"transaction rejected" = "hareket reddetti";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "aygıt geçiş kodu açmak";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "API belirteci alınamıyor";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "API belirteci kaydedilemiyor";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "beklenmeyen yanıt %@";
+/* Translated from: unknown address */
+"unknown address" = "Bilinmeyen adres";
+/* Translated from: unrecognized address */
+"unrecognized address" = "Tanınmayan adresi";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "dosya, desteklenmeyen veya bozuk belge";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "Desteklenmeyen imza türü";
+/* Translated from: unsupported url */
+"unsupported url" = "Desteklenmeyen url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "güvenilir olmayan bir sertifika";
+/* Translated from: unverified */
+"unverified" = "doğrulanmadı";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "doğrulandı, doğrulama için bekliyor";
+/* Translated from: verify passcode */
+"verify passcode" = "Şifreyi doğrulayın";
+/* Translated from: wallet address */
+"wallet address" = "m-cüzdan adresi";
+/* Translated from: wallet disabled */
+"wallet disabled" = "m-cüzdan devre dışı";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "M-cüzdan hazır değil";
+/* Translated from: WARNING */
+"WARNING" = "UYARI";
+/* Translated from: wipe */
+"wipe" = "silme";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "KURTARMA METNİNİZİ YAZMAK";
+/* Translated from: you received dash! */
+"you received dash!" = "dash aldı!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Cüzdanını-ebilmek var olmak dışarı-in sync. \nThis kez sabit blockchain yeniden tararken tarafından.";

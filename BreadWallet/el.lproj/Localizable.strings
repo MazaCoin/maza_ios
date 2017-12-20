@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ είναι για «duffs». %2$ @ = 1 παύλα.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO μην αφήσετε κανέναν δείτε τη φράση σας αποκατάστασης ή μπορούν να ξοδεψουν τον τύπο σας dash.\n\nNEVER φράση σας ανάκτηση σε διευθυντές κωδικού πρόσβασης ή αλλού. Άλλες συσκευές ενδέχεται να έχουν μολυνθεί. \n";
+/* Translated from: bad signature */
+"bad signature" = "εσφαλμένη υπογραφή";
+/* Translated from: dash address */
+"dash address" = "Διεύθυνση παύλα";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Παύλα διευθύνσεις μπορούν επίσης να αντιγραφούν στο Πρόχειρο. Μια παύλα διεύθυνση πάντα ξεκινά με 'X' ή '7'.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "τέλη δικτύου Dash είναι μόνο προαιρετικά για συναλλαγές υψηλής προτεραιότητας (αφαίρεση μπορεί να προκαλέσει καθυστερήσεις)";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "Πρόχειρο δεν περιέχει μια έγκυρη διεύθυνση παύλα ή Bitcoin";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "ΕΠΙΒΕΒΑΙΏΣΤΕ ΣΚΟΥΠΊΣΤΕ";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "ΑΣΦΆΛΕΙΑ συσκΕυήσ COMPROMISED\nAny «απόδραση» app μπορεί να πρόσβαση σε δεδομένα keychain οποιαδήποτε άλλη εφαρμογή του (και κλέψει σας dashs).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "ΑΣΦΆΛΕΙΑ συσκΕυήσ COMPROMISED\nAny «απόδραση» app μπορεί να πρόσβαση σε δεδομένα keychain οποιαδήποτε άλλη εφαρμογή του (και κλέψει σας dashs). Σκουπίστε αμέσως το πορτοφόλι και επαναφοράς σε μια ασφαλή συσκευή.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Αφήστε τους άλλους να σάρωση αυτού του κωδικού QR για να λάβετε σας διεύθυνση παύλα. Καθένας μπορεί να στείλει dashs στο πορτοφόλι σας, μεταφέροντάς τα στη διεύθυνσή σας.";
+/* Translated from: new phrase */
+"new phrase" = "νέα φράση";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "όχι μια παύλα ή παύλα QR code";
+/* Translated from: post-dated */
+"post-dated" = "μετα-χρονολογούν";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Λάβετε dashs σε αυτή τη διεύθυνση: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "το τέλος δικτύου Στάνταρ παύλα για αυτήν τη συναλλαγή είναι %1$ @ (%2$@)\n\nremoving αυτή η χρέωση μπορεί να καθυστερήσει την επιβεβαίωση";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Αυτή είναι η διεύθυνση σας ψηφιακό χρήμα (DASH). Πατήστε για να το αντιγράψετε ή να το στείλετε μέσω e-mail ή sms. Η διεύθυνση θα αλλάζει κάθε φορά που λαμβάνετε χρήματα, αλλά λειτουργεί πάντα παλιές διευθύνσεις.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "συναλλαγή είναι Μεταχρονολογημένη";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ είναι για «εξόρμηση». %@ = 1 παύλα.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ δεν επιτρέπεται να έχετε πρόσβαση στην κάμερα";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d επιβεβαιώσεις";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 επιβεβαιώσεις";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 επιβεβαίωση";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\» %@ \» δεν είναι μια λέξη φράση αποκατάστασης";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n σύνολο 1% $@ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif χάσετε ποτέ το τηλέφωνό σας, θα χρειαστεί να ανακτήσετε το πορτοφόλι σας";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d προσπάθειες remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 προσπάθεια remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n ποσό %1$ @ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "Κωδικός πρόσβασης συσκευής \nA είναι απαραίτητη για τη διασφάλιση του πορτοφολιού σας. Μεταβείτε στις ρυθμίσεις και ενεργοποιήστε το συνθηματικό για να συνεχίσετε.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS ήδη USED\n\ndash διευθύνσεις προορίζονται για μία χρήση only\n\nre χρήση μειώνει απορρήτου για τόσο εσείς όσο και ο παραλήπτης και μπορεί να οδηγήσει σε απώλεια, εάν ο παραλήπτης δεν ελέγχει άμεσα τη διεύθυνση";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow φωτογραφική μηχανή πρόσβαση in\nSettings-> απορρήτου-> κάμερα-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO μην αφήσετε κανέναν δείτε σας recovery\nphrase ή μπορούν να ξοδεψουν σας εξόρμηση. \n";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO δεν λαμβάνουν ένα screenshot.\nScreenshots είναι ορατό σε άλλες συσκευές apps\nand. \n";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "χρέωση \nnetwork + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER πληκτρολογήστε οι διαχειριστές into\npassword φράση σας αποκατάστασης ή αλλού. \nOther συσκευές ενδέχεται να έχουν μολυνθεί. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "\ntry και πάλι, το %1 %2 d $$ @";
+/* Translated from: about */
+"about" = "σχετικά με";
+/* Translated from: always require passcode */
+"always require passcode" = "πάντα απαιτούν κωδικό πρόσβασης";
+/* Translated from: amount too small */
+"amount too small" = "ποσό πάρα πολύ μικρό";
+/* Translated from: bad password, try again */
+"bad password, try again" = "εσφαλμένος κωδικός πρόσβασης, δοκιμάστε ξανά";
+/* Translated from: bad payment request */
+"bad payment request" = "αίτηση πληρωμής κακό";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "κακή πληρωμή αίτηση URL";
+/* Translated from: bad payment URL */
+"bad payment URL" = "κακή πληρωμή URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "κακή αποκατάστασης φράση";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "μπλοκ %2$ d d #%1$";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Αγοράστε παύλα";
+/* Translated from: cancel */
+"cancel" = "Άκυρο";
+/* Translated from: change */
+"change" = "αλλαγή";
+/* Translated from: change passcode */
+"change passcode" = "Αλλαγή συνθηματικού";
+/* Translated from: change payment amount? */
+"change payment amount?" = "Αλλάξτε το ποσό πληρωμής;";
+/* Translated from: checking address balance... */
+"checking address balance..." = "Έλεγχος υπολοίπου διεύθυνση...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "Έλεγχος ιδιωτικού κλειδιού ισορροπία...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "Επιλέξτε συνθηματικό για %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "Πρόχειρο δεν περιέχει μια έγκυρη παύλα διεύθυνση";
+/* Translated from: close app */
+"close app" = "Κλείστε το app";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "επιβεβαιώθηκε το μπλοκ #%d";
+/* Translated from: connect timeout */
+"connect timeout" = "χρονικό όριο σύνδεσης";
+/* Translated from: copied */
+"copied" = "αντιγραφεί";
+/* Translated from: copy */
+"copy" = "αντίγραφο";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "Αντιγραφή διεύθυνσης στο Πρόχειρο";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "αίτηση αντίγραφο στο Πρόχειρο";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "Αντιγραφή wallet διευθύνσεων στο Πρόχειρο;";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "δεν θα μπορούσα να ελέγξετε το υπόλοιπο του διεύθυνση";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "δεν μπορούσε να κάνει την πληρωμή";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "δεν θα μπορούσα να σαρώνουν ισορροπία";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "δεν θα μπορούσε να μεταδώσει πληρωμής παύλα δίκτυο";
+/* Translated from: Dash address */
+"Dash address" = "Διεύθυνση παύλα";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Παύλα διευθύνσεις μπορούν επίσης να αντιγραφούν στο Πρόχειρο. Μια διεύθυνση εξόρμηση ξεκινά πάντα με «1» ή «3».";
+/* Translated from: dash network fee */
+"dash network fee" = "παύλα τέλους";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "παύλα πληρωμών δεν μπορεί να είναι μικρότερη από %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "παύλα συναλλαγή δεν υπογράψει";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "παύλα εξόδων συναλλαγής δεν μπορεί να είναι μικρότερη από %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "ΑΣΦΆΛΕΙΑ συσκΕυήσ COMPROMISED\nAny «απόδραση» app μπορεί να πρόσβαση σε δεδομένα keychain οποιαδήποτε άλλη εφαρμογή του (και κλέψει ταμπλό σας).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "ΑΣΦΆΛΕΙΑ συσκΕυήσ COMPROMISED\nAny «απόδραση» app μπορεί να πρόσβαση σε δεδομένα keychain οποιαδήποτε άλλη εφαρμογή του (και κλέψει ταμπλό σας). Σκουπίστε αμέσως το πορτοφόλι και επαναφοράς σε μια ασφαλή συσκευή.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "Για να απενεργοποιήσετε το πορτοφόλι για 48 ώρες; Μπορείτε να ενεργοποιήσετε ξανά ανά πάσα στιγμή χρησιμοποιώντας τη φράση σας αποκατάστασης.";
+/* Translated from: do it later */
+"do it later" = "το κάνουμε αργότερα";
+/* Translated from: done */
+"done" = "γίνει";
+/* Translated from: double spend */
+"double spend" = "διπλό περνούν";
+/* Translated from: email not configured */
+"email not configured" = "μήνυμα ηλεκτρονικού ταχυδρομείου δεν έχει ρυθμιστεί";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "Ενεργοποίηση λαμβάνετε ειδοποιήσεις";
+/* Translated from: enter old passcode */
+"enter old passcode" = "Εισαγάγετε το παλιό συνθηματικό";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "σφάλμα προσδιορισμού εάν υπάρχει δέσμη";
+/* Translated from: error determining versions */
+"error determining versions" = "σφάλμα προσδιορισμού εκδόσεις";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "σφάλμα κατά τη λήψη diff: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "σφάλμα κατά την εξαγωγή πακέτου: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "σφάλμα γοητευτικός δέμα:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "σφάλμα ανάγνωσης τρέχουσα δέσμη";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "σφάλμα υπογραφή συναλλαγής παύλα";
+/* Translated from: error signing transaction */
+"error signing transaction" = "σφάλμα υπογραφή συναλλαγής";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "σφάλμα κατά την εγγραφή αρχείου bundle:";
+/* Translated from: from: */
+"from:" = "από:";
+/* Translated from: hour */
+"hour" = "ώρα";
+/* Translated from: hours */
+"hours" = "ώρες";
+/* Translated from: id: */
+"id:" = "Αναγνωριστικό:";
+/* Translated from: ignore */
+"ignore" = "Παράβλεψη";
+/* Translated from: sweep private key */
+"sweep  private key" = "εισαγωγή ιδιωτικού κλειδιού";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "ΣΗΜΑΝΤΙΚΌ";
+/* Translated from: insufficient funds */
+"insufficient funds" = "ανεπαρκή κεφάλαια";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "ανεπαρκή κεφάλαια παύλα κόστος δικτύου";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "ανεπαρκή κεφάλαια για την αποστολή με instantSend, παρακαλώ περιμένετε λίγα λεπτά ή να στείλετε κανονικά";
+/* Translated from: INVALID */
+"INVALID" = "ΆΚΥΡΟ";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "Σφάλμα σειριοποίησης JSON";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Αφήστε τους άλλους να σάρωση αυτού του κωδικού QR για να λάβετε σας διεύθυνση παύλα. Καθένας μπορεί να στείλει εξόρμηση στο πορτοφόλι σας, μεταφέροντάς τα στη διεύθυνσή σας.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Υπηρεσίες τοποθεσίας είναι απενεργοποιημένες";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Υπηρεσίες τοποθεσίας δεν επιτρέπεται";
+/* Translated from: lock */
+"lock" = "κλειδαριά";
+/* Translated from: memo: */
+"memo:" = "Ενημερωτικό σημείωμα:";
+/* Translated from: minute */
+"minute" = "λεπτό";
+/* Translated from: minutes */
+"minutes" = "λεπτά";
+/* Translated from: missing certificate */
+"missing certificate" = "λείπει το πιστοποιητικό";
+/* Translated from: more... */
+"more..." = "περισσότερα...";
+/* Translated from: moved */
+"moved" = "μετακινηθεί";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "στη συνέχεια, γράψτε κάτω τη φράση σας αποκατάστασης";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "δεν υπάρχουν δεδομένα συναλλαγματική ισοτιμία";
+/* Translated from: no peers found */
+"no peers found" = "Καμία συνομηλίκους βρέθηκαν";
+/* Translated from: No wallet */
+"No wallet" = "Καμία πορτοφόλι";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "όχι μια παύλα QR code";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "όχι μια παύλα έγκυρη διεύθυνση";
+/* Translated from: not a valid private key */
+"not a valid private key" = "δεν είναι ένα έγκυρο ιδιωτικό κλειδί";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "δεν συνδέεται με το δίκτυο παύλα";
+/* Translated from: ok */
+"ok" = "Ok";
+/* Translated from: panic */
+"panic" = "πανικός";
+/* Translated from: panic lock */
+"panic lock" = "κλειδαριά πανικού";
+/* Translated from: passcode */
+"passcode" = "κωδικό πρόσβασης";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "συνθηματικό για %@";
+/* Translated from: password */
+"password" = "κωδικό πρόσβασης";
+/* Translated from: password protected key */
+"password protected key" = "κλειδί κωδικού πρόσβασης προστατευμένο";
+/* Translated from: pay */
+"pay" = "πληρώσει";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "ταυτότητα του δικαιούχου δεν είναι πιστοποιημένα";
+/* Translated from: payment address */
+"payment address" = "διεύθυνση πληρωμής";
+/* Translated from: payment output */
+"payment output" = "πληρωμή εξόδου";
+/* Translated from: pending */
+"pending" = "σε εκκρεμότητα";
+/* Translated from: Please wait */
+"Please wait" = "Παρακαλώ περίμενε";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Λάβετε παύλα σε αυτή τη διεύθυνση: %@";
+/* Translated from: received */
+"received" = "έλαβε";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "έλαβε %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "ανάκτηση φράση";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "δεν ταιριάζει η φράση αποκατάστασης";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "ανάκτηση φράση πρέπει να είναι λέξεις %d";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "μείωση της πληρωμής ποσού by\n%1$@ (%2$ @);";
+/* Translated from: request */
+"request" = "αίτηση";
+/* Translated from: request an amount */
+"request an amount" = "Ζητήστε ένα ποσό";
+/* Translated from: request expired */
+"request expired" = "αιτήματος έληξε";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "ζητούνται δίκτυο \'%1$@\» αντί του \'%2$@\»";
+/* Translated from: rescan */
+"rescan" = "επανάληψη της σάρωσης";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "Επανασάρωση blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "Επανασάρωση blockchain, αν νομίζετε ότι μπορεί να έχετε συναλλαγές που λείπουν, ή έχουν προβλήματα αποστολής (νέα σάρωση μπορεί να διαρκέσει μερικά λεπτά)";
+/* Translated from: reset */
+"reset" = "Επαναφορά";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Σάρωση κάποιου άλλου κωδικού QR για να λάβετε τη διεύθυνση τους εξόρμηση. Μπορείτε να στείλετε μια πληρωμή σε κανέναν με μια διεύθυνση.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Screenshots είναι ορατά σε άλλες εφαρμογές και συσκευές. Δημιουργήστε μια νέα φράση αποκατάστασης και κρατήσει μυστικό.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Screenshots είναι ορατά σε άλλες εφαρμογές και συσκευές. Τα χρήματά σας είναι σε κίνδυνο. Μεταφέρετε το υπόλοιπό σας σε άλλο πορτοφόλι.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "δει από %1$ d %2$ δ συμμαθητές";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Αποστολή %1$ @ (%2$ @) από αυτό το ιδιωτικό κλειδί στο πορτοφόλι σας; Το δίκτυο παύλα θα λάβετε μια χρέωση ύψους %3$ @ (%4$ @).";
+/* Translated from: send address as email */
+"send address as email" = "στείλετε τη διεύθυνση ως διεύθυνση ηλεκτρονικού ταχυδρομείου";
+/* Translated from: send address as message */
+"send address as message" = "στείλετε τη διεύθυνση ως μήνυμα";
+/* Translated from: send request as email */
+"send request as email" = "αποστολή αιτήματος ως μήνυμα ηλεκτρονικού ταχυδρομείου";
+/* Translated from: send request as message */
+"send request as message" = "αποστολή αιτήματος ως μήνυμα";
+/* Translated from: sent */
+"sent" = "αποστέλλονται";
+/* Translated from: sent! */
+"sent!" = "έστειλε!";
+/* Translated from: settings */
+"settings" = "ρυθμίσεις";
+/* Translated from: show */
+"show" = "Εμφάνιση";
+/* Translated from: show phrase */
+"show phrase" = "Εμφάνιση φράση";
+/* Translated from: sms not currently available */
+"sms not currently available" = "SMS δεν είναι σήμερα διαθέσιμα";
+/* Translated from: spent address */
+"spent address" = "πέρασε διεύθυνση";
+/* Translated from: spent input */
+"spent input" = "πέρασε εισόδου";
+/* Translated from: status: */
+"status:" = "κατάσταση:";
+/* Translated from: swept! */
+"swept!" = "σάρωσε!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "συγχρονισμό, παρακαλώ περιμένετε...";
+/* Translated from: the app will now close */
+"the app will now close" = "η εφαρμογή θα κλείσει τώρα";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Αυτή είναι η διεύθυνση σας εξόρμηση. Πατήστε για να το αντιγράψετε ή να το στείλετε μέσω e-mail ή sms. Η διεύθυνση θα αλλάζει κάθε φορά που λαμβάνετε χρήματα, αλλά λειτουργεί πάντα παλιές διευθύνσεις.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Αυτό είναι το υπόλοιπο σας εξόρμηση. Dash είναι ένα νόμισμα. Η ισοτιμία αλλάζει με την αγορά.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "Αυτή η διεύθυνση πληρωμής είναι ήδη στο πορτοφόλι σας";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "Αυτό το ιδιωτικό κλειδί είναι ήδη στο πορτοφόλι σας";
+/* Translated from: this private key is empty */
+"this private key is empty" = "Αυτό το ιδιωτικό κλειδί είναι άδειο";
+/* Translated from: to: */
+"to:" = "να:";
+/* Translated from: to: %@ */
+"to: %@" = "σε: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "Αγγίξτε όριο Αναγνωριστικό";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "Αγγίξτε id όριο εξόδων";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "συναλλαγή ακυρώνεται, χρονικό όριο δικτύου";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "τέλη συναλλαγής θα κόστιζε περισσότερο από τα ταμεία που είναι διαθέσιμες σε αυτό το ιδιωτικό κλειδί (λόγω μικροσκοπικά \'dust\ «καταθέσεις)";
+/* Translated from: transaction history */
+"transaction history" = "ιστορικό συναλλαγών";
+/* Translated from: transaction rejected */
+"transaction rejected" = "συναλλαγή απορριφθεί";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "Ενεργοποιήστε το συνθηματικό της συσκευής";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "Δεν είναι δυνατή η ανάκτηση του διακριτικού API";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "Ανίκανος να αποθηκεύσετε διακριτικού API";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "μη αναμενόμενη απόκριση από %@";
+/* Translated from: unknown address */
+"unknown address" = "άγνωστη διεύθυνση";
+/* Translated from: unrecognized address */
+"unrecognized address" = "άγνωστη διεύθυνση";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "δεν υποστηρίζεται ή κατεστραμμένο έγγραφο";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "Τύπος υπογραφής δεν υποστηρίζεται";
+/* Translated from: unsupported url */
+"unsupported url" = "διεύθυνση url δεν υποστηρίζεται";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "μη αξιόπιστου πιστοποιητικού";
+/* Translated from: unverified */
+"unverified" = "ανεπιβεβαίωτος";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "επαληθευτεί, αναμονή για επιβεβαίωση";
+/* Translated from: verify passcode */
+"verify passcode" = "επαλήθευση συνθηματικού";
+/* Translated from: wallet address */
+"wallet address" = "Διεύθυνση πορτοφόλι";
+/* Translated from: wallet disabled */
+"wallet disabled" = "πορτοφόλι με ειδικές ανάγκες";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "Πορτοφόλι δεν είναι έτοιμο";
+/* Translated from: WARNING */
+"WARNING" = "ΠΡΟΕΙΔΟΠΟΊΗΣΗ";
+/* Translated from: wipe */
+"wipe" = "σκουπίστε";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "ΓΡΆΨΤΕ ΚΆΤΩ ΤΗ ΦΡΆΣΗ ΣΑΣ ΑΠΟΚΑΤΆΣΤΑΣΗΣ";
+/* Translated from: you received dash! */
+"you received dash!" = "έχετε λάβει παύλα!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Το πορτοφόλι σας μπορεί να είναι εκτός συγχρονισμού. \nThis συχνά μπορεί να καθοριστεί από την επανεξέταση το blockchain.";

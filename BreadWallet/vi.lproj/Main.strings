@@ -1,0 +1,164 @@
+/* Translated from: Detail */
+"00M-e1-IWY.text" = "Xem chi tiết";
+/* Translated from: đ 1,000 */
+"0ui-yr-JjJ.text" = "Đ 1.000";
+/* Translated from: recover wallet */
+"4w7-k8-9wY.normalTitle" = "phục hồi wallet";
+/* Translated from:  */
+"55a-IW-IjK.text" = "";
+/* Translated from: spiralus@mazacoin.org */
+"5OA-tB-Exg.text" = "spiralus@mazacoin.org";
+/* Translated from: local currency */
+"8e2-ar-Ehc.text" = "tiền tệ địa phương";
+/* Translated from:   */
+"9L3-gM-TgP.title" = "";
+/* Translated from:  */
+"9T2-dq-yVS.text" = "";
+/* Translated from: generate recovery phrase */
+"A4M-yq-26d.normalTitle" = "tạo cụm từ phục hồi";
+/* Translated from: USD */
+"CsQ-fq-mfQ.text" = "USD";
+/* Translated from: start/recover another wallet */
+"D1b-HB-lKH.text" = "bắt đầu/recover một ví";
+/* Translated from: exchange rate data provided by\nbitpay.com/rates and coinmarketcap.com. Graphics by Giovanni Martina */
+"D4H-hd-LsX.text" = "tỷ lệ trao đổi dữ liệu cung cấp by\nbitpay.com/rates và coinmarketcap.com. Đồ họa của Giovanni Martina";
+/* Translated from: đ 0.00 */
+"DLS-lz-uxJ.placeholder" = "Đ 0,00";
+/* Translated from: 2 */
+"E2i-Cd-bly.normalTitle" = "2";
+/* Translated from: if you ever lose your phone, you will need this phrase to recover your wallet */
+"EQG-Km-ZKY.text" = "Nếu bạn đã bao giờ mất điện thoại của bạn, bạn sẽ cần cụm từ này để phục hồi các chi tiêu của bạn";
+/* Translated from: sent */
+"FjB-H2-BnK.text" = "đã gửi";
+/* Translated from:  */
+"GAm-wQ-UwG.text" = "";
+/* Translated from: Title */
+"GWf-4e-jTu.text" = "Tiêu đề";
+/* Translated from: Detail */
+"HrP-wv-Y1B.text" = "Xem chi tiết";
+/* Translated from:   */
+"Huq-Vk-LaF.title" = "";
+/* Translated from:  */
+"Irz-6P-zvD.normalTitle" = "";
+/* Translated from: ($1,000.00) */
+"JNR-nK-iyP.text" = "($1,000.00)";
+/* Translated from: . */
+"Ktu-9p-xOl.normalTitle" = ".";
+/* Translated from: 1 */
+"Lbu-bB-iV8.normalTitle" = "1";
+/* Translated from: 6 */
+"LgR-qo-dYy.normalTitle" = "6";
+/* Translated from: 8 */
+"MOQ-nc-fFL.normalTitle" = "8";
+/* Translated from: 0 */
+"Mvz-cZ-Yby.normalTitle" = "0";
+/* Translated from: đ 1,000 */
+"N6a-t6-1jK.text" = "Đ 1.000";
+/* Translated from: 5 */
+"NyY-8N-uhK.normalTitle" = "5";
+/* Translated from: ($1,000.00) */
+"O7K-cF-GAA.text" = "($1,000.00)";
+/* Translated from:   */
+"OBr-C7-abe.title" = "";
+/* Translated from: ($1,000.00) */
+"Ofd-q3-a1P.text" = "($1,000.00)";
+/* Translated from: đ 1,000 */
+"PSx-oa-hSL.text" = "Đ 1.000";
+/* Translated from: remind me later */
+"QQS-Me-RNh.title" = "nhắc tôi sau";
+/* Translated from: please write it down */
+"Td7-xP-kmB.text" = "Xin vui lòng ghi lại nó";
+/* Translated from: not connected */
+"UyF-OV-QVY.text" = "không kết nối";
+/* Translated from: settings */
+"W8m-Eh-Nf9.title" = "cài đặt";
+/* Translated from: subtitle */
+"WHQ-zW-IjD.text" = "phụ đề";
+/* Translated from: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"WSe-0v-Fha.normalTitle" = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: id: */
+"WsQ-ej-Wh4.text" = "ID:";
+/* Translated from: amount: */
+"XJu-9x-HqQ.text" = "số tiền:";
+/* Translated from: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW */
+"XV7-2s-hZs.normalTitle" = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW";
+/* Translated from: Enter this wallet's recovery phrase to wipe it and start/recover another. Your current balance remains on this phrase. */
+"YC6-rN-4P5.text" = "Nhập cụm từ phục hồi này ví để quét nó và bắt đầu/phục hồi khác. Số dư hiện tại của bạn vẫn còn trên cụm từ này.";
+/* Translated from: ($0.00) */
+"ZH0-Ng-7xb.text" = "($0,00)";
+/* Translated from: ↔︎ */
+"Zbe-Kx-XvG.normalTitle" = "↔︎";
+/* Translated from: 4 */
+"b8y-tJ-xAB.normalTitle" = "4";
+/* Translated from: pay address from clipboard */
+"bfj-xS-5rN.normalTitle" = "trả tiền các địa chỉ từ clipboard";
+/* Translated from: đ 0.00 ($0.00) */
+"cRT-Sr-x6R.text" = "Đ 0,00 ($0,00)";
+/* Translated from: scan QR code */
+"ce6-Wi-wk4.normalTitle" = "quét mã QR";
+/* Translated from: I wrote it down: */
+"cyp-mV-Bhd.text" = "Tôi đã viết nó xuống:";
+/* Translated from: 9 */
+"dBP-3X-1o6.normalTitle" = "9";
+/* Translated from: new wallet */
+"dOa-zm-TDG.normalTitle" = "New ví";
+/* Translated from: if you ever lose your phone, you will need this phrase to recover your wallet */
+"dX6-jg-5IA.text" = "Nếu bạn đã bao giờ mất điện thoại của bạn, bạn sẽ cần cụm từ này để phục hồi các chi tiêu của bạn";
+/* Translated from: unconfirmed */
+"eJ2-5h-DO2.text" = "Chưa được xác nhận";
+/* Translated from: show */
+"efL-Cj-Aho.normalTitle" = "Hiển thị";
+/* Translated from: confirm: */
+"fQN-xb-SYb.title" = "xác nhận:";
+/* Translated from: Title */
+"fVX-tM-tZx.text" = "Tiêu đề";
+/* Translated from:  */
+"gE8-de-XET.title" = "";
+/* Translated from: subtitle */
+"gZx-fI-siU.text" = "phụ đề";
+/* Translated from: đ 1,000 */
+"hJG-af-ws1.text" = "Đ 1.000";
+/* Translated from:   */
+"hWS-2G-hHE.title" = "";
+/* Translated from:  */
+"hre-wm-YW3.title" = "";
+/* Translated from: 3 */
+"jGg-9z-XEe.normalTitle" = "3";
+/* Translated from: send money: */
+"l5l-JR-LKA.text" = "gửi tiền:";
+/* Translated from:  */
+"lYb-eg-NfF.text" = "";
+/* Translated from: Title */
+"mpz-vn-jZ1.text" = "Tiêu đề";
+/* Translated from:  */
+"mxS-i4-y1n.text" = "";
+/* Translated from: Title */
+"ncN-gc-vpQ.text" = "Tiêu đề";
+/* Translated from: recovery phrase: */
+"ooJ-EA-DFl.title" = "cụm từ phục hồi:";
+/* Translated from: 7 */
+"p8P-3o-INx.normalTitle" = "7";
+/* Translated from: Detail */
+"pXc-8D-8Gh.text" = "Xem chi tiết";
+/* Translated from: ($1,000.00) */
+"qNV-Ka-14n.text" = "($1,000.00)";
+/* Translated from: receive money: */
+"qel-3J-2VC.text" = "nhận được tiền:";
+/* Translated from: transaction details */
+"s4T-yd-VfX.title" = "chi tiết giao dịch";
+/* Translated from: no transactions */
+"t1j-JZ-FW0.text" = "không có giao dịch";
+/* Translated from: Title */
+"uaG-gX-Ias.text" = "Tiêu đề";
+/* Translated from: đ 1,000,000 */
+"ue1-2S-fEr.text" = "Đ 1.000.000";
+/* Translated from: dashwallet v%ver%%net%\ncopyright © 2016\n\nBased on breadwallet\ncopyright © 2015 Aaron Voisine\n\n */
+"uvz-hk-Nr4.text" = "dashwallet v%ver%%net%\ncopyright © 2016\n\nBased trên breadwallet\ncopyright © 2015 Aaron Voisine\n\n";
+/* Translated from: start a new wallet by generating a wallet recovery phrase */
+"wDZ-DN-szv.text" = "bắt đầu một ví mới bằng cách tạo ra một cụm từ phục hồi wallet";
+/* Translated from: ($1,000.00) */
+"wd8-oB-KWn.text" = "($1,000.00)";
+/* Translated from:  */
+"x2u-C3-wz6.text" = "";
+/* Translated from: 88.8% */
+"xl3-sr-16q.text" = "88,8%";

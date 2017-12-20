@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "@ %1$ az 'duffs'. %2$ @ = 1 kötőjel.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO engedje, hogy lásd a helyreállítási mondat, vagy töltenek a dash.\n\nNEVER írja be a helyreállítási mondat jelszó vezetők, vagy máshol. Más eszközök lehet fertőzött. \n";
+/* Translated from: bad signature */
+"bad signature" = "rossz aláírás";
+/* Translated from: dash address */
+"dash address" = "Dash cím";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Dash-címek is a vágólapra másolhatók. A dash cím mindig kezdődik 'X' vagy '7'.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "Dash hálózati díjak csak opcionálisak a magas prioritású tranzakciók (eltávolítása okozhat késéseket)";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "vágólap nem tartalmaz érvényes kötőjel vagy Bitcoin cím";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "TÖRLÉS MEGERŐSÍTÉSE";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "BIZTONSÁGI eszköz COMPROMISED\nAny 'szökik' app lehet bármely más app kulcstartó adatelérés (és ellopni a dashs).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "BIZTONSÁGI eszköz COMPROMISED\nAny 'szökik' app lehet bármely más app kulcstartó adatelérés (és ellopni a dashs). Ez azonnal törölje, és állítsa vissza a biztonságos eszközátirányítást.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Hagyja, hogy mások a dash cím megszerzéséhez QR-kód beolvasásához. Bárki láthatja küld dashs-hoz tárcátok annak címét.";
+/* Translated from: new phrase */
+"new phrase" = "új mondatot";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "nem egy kötőjel vagy gondolatjel QR-kód";
+/* Translated from: post-dated */
+"post-dated" = "post-án kelt";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Kap a dashs, ezen a címen: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "a standard dash hálózati tranzakció díja %1$ @ (%2$@)\n\nremoving ez a díj haladéktalanul visszaigazolást";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Ez a digitális készpénz (kötőjel) cím. Érintse meg, másolja, vagy küldje el e-mailben vagy SMS-ben. A cím meg fog változni minden egyes alkalommal kap alapok, de régi címeket mindig működik.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "tranzakció a post-án";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ az 'kötőjel'. %@ = 1 kötőjel.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ nem hozzáférhetnek a kamera";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d megerősítések";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 megerősítések";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 megerősítése";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \' van nem egy helyreállítási kifejezés szó";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n teljes %1$ @ ($%2 @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif valaha is elveszítjük telefonunkat, szüksége lesz, hogy visszaszerezze a pénztárca";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d kísérlet remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 kísérlet remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n összeg 1 % -os$ @ ($%2 @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA készülék biztonsági kódot a pénztárca biztosításához van szükség. Megy elintézés, és kapcsolja be jelszót a folytatáshoz.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS már a címek szánják, Egyszerhasználatos only\n\nre-használat csökkenti a magánélet, mind a címzett, és elvesztését eredményezheti, ha a címzett nem közvetlenül szabályozzák a cím USED\n\ndash";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow kamera hozzáférést in\nSettings-> adatvédelmi-> kamera-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO hagyd, hogy bárki, még a recovery\nphrase, vagy ők tud kiad-a kötőjel. \n";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO nem fog egy screenshot.\nScreenshots láthatók, egyéb apps\nand eszközök. \n";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork díj + %1$ @ ($%2 @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER írja be a helyreállítási mondat into\npassword vezetők, vagy máshol. eszközök \nOther lehet fertőzött. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "ismét a %1$ d %2$ @ \ntry";
+/* Translated from: about */
+"about" = "körülbelül";
+/* Translated from: always require passcode */
+"always require passcode" = "mindig szükség kódot";
+/* Translated from: amount too small */
+"amount too small" = "összeg túl kicsi";
+/* Translated from: bad password, try again */
+"bad password, try again" = "rossz jelszó, próbáld újra";
+/* Translated from: bad payment request */
+"bad payment request" = "rossz kifizetési kérelem";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "rossz fizetési kérelem URL-címe";
+/* Translated from: bad payment URL */
+"bad payment URL" = "rossz fizetés URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "rossz helyreállítási mondat";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "#%1$ d %2$ d blokk";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Vásárlás-kötőjel";
+/* Translated from: cancel */
+"cancel" = "Mégse";
+/* Translated from: change */
+"change" = "változás";
+/* Translated from: change passcode */
+"change passcode" = "PIN-kód módosítása";
+/* Translated from: change payment amount? */
+"change payment amount?" = "kifizetési összeget módosítani?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "ellenőrzésére mérleg cím...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "privát kulcs egyenleg ellenőrzése...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "Válassza ki azt a %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "vágólap nem tartalmaz egy érvényes dash cím";
+/* Translated from: close app */
+"close app" = "Zárja be a app";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "megerősítette a blokk #%d";
+/* Translated from: connect timeout */
+"connect timeout" = "kapcsolat időtúllépése";
+/* Translated from: copied */
+"copied" = "fénymásoló";
+/* Translated from: copy */
+"copy" = "másolás";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "Copy címet a vágólapra";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "kérelem a vágólapra";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "pénztárca címek másolása a vágólapra?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "nem tudtam cím folyószámla";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "nem tudtam, hogy a fizetési";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "nem tudott söpörni egyensúly";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "nem tudtam kifizetést dash hálózathoz";
+/* Translated from: Dash address */
+"Dash address" = "Dash cím";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Dash-címek is a vágólapra másolhatók. A dash cím mindig kezdődik '1' vagy '3'.";
+/* Translated from: dash network fee */
+"dash network fee" = "Dash hálózathasználati díj";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "Dash kifizetés nem lehet kevesebb, mint %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "Dash tranzakció nincs aláírva";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "Dash tranzakció kimenet nem lehet kevesebb, mint %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "BIZTONSÁGI eszköz COMPROMISED\nAny 'szökik' app lehet bármely más app kulcstartó adatelérés (és ellopni a kötőjel).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "BIZTONSÁGI eszköz COMPROMISED\nAny 'szökik' app lehet bármely más app kulcstartó adatelérés (és ellopni a kötőjel). Ez azonnal törölje, és állítsa vissza a biztonságos eszközátirányítást.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "Megbénít pénztárca 48 órán át? A helyreállítási mondat segítségével bármikor újra engedélyezheti.";
+/* Translated from: do it later */
+"do it later" = "nem később";
+/* Translated from: done */
+"done" = "kész";
+/* Translated from: double spend */
+"double spend" = "dupla tölteni";
+/* Translated from: email not configured */
+"email not configured" = "nincs konfigurálva e-mailben";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "képessé tesz kap értesítést";
+/* Translated from: enter old passcode */
+"enter old passcode" = "adja meg a régi jelszót";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "hiba a csomag esetén";
+/* Translated from: error determining versions */
+"error determining versions" = "hiba a verziók";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "Letöltés diff hiba: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "kitermelése csomag hiba: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "hiba letöltése bundle:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "hiba olvasó jelenlegi bundle";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "hiba-aláírási dash-tranzakció";
+/* Translated from: error signing transaction */
+"error signing transaction" = "hiba-aláírási tranzakció";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "hiba a fájl bundle:";
+/* Translated from: from: */
+"from:" = "Feladó:";
+/* Translated from: hour */
+"hour" = "óra";
+/* Translated from: hours */
+"hours" = "óra";
+/* Translated from: id: */
+"id:" = "azonosító:";
+/* Translated from: ignore */
+"ignore" = "figyelmen kívül hagyása";
+/* Translated from: sweep private key */
+"sweep private key" = "személyes kulcs importálása";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "FONTOS";
+/* Translated from: insufficient funds */
+"insufficient funds" = "elégtelen alapok";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "elégtelen alapok dash hálózati díj";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "elég pénz részére elküldés a instantSend, kérjük várjon néhány percet, vagy Küldj általában";
+/* Translated from: INVALID */
+"INVALID" = "ÉRVÉNYTELEN";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON szerializációnak hiba";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Hagyja, hogy mások a dash cím megszerzéséhez QR-kód beolvasásához. Bárki küldhet dash a pénztárca annak címét.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Helymeghatározó szolgáltatások le vannak tiltva";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Helymeghatározó szolgáltatások nem engedélyezett";
+/* Translated from: lock */
+"lock" = "zár";
+/* Translated from: memo: */
+"memo:" = "Jegyzet:";
+/* Translated from: minute */
+"minute" = "perc";
+/* Translated from: minutes */
+"minutes" = "perc";
+/* Translated from: missing certificate */
+"missing certificate" = "hiányzó igazolás";
+/* Translated from: more... */
+"more..." = "több...";
+/* Translated from: moved */
+"moved" = "költözött";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "Ezután írja le a helyreállítási mondat";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "nincs árfolyam-adatok";
+/* Translated from: no peers found */
+"no peers found" = "nem talált társaik";
+/* Translated from: No wallet */
+"No wallet" = "Pénztárca nélkül";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "nem kötőjel QR-kód";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "nem egy érvényes dash cím";
+/* Translated from: not a valid private key */
+"not a valid private key" = "nem egy érvényes privát kulcs";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "a dash hálózathoz nem csatlakozó";
+/* Translated from: ok */
+"ok" = "oké";
+/* Translated from: panic */
+"panic" = "pánik";
+/* Translated from: panic lock */
+"panic lock" = "pánik zár";
+/* Translated from: passcode */
+"passcode" = "PIN-kód";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "a passcode %@";
+/* Translated from: password */
+"password" = "jelszó";
+/* Translated from: password protected key */
+"password protected key" = "jelszóval védett kulcsot";
+/* Translated from: pay */
+"pay" = "fizetés";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "kedvezményezett identitás nem hitelesített";
+/* Translated from: payment address */
+"payment address" = "fizetési cím";
+/* Translated from: payment output */
+"payment output" = "fizetési kimenet";
+/* Translated from: pending */
+"pending" = "függőben lévő";
+/* Translated from: Please wait */
+"Please wait" = "várj, kérlek";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Kap dash ezen a címen: %@";
+/* Translated from: received */
+"received" = "kapott";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "kapott %1$ @ ($%2 @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "helyreállítási mondat";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "helyreállítási kifejezés nem egyezik";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "helyreállítási kifejezést kell szavakat: %d";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "csökkenti a fizetési összeg by\n%1$@ (%2$ @)?";
+/* Translated from: request */
+"request" = "kérelem";
+/* Translated from: request an amount */
+"request an amount" = "Kérjen egy összeg";
+/* Translated from: request expired */
+"request expired" = "kérelem lejárt";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "a kért hálózati \'%1$@\' nem \'%2$@\'";
+/* Translated from: rescan */
+"rescan" = "újraellenőrzése";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "Ellenőrizze blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "Ellenőrizze a blockchain, ha úgy gondolja, lehet, hogy hiányzik a tranzakciók, vagy birtoklás baj küldő (újraellenőrzése is csak néhány perc múlva)";
+/* Translated from: reset */
+"reset" = "reset";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Olvassa valaki másnak QR-kódot a dash cím megszerzéséhez. A fizetés küldhet bárki címmel.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Képek láthatók más alkalmazások és eszközök. Létrehoz egy új helyreállítási mondatot, és tartsa titokban.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Képek láthatók más alkalmazások és eszközök. Pénzed veszélyben vannak. Az egyenleg átvitele egy másik pénztárca.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "látta a %1$ d %2$ d társaik";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Küldj %1$ @ (%2$ @) a ezt a személyes kulcsot a tárcájában? A dash hálózati kap a díj %3$ @ ($%4 @).";
+/* Translated from: send address as email */
+"send address as email" = "címre küldjön email-ben";
+/* Translated from: send address as message */
+"send address as message" = "Cím küldése üzenetként";
+/* Translated from: send request as email */
+"send request as email" = "kérelem küldése e-mailben";
+/* Translated from: send request as message */
+"send request as message" = "kérelem üzenet küldése";
+/* Translated from: sent */
+"sent" = "küldött";
+/* Translated from: sent! */
+"sent!" = "küldött!";
+/* Translated from: settings */
+"settings" = "beállítások";
+/* Translated from: show */
+"show" = "Térkép";
+/* Translated from: show phrase */
+"show phrase" = "a következő szálláshely mondat";
+/* Translated from: sms not currently available */
+"sms not currently available" = "SMS jelenleg nem elérhető";
+/* Translated from: spent address */
+"spent address" = "kiégett cím";
+/* Translated from: spent input */
+"spent input" = "kiégett bemenet";
+/* Translated from: status: */
+"status:" = "állapot:";
+/* Translated from: swept! */
+"swept!" = "söpört!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "szinkronizál, kis türelmet...";
+/* Translated from: the app will now close */
+"the app will now close" = "az alkalmazás leáll";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Ez a dash cím. Érintse meg, másolja, vagy küldje el e-mailben vagy SMS-ben. A cím meg fog változni minden egyes alkalommal kap alapok, de régi címeket mindig működik.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Ez a dash egyenlegét. Az indítópanel a valuta. Az árfolyam-ingadozás, a piacon.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "Ez a fizetési cím már szerepel a pénztárca";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "Ez a privát kulcs van már-ban tárcátok";
+/* Translated from: this private key is empty */
+"this private key is empty" = "a privát kulcs üres";
+/* Translated from: to: */
+"to:" = "hogy:";
+/* Translated from: to: %@ */
+"to: %@" = "hogy: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "Touch id limit";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "Touch id költekezési korlát";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "tranzakció visszavonva, hálózati időtúllépése";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "tranzakciós díjak volna többe, mint a rendelkezésre álló, a privát kulcs (mivel a pici \'dust\'betétek)";
+/* Translated from: transaction history */
+"transaction history" = "tranzakciók előzményei";
+/* Translated from: transaction rejected */
+"transaction rejected" = "elutasított tranzakció";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "a készülék biztonsági kódot bekapcsolása";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "Nem sikerült lekérdezni a API Token-je";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "Nem lehet menteni a API Token-je";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "váratlan válasz %@";
+/* Translated from: unknown address */
+"unknown address" = "ismeretlen cím";
+/* Translated from: unrecognized address */
+"unrecognized address" = "ismeretlen cím";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "nem támogatott, vagy sérült a dokumentum";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "típus nem támogatott aláírás";
+/* Translated from: unsupported url */
+"unsupported url" = "nem támogatott url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "nem megbízható tanúsítvány";
+/* Translated from: unverified */
+"unverified" = "ellenőrzött";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "ellenőrzött, megerősítésre vár";
+/* Translated from: verify passcode */
+"verify passcode" = "Ellenőrizze a jelszót";
+/* Translated from: wallet address */
+"wallet address" = "pénztárca cím";
+/* Translated from: wallet disabled */
+"wallet disabled" = "pénztárca le van tiltva";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "Pénztárca nem áll készen";
+/* Translated from: WARNING */
+"WARNING" = "FIGYELMEZTETÉS";
+/* Translated from: wipe */
+"wipe" = "tisztítókendő";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "ÍRJA LE A HELYREÁLLÍTÁSI MONDAT";
+/* Translated from: you received dash! */
+"you received dash!" = "kapott a dash!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Tárcájában lehet, a sync. \nThis gyakran lehet rögzíteni a blockchain újraellenőrzése.";

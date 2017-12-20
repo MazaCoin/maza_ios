@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="13529" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
+    <device id="watch38" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="watchOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="13507"/>
+    </dependencies>
+    <scenes>
+        <!--Maza-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller title="Maza" id="AgC-eL-Hgc" customClass="InterfaceController" customModule="WatchApp" customModuleProvider="target">
+                    <items>
+                        <group width="30" height="30" alignment="center" verticalAlignment="center" backgroundImage="LoadingIndicator" id="QeG-uv-zVX" userLabel="Loading indicator"/>
+                        <label alignment="center" verticalAlignment="center" text="Open mazacash iPhone app to setup your wallet" textAlignment="left" numberOfLines="0" id="oZJ-5z-9KB"/>
+                    </items>
+                    <connections>
+                        <outlet property="loadingIndicator" destination="QeG-uv-zVX" id="BLN-ET-UKg"/>
+                        <outlet property="setupWalletMessageLabel" destination="oZJ-5z-9KB" id="WNM-gf-VZj"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="-90" y="231"/>
+        </scene>
+        <!--Glance Interface Controller-->
+        <scene sceneID="BOz-TT-tkC">
+            <objects>
+                <glanceController spacing="0.0" id="0uZ-2p-rRc" customClass="GlanceInterfaceController" customModule="WatchApp_Extension">
+                    <items>
+                        <group alignment="left" id="t8f-Gd-c4y">
+                            <items>
+                                <group width="40" height="40" alignment="left" verticalAlignment="center" backgroundImage="GalanceIcon" radius="20" id="GCp-DK-TuP" userLabel="Icon group"/>
+                            </items>
+                        </group>
+                        <group alignment="left" id="uCw-4Q-Ouw">
+                            <items>
+                                <group width="1" alignment="left" layout="vertical" id="mkv-kS-qn6" userLabel="Balance info container">
+                                    <items>
+                                        <group width="1" alignment="left" layout="vertical" spacing="0.0" id="ez2-u4-9bV" userLabel="Balance container">
+                                            <items>
+                                                <label alignment="left" text="m 802,130" minimumScaleFactor="0.10000000000000001" id="sG9-6X-XlP">
+                                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <fontDescription key="font" type="system" weight="light" pointSize="34"/>
+                                                </label>
+                                                <label alignment="left" text="$211.86" numberOfLines="0" id="Ete-WK-T2f" userLabel="Local currency amount label">
+                                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <fontDescription key="font" type="system" pointSize="14"/>
+                                                </label>
+                                            </items>
+                                        </group>
+                                        <label alignment="left" text="receive m 100, 5 days ago" numberOfLines="0" id="ciz-eK-H2G" userLabel="Last transaction label">
+                                            <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <fontDescription key="font" type="system" pointSize="14"/>
+                                            <variation key="device=watch38mm">
+                                                <fontDescription key="font" type="system" pointSize="12"/>
+                                            </variation>
+                                        </label>
+                                    </items>
+                                </group>
+                                <group width="30" height="30" alignment="center" verticalAlignment="center" backgroundImage="LoadingIndicator" id="3BU-dO-wmV" userLabel="Loading indicator"/>
+                                <group width="1" alignment="left" id="ZuU-5g-A8Q" userLabel="Setup wallet message container">
+                                    <items>
+                                        <label alignment="center" verticalAlignment="center" text="Open dashcash iPhone app to setup your wallet" textAlignment="left" numberOfLines="0" id="0G6-TY-Hz8"/>
+                                    </items>
+                                </group>
+                            </items>
+                        </group>
+                    </items>
+                    <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="14"/>
+                    <connections>
+                        <outlet property="balanceAmountLabel" destination="sG9-6X-XlP" id="zTb-4v-WXH"/>
+                        <outlet property="balanceInLocalCurrencyLabel" destination="Ete-WK-T2f" id="8Sz-Qj-DAm"/>
+                        <outlet property="balanceInfoContainer" destination="mkv-kS-qn6" id="YQK-9n-suA"/>
+                        <outlet property="lastTransactionLabel" destination="ciz-eK-H2G" id="HuG-We-phn"/>
+                        <outlet property="loadingIndicator" destination="3BU-dO-wmV" id="k6G-h5-cKH"/>
+                        <outlet property="setupWalletContainer" destination="ZuU-5g-A8Q" id="nJW-U3-ywF"/>
+                    </connections>
+                </glanceController>
+            </objects>
+            <point key="canvasLocation" x="-122" y="936"/>
+        </scene>
+        <!--Static Notification Interface Controller-->
+        <scene sceneID="AEw-b0-oYE">
+            <objects>
+                <notificationController id="YCC-NB-fut">
+                    <items>
+                        <label alignment="left" text="Alert Label" id="XkS-y5-khE"/>
+                    </items>
+                    <notificationCategory key="notificationCategory" identifier="myCategory" id="JfB-70-Muf"/>
+                    <connections>
+                        <outlet property="notificationAlertLabel" destination="XkS-y5-khE" id="49B-RR-99y"/>
+                        <segue destination="gdX-wl-uQE" kind="relationship" relationship="dynamicNotificationInterface" id="fKh-qV-3T2"/>
+                    </connections>
+                </notificationController>
+            </objects>
+            <point key="canvasLocation" x="235" y="1001"/>
+        </scene>
+        <!--Notification Controller-->
+        <scene sceneID="KIl-fV-djm">
+            <objects>
+                <controller id="gdX-wl-uQE" customClass="NotificationController" customModule="WatchApp" customModuleProvider="target"/>
+            </objects>
+            <point key="canvasLocation" x="553" y="1001"/>
+        </scene>
+        <!--Balance-->
+        <scene sceneID="iho-PR-YMi">
+            <objects>
+                <controller identifier="BRAWBalanceInterfaceController" title="Balance" hidesWhenLoading="NO" id="Z4S-M1-kAB" customClass="BRAWBalanceInterfaceController" customModule="WatchApp_Extension">
+                    <items>
+                        <group width="1" height="0.0" alignment="left" layout="vertical" spacing="0.0" id="lan-8m-wFu" userLabel="Balance row container">
+                            <items>
+                                <group width="1" height="154" alignment="left" layout="vertical" id="gTA-bK-ZVd" userLabel="Top container">
+                                    <items>
+                                        <group width="30" height="30" alignment="center" verticalAlignment="center" backgroundImage="LoadingIndicator" id="PNg-Xz-3pY" userLabel="Loading indicator"/>
+                                        <group width="1" alignment="left" verticalAlignment="center" hidden="YES" layout="vertical" spacing="0.0" id="QQJ-zr-CzG" userLabel="Balance text container">
+                                            <items>
+                                                <label alignment="left" text="m1,000,000" minimumScaleFactor="0.5" id="NrA-Sa-gol" userLabel="Bit balance">
+                                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <fontDescription key="font" type="system" pointSize="40"/>
+                                                    <variation key="device=watch42mm" text="m1,000,000"/>
+                                                </label>
+                                                <label alignment="left" text="$272.87" id="Vkk-lL-tRJ" userLabel="Dollor balance">
+                                                    <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <fontDescription key="font" type="system" pointSize="14"/>
+                                                </label>
+                                            </items>
+                                            <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="0.0"/>
+                                        </group>
+                                    </items>
+                                    <variation key="device=watch38mm" height="130"/>
+                                </group>
+                            </items>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </group>
+                        <group width="1" alignment="left" layout="vertical" id="7Al-GR-HkR" userLabel="Transaction header container">
+                            <items>
+                                <group width="20" height="4" alignment="center" radius="2" id="2Lu-3m-D2H" userLabel="More item UI treatment">
+                                    <color key="backgroundColor" red="0.66666668653488159" green="0.66666668653488159" blue="0.66666668653488159" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="0.0"/>
+                                </group>
+                                <group width="1" height="16" alignment="left" id="seM-dK-oRN" userLabel="Padding to hide page indicator"/>
+                                <group width="1" height="40" alignment="left" radius="0.0" spacing="0.0" id="aDz-We-tiq" userLabel="Background group">
+                                    <items>
+                                        <group width="1" height="0.69999999999999996" alignment="center" verticalAlignment="center" radius="0.0" id="iat-sh-anW">
+                                            <items>
+                                                <label alignment="center" verticalAlignment="center" text="Transactions" id="cJA-1T-GPI">
+                                                    <color key="textColor" red="0.033291025920000002" green="0.64188134409999997" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <fontDescription key="font" type="system" pointSize="14"/>
+                                                </label>
+                                            </items>
+                                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.14730164009999999" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </group>
+                                    </items>
+                                    <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="0.0"/>
+                                </group>
+                            </items>
+                        </group>
+                        <table alignment="left" id="9LC-AX-dSD">
+                            <items>
+                                <tableRow identifier="BRAWTransactionRowControl" selectable="NO" id="iDZ-ww-SBP" customClass="BRAWTransactionRowControl" customModule="WatchApp_Extension">
+                                    <group key="rootItem" width="1" height="0.0" alignment="left" layout="vertical" id="kA1-zd-ZGW" userLabel="Transaction Row Container">
+                                        <items>
+                                            <group width="1" height="1" alignment="left" layout="vertical" spacing="0.0" id="9p7-yY-s0y" userLabel="Content container">
+                                                <items>
+                                                    <group width="1" height="20" alignment="left" spacing="0.0" id="pgr-di-k7S" userLabel="Top Container">
+                                                        <items>
+                                                            <imageView width="14" height="14" alignment="left" verticalAlignment="center" image="SentMoneyIcon" contentMode="scaleAspectFill" id="9vT-4q-Cga" userLabel="Status icon"/>
+                                                            <label alignment="right" verticalAlignment="center" text="m 14,659" minimumScaleFactor="0.5" id="hdP-bG-Psh" userLabel="Amount label">
+                                                                <fontDescription key="font" type="system" pointSize="14"/>
+                                                            </label>
+                                                        </items>
+                                                        <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="0.0"/>
+                                                    </group>
+                                                    <group width="1" height="16" alignment="left" spacing="0.0" id="6S5-xc-pMy" userLabel="Bottom Container">
+                                                        <items>
+                                                            <label alignment="left" verticalAlignment="bottom" text="10/12/05" minimumScaleFactor="0.80000000000000004" id="dRd-xj-QAV" userLabel="Date label">
+                                                                <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <fontDescription key="font" type="system" pointSize="12"/>
+                                                            </label>
+                                                            <label alignment="right" verticalAlignment="bottom" text="$4.00" id="vtz-w2-H90" userLabel="Local currency amount">
+                                                                <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <fontDescription key="font" type="system" pointSize="12"/>
+                                                            </label>
+                                                        </items>
+                                                        <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="0.0"/>
+                                                    </group>
+                                                </items>
+                                                <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="0.0"/>
+                                            </group>
+                                            <group width="1" height="2" alignment="left" id="Gt9-ss-jSn" userLabel="Seperator line">
+                                                <color key="backgroundColor" red="0.27235931679999997" green="0.26326022780000002" blue="0.2921166013" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <edgeInsets key="margins" left="10" right="0.0" top="0.0" bottom="0.0"/>
+                                            </group>
+                                        </items>
+                                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </group>
+                                    <connections>
+                                        <outlet property="amountLabel" destination="hdP-bG-Psh" id="dnu-r9-EmA"/>
+                                        <outlet property="dateLabel" destination="dRd-xj-QAV" id="aTl-XX-CeX"/>
+                                        <outlet property="localCurrencyAmount" destination="vtz-w2-H90" id="QGL-ee-jok"/>
+                                        <outlet property="seperatorGroup" destination="Gt9-ss-jSn" id="yxQ-AJ-oL6"/>
+                                        <outlet property="statusIcon" destination="9vT-4q-Cga" id="Ktv-Yo-KwT"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="balanceInLocalCurrencyLabel" destination="Vkk-lL-tRJ" id="VgF-bQ-ogr"/>
+                        <outlet property="balanceLabel" destination="NrA-Sa-gol" id="Mgt-0I-9gq"/>
+                        <outlet property="balanceLoadingIndicator" destination="PNg-Xz-3pY" id="mQK-LN-xyn"/>
+                        <outlet property="balanceTextContainer" destination="QQJ-zr-CzG" id="iSm-5W-y1j"/>
+                        <outlet property="table" destination="9LC-AX-dSD" id="TFO-kV-8XM"/>
+                        <outlet property="transactionHeaderContainer" destination="7Al-GR-HkR" id="2B9-DW-GSu"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="-90" y="577.5"/>
+        </scene>
+        <!--Receive Money-->
+        <scene sceneID="aMp-No-DpW">
+            <objects>
+                <controller identifier="BRAWReceiveMoneyInterfaceController" title="Receive Money" hidesWhenLoading="NO" id="pMv-3G-yix" customClass="BRAWReceiveMoneyInterfaceController" customModule="WatchApp_Extension">
+                    <items>
+                        <group width="30" height="30" alignment="center" verticalAlignment="center" backgroundImage="LoadingIndicator" id="jiW-VX-yT5" userLabel="Loading indicator"/>
+                        <group width="1" alignment="left" id="H1l-MQ-zh2">
+                            <items>
+                                <button width="1" alignment="left" id="cci-iO-CGg">
+                                    <accessibilityTraits key="accessibilityTraits" button="YES" image="YES"/>
+                                    <connections>
+                                        <action selector="qrCodeTap:" destination="pMv-3G-yix" id="m6h-v8-Q6E"/>
+                                    </connections>
+                                </button>
+                            </items>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </group>
+                    </items>
+                    <connections>
+                        <outlet property="loadingIndicator" destination="jiW-VX-yT5" id="LAi-oU-lMQ"/>
+                        <outlet property="qrCodeButton" destination="cci-iO-CGg" id="VTd-9X-bEP"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="369" y="562.5"/>
+        </scene>
+        <!--Cancel-->
+        <scene sceneID="JX8-2N-zve">
+            <objects>
+                <controller identifier="Keypad" title="Cancel" id="0Vz-O9-jKb" customClass="BRAWKeypad" customModule="WatchApp_Extension">
+                    <items>
+                        <group width="1" height="0.20000000000000001" alignment="left" id="JwO-AF-CHz">
+                            <items>
+                                <label width="1" widthAdjustment="-30" height="1" alignment="left" text="m 0.00" textAlignment="right" baselineAdjustment="alignCenters" minimumScaleFactor="0.5" id="gGv-2G-qCG">
+                                    <color key="textColor" red="0.033291025920000002" green="0.64188134409999997" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <fontDescription key="font" type="system" weight="semibold" pointSize="20"/>
+                                </label>
+                                <button alignment="left" id="Ryn-7S-G4F">
+                                    <group key="contentGroup" width="30" height="1" alignment="left" id="6op-P5-0Ki">
+                                        <items>
+                                            <label width="1" height="1" alignment="left" alpha="0.59999999999999998" text="⌫" textAlignment="center" baselineAdjustment="alignCenters" id="yf1-ls-Qqp">
+                                                <fontDescription key="font" type="system" weight="medium" pointSize="12"/>
+                                            </label>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <action selector="del:" destination="0Vz-O9-jKb" id="Gl4-ht-1BE"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                        <group width="1" height="0.20000000000000001" alignment="left" id="5Lg-cQ-aLN">
+                            <items>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="1" id="pXY-ZE-M1z">
+                                    <connections>
+                                        <action selector="one:" destination="0Vz-O9-jKb" id="y7N-E2-mxB"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="2" id="ynr-Gx-N8z">
+                                    <connections>
+                                        <action selector="two:" destination="0Vz-O9-jKb" id="lYZ-zy-oGB"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="3" id="VQW-CH-6pL">
+                                    <connections>
+                                        <action selector="three:" destination="0Vz-O9-jKb" id="QoU-J5-GE9"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                        <group width="1" height="0.20000000000000001" alignment="left" id="ry2-oy-8JX">
+                            <items>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="4" id="mKe-go-dtV">
+                                    <connections>
+                                        <action selector="four:" destination="0Vz-O9-jKb" id="peC-rK-6JP"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="5" id="svD-aB-ldn">
+                                    <connections>
+                                        <action selector="five:" destination="0Vz-O9-jKb" id="fbF-8P-DDA"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="6" id="kax-Of-XJA">
+                                    <connections>
+                                        <action selector="six:" destination="0Vz-O9-jKb" id="P96-VC-r61"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                        <group width="1" height="0.20000000000000001" alignment="left" id="hLk-Zd-khh">
+                            <items>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="7" id="hTf-r7-6aV">
+                                    <connections>
+                                        <action selector="seven:" destination="0Vz-O9-jKb" id="3By-Ct-bdo"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="8" id="HZI-2Y-VSr">
+                                    <connections>
+                                        <action selector="eight:" destination="0Vz-O9-jKb" id="r8R-Rn-poF"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="9" id="zL5-ux-cbp">
+                                    <connections>
+                                        <action selector="nine:" destination="0Vz-O9-jKb" id="N1I-SV-wv1"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                        <group width="1" height="0.20000000000000001" alignment="left" id="z7S-Bm-A5h">
+                            <items>
+                                <group width="0.33000000000000002" alignment="left" id="prD-1h-dcQ"/>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="0" id="D7f-AR-hLE">
+                                    <connections>
+                                        <action selector="zero:" destination="0Vz-O9-jKb" id="oYc-kl-ozy"/>
+                                    </connections>
+                                </button>
+                                <button width="0.33000000000000002" height="1" alignment="left" title="OK" id="16j-i7-bps">
+                                    <color key="titleColor" red="0.1439017504" green="1" blue="0.1245874912" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <connections>
+                                        <action selector="ok:" destination="0Vz-O9-jKb" id="xlx-LA-T4f"/>
+                                    </connections>
+                                </button>
+                            </items>
+                        </group>
+                    </items>
+                    <connections>
+                        <outlet property="display" destination="gGv-2G-qCG" id="sJ2-2w-mp0"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="605" y="562"/>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ là cho 'duffs'. %2$ @ = 1 dấu gạch ngang.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO không cho phép bất cứ ai nhìn thấy cụm từ phục hồi của bạn hoặc họ có thể chi tiêu của bạn dash.\n\nNEVER loại cụm từ phục hồi của bạn vào quản lý mật khẩu hoặc ở nơi khác. Các thiết bị khác có thể bị nhiễm. \n";
+/* Translated from: bad signature */
+"bad signature" = "tình trạng chữ ký";
+/* Translated from: dash address */
+"dash address" = "địa chỉ dấu gạch ngang";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Địa chỉ dấu gạch ngang cũng có thể được sao chép vào clipboard. Một dấu gạch ngang chỉ luôn luôn bắt đầu với 'X' hoặc '7'.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "Dash mạng lệ phí chỉ có tùy chọn cho các ưu tiên cao giao dịch (loại bỏ có thể gây ra sự chậm trễ)";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "Bảng tạm không chứa một dấu gạch ngang hoặc Bitcoin địa chỉ hợp lệ";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "XÁC NHẬN XOÁ SẠCH";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "Thiết bị an ninh COMPROMISED\nAny 'jailbreak' ứng dụng có thể truy cập dữ liệu keychain app khác (và ăn cắp của bạn dashs).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "Thiết bị an ninh COMPROMISED\nAny 'jailbreak' ứng dụng có thể truy cập dữ liệu keychain app khác (và ăn cắp của bạn dashs). Lau chi tiêu này ngay lập tức và phục hồi trên một thiết bị an toàn.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Hãy để những người khác mà quét mã QR này để có được địa chỉ dấu gạch ngang. Bất cứ ai có thể gửi dashs để chi tiêu của bạn bằng cách chuyển chúng đến địa chỉ của bạn.";
+/* Translated from: new phrase */
+"new phrase" = "cụm từ mới";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "không phải là một dấu gạch ngang hay dấu gạch ngang mã QR";
+/* Translated from: post-dated */
+"post-dated" = "sau ngày";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Nhận dashs tại địa chỉ này: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "dấu gạch ngang tiêu chuẩn mạng phí cho giao dịch này là %1$ @ (%2$@)\n\nremoving chi phí này có thể trì hoãn xác nhận";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Đây là địa chỉ số tiền mặt (gạch ngang). Bấm vào để sao chép nó hoặc gửi nó bằng email hoặc tin nhắn sms. Địa chỉ sẽ thay đổi mỗi khi bạn nhận được tiền, nhưng địa chỉ cũ luôn luôn làm việc.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "giao dịch là sau ngày";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ là 'gạch ngang'. %@ = 1 dấu gạch ngang.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ không được phép để truy cập vào máy ảnh";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "giấy tờ xác nhận %d";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "giấy tờ xác nhận 0";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 xác nhận";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \' không phải là một từ cụm từ phục hồi";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\N 1% tổng số $@ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\N%@\n\nif bạn đã bao giờ mất điện thoại của bạn, bạn sẽ cần nó để phục hồi các chi tiêu của bạn";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\N%d nỗ lực remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 nỗ lực remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n số tiền %1$ @ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA thiết bị mật mã là cần thiết để bảo vệ các chi tiêu của bạn. Đi đến cài đặt và bật mật mã để tiếp tục.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS đã USED\n\ndash địa chỉ dành cho duy nhất sử dụng only\n\nre sử dụng làm giảm sự riêng tư cho cả bạn và người nhận và có thể dẫn đến việc mất nếu người nhận không trực tiếp kiểm soát địa chỉ";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow camera truy cập in\nSettings-> bảo mật-> Camera-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO không cho phép bất cứ ai nhìn thấy recovery\nphrase của bạn hoặc họ có thể chi tiêu của bạn \n dấu gạch ngang.";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO không mất một screenshot.\nScreenshots có thể nhìn thấy apps\nand thiết bị \n.";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork phí + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER gõ của bạn phục hồi cụm từ into\npassword quản lý hoặc ở nơi khác. \nOther các thiết bị có thể bị nhiễm. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "\ntry một lần nữa trong %1$ d %2$ @";
+/* Translated from: about */
+"about" = "về";
+/* Translated from: always require passcode */
+"always require passcode" = "luôn luôn yêu cầu mã khóa";
+/* Translated from: amount too small */
+"amount too small" = "số tiền quá nhỏ";
+/* Translated from: bad password, try again */
+"bad password, try again" = "Bad mật khẩu, hãy thử lại";
+/* Translated from: bad payment request */
+"bad payment request" = "yêu cầu thanh toán xấu";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "tình trạng thanh toán yêu cầu URL";
+/* Translated from: bad payment URL */
+"bad payment URL" = "tình trạng thanh toán URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "cụm từ xấu phục hồi";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "chặn #%1$ d $ %2 d";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Mua gạch ngang";
+/* Translated from: cancel */
+"cancel" = "hủy bỏ";
+/* Translated from: change */
+"change" = "thay đổi";
+/* Translated from: change passcode */
+"change passcode" = "thay đổi mật mã";
+/* Translated from: change payment amount? */
+"change payment amount?" = "thay đổi số tiền thanh toán?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "kiểm tra số dư địa chỉ...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "kiểm tra sự cân bằng chính riêng...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "chọn mật mã cho %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "Bảng tạm không chứa một địa chỉ hợp lệ dash";
+/* Translated from: close app */
+"close app" = "đóng ứng dụng";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "khẳng định trong khối #%d";
+/* Translated from: connect timeout */
+"connect timeout" = "kết nối thời gian chờ";
+/* Translated from: copied */
+"copied" = "sao chép";
+/* Translated from: copy */
+"copy" = "bản sao";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "địa chỉ sao chép vào clipboard";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "yêu cầu sao chép vào clipboard";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "sao chép địa chỉ ví vào clipboard?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "không thể kiểm tra số dư địa chỉ";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "không thể thực hiện thanh toán";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "không thể quét số dư";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "không thể truyền để dash mạng thanh toán";
+/* Translated from: Dash address */
+"Dash address" = "Địa chỉ dấu gạch ngang";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Địa chỉ dấu gạch ngang cũng có thể được sao chép vào clipboard. Một địa chỉ dash luôn luôn bắt đầu với '1' hoặc '3'.";
+/* Translated from: dash network fee */
+"dash network fee" = "Dash mạng lệ phí";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "dấu gạch ngang thanh toán có thể không ít hơn %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "dấu gạch ngang giao dịch không được ký";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "dấu gạch ngang giao dịch kết quả đầu ra có thể không ít hơn %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "Thiết bị an ninh COMPROMISED\nAny 'jailbreak' ứng dụng có thể truy cập dữ liệu keychain app khác (và ăn cắp dash của bạn).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "Thiết bị an ninh COMPROMISED\nAny 'jailbreak' ứng dụng có thể truy cập dữ liệu keychain app khác (và ăn cắp dash của bạn). Lau chi tiêu này ngay lập tức và phục hồi trên một thiết bị an toàn.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "Vô hiệu wallet trong 48 giờ? Bạn có thể kích hoạt lại bất kỳ lúc nào bằng cách sử dụng cụm từ phục hồi của bạn.";
+/* Translated from: do it later */
+"do it later" = "làm điều đó sau này";
+/* Translated from: done */
+"done" = "thực hiện";
+/* Translated from: double spend */
+"double spend" = "tăng gấp đôi chi tiêu";
+/* Translated from: email not configured */
+"email not configured" = "email không được cấu hình";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "kích hoạt tính năng nhận thông báo";
+/* Translated from: enter old passcode */
+"enter old passcode" = "nhập mã khóa cũ";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "lỗi xác định nếu bó tồn tại";
+/* Translated from: error determining versions */
+"error determining versions" = "lỗi xác định phiên bản";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "lỗi tải xuống khác: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "lỗi giải nén gói: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "lỗi bó lấy:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "Lỗi đọc hiện tại bundle";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "lỗi ký dấu gạch ngang của giao dịch";
+/* Translated from: error signing transaction */
+"error signing transaction" = "lỗi ký hợp đồng giao dịch";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "Lỗi ghi tập tin bó:";
+/* Translated from: from: */
+"from:" = "từ:";
+/* Translated from: hour */
+"hour" = "giờ";
+/* Translated from: hours */
+"hours" = "giờ";
+/* Translated from: id: */
+"id:" = "ID:";
+/* Translated from: ignore */
+"ignore" = "bỏ qua";
+/* Translated from: import private key */
+"import private key" = "nhập khóa riêng";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "QUAN TRỌNG";
+/* Translated from: insufficient funds */
+"insufficient funds" = "không đủ tiền";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "không đủ tiền phí dash mạng";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "không đủ tiền để gửi với instantSend, xin vui lòng chờ đợi một vài phút hoặc gửi bình thường";
+/* Translated from: INVALID */
+"INVALID" = "KHÔNG HỢP LỆ";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON Serialization lỗi";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Hãy để những người khác mà quét mã QR này để có được địa chỉ dấu gạch ngang. Bất cứ ai có thể gửi dấu gạch ngang để chi tiêu của bạn bằng cách chuyển chúng đến địa chỉ của bạn.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Dịch vụ vị trí là người Khuyết tật";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Dịch vụ định vị không được ủy quyền";
+/* Translated from: lock */
+"lock" = "khóa";
+/* Translated from: memo: */
+"memo:" = "ghi nhớ:";
+/* Translated from: minute */
+"minute" = "phút";
+/* Translated from: minutes */
+"minutes" = "phút";
+/* Translated from: missing certificate */
+"missing certificate" = "giấy chứng nhận bị mất tích";
+/* Translated from: more... */
+"more..." = "nhiều hơn...";
+/* Translated from: moved */
+"moved" = "di chuyển";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "tiếp theo, viết xuống của bạn cụm từ phục hồi";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "không có dữ liệu tỷ giá hối đoái";
+/* Translated from: no peers found */
+"no peers found" = "không có đồng nghiệp tìm thấy";
+/* Translated from: No wallet */
+"No wallet" = "Không có chi tiêu";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "không một dấu gạch ngang mã QR";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "không phải là một địa chỉ hợp lệ dash";
+/* Translated from: not a valid private key */
+"not a valid private key" = "không phải là một phím riêng hợp lệ";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "không kết nối với mạng dash";
+/* Translated from: ok */
+"ok" = "Ok";
+/* Translated from: panic */
+"panic" = "hoảng loạn";
+/* Translated from: panic lock */
+"panic lock" = "hoảng loạn khóa";
+/* Translated from: passcode */
+"passcode" = "mã khóa";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "mật mã cho %@";
+/* Translated from: password */
+"password" = "mật khẩu";
+/* Translated from: password protected key */
+"password protected key" = "mật khẩu bảo vệ phím";
+/* Translated from: pay */
+"pay" = "trả tiền";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "danh tính người nhận thanh toán không phải là chứng nhận";
+/* Translated from: payment address */
+"payment address" = "địa chỉ thanh toán";
+/* Translated from: payment output */
+"payment output" = "thanh toán ra";
+/* Translated from: pending */
+"pending" = "đang chờ xử lý";
+/* Translated from: Please wait */
+"Please wait" = "Hãy chờ";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Nhận dấu gạch ngang tại địa chỉ này: %@";
+/* Translated from: received */
+"received" = "nhận được";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "nhận được %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "cụm từ phục hồi";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "phục hồi cụm từ không phù hợp";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "phục hồi cụm từ phải có từ ngữ %d";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "giảm thanh toán số tiền by\n%1$@ (%2$ @)?";
+/* Translated from: request */
+"request" = "yêu cầu";
+/* Translated from: request an amount */
+"request an amount" = "yêu cầu một số tiền";
+/* Translated from: request expired */
+"request expired" = "yêu cầu đã hết hạn";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "yêu cầu mạng \'%1$@\' thay vì \'%2$@\'";
+/* Translated from: rescan */
+"rescan" = "tại";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "tại blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "tại blockchain nếu bạn nghĩ rằng bạn có thể đã bỏ lỡ các giao dịch, hoặc đang gặp khó khăn khi gửi (rescanning có thể mất vài phút)";
+/* Translated from: reset */
+"reset" = "thiết lập lại";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Quét của ai mã QR để nhận địa chỉ dấu gạch ngang của họ. Bạn có thể gửi một khoản thanh toán cho bất cứ ai với một địa chỉ.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Ảnh chụp màn hình được hiển thị cho các ứng dụng và thiết bị. Tạo ra một cụm từ mới phục hồi và giữ bí mật.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Ảnh chụp màn hình được hiển thị cho các ứng dụng và thiết bị. Khoản tiền của bạn có nguy cơ. Chuyển số dư của bạn vào một ví.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "nhìn thấy bởi %1$ d $ %2 d đồng nghiệp";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Gửi %1$ @ (%2$ @) từ khóa này riêng vào ví của bạn? Mạng dash sẽ nhận được một khoản phí %3 $ @ (%4$ @).";
+/* Translated from: send address as email */
+"send address as email" = "gửi địa chỉ email";
+/* Translated from: send address as message */
+"send address as message" = "gửi địa chỉ dưới dạng tin nhắn";
+/* Translated from: send request as email */
+"send request as email" = "gửi yêu cầu như là thư điện tử";
+/* Translated from: send request as message */
+"send request as message" = "gửi yêu cầu như là tin nhắn";
+/* Translated from: sent */
+"sent" = "đã gửi";
+/* Translated from: sent! */
+"sent!" = "gửi!";
+/* Translated from: settings */
+"settings" = "cài đặt";
+/* Translated from: show */
+"show" = "Hiển thị";
+/* Translated from: show phrase */
+"show phrase" = "Hiển thị các cụm từ";
+/* Translated from: sms not currently available */
+"sms not currently available" = "tin nhắn SMS không hiện có sẵn";
+/* Translated from: spent address */
+"spent address" = "địa chỉ đã qua sử dụng";
+/* Translated from: spent input */
+"spent input" = "đã qua sử dụng nhập";
+/* Translated from: status: */
+"status:" = "tình trạng:";
+/* Translated from: swept! */
+"swept!" = "xuôi!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "đồng bộ, xin vui lòng chờ...";
+/* Translated from: the app will now close */
+"the app will now close" = "Các ứng dụng sẽ đóng ngay bây giờ";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Đây là địa chỉ dấu gạch ngang. Bấm vào để sao chép nó hoặc gửi nó bằng email hoặc tin nhắn sms. Địa chỉ sẽ thay đổi mỗi khi bạn nhận được tiền, nhưng địa chỉ cũ luôn luôn làm việc.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Điều này là số dư dash của bạn. Dấu gạch ngang là một loại tiền tệ. Thay đổi tỷ giá hối đoái với thị trường.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "địa chỉ thanh toán này là đã có trong ví của bạn";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "này khóa riêng là đã có trong ví của bạn";
+/* Translated from: this private key is empty */
+"this private key is empty" = "này khóa riêng là trống rỗng";
+/* Translated from: to: */
+"to:" = "để:";
+/* Translated from: to: %@ */
+"to: %@" = "để: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "Touch id giới hạn";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "Touch id chi tiêu giới hạn";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "giao dịch bị hủy bỏ, thời gian chờ mạng";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "phí giao dịch sẽ có chi phí nhiều hơn so với các quỹ có sẵn trên này khóa riêng (do nhỏ \'dust\'tiền gửi)";
+/* Translated from: transaction history */
+"transaction history" = "lịch sử giao dịch";
+/* Translated from: transaction rejected */
+"transaction rejected" = "giao dịch bị từ chối";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "bật thiết bị mật mã";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "Không thể truy xuất API token";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "Không thể lưu các API token";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "Các phản ứng bất ngờ từ %@";
+/* Translated from: unknown address */
+"unknown address" = "không rõ địa chỉ";
+/* Translated from: unrecognized address */
+"unrecognized address" = "địa chỉ không được công nhận";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "tài liệu hỗ trợ hoặc bị hỏng";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "kiểu chữ ký không được hỗ trợ";
+/* Translated from: unsupported url */
+"unsupported url" = "url không được hỗ trợ";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "chứng chỉ không đáng tin cậy";
+/* Translated from: unverified */
+"unverified" = "Chưa được xác minh";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "xác minh, đang chờ xác nhận";
+/* Translated from: verify passcode */
+"verify passcode" = "xác minh mã";
+/* Translated from: wallet address */
+"wallet address" = "địa chỉ Wallet";
+/* Translated from: wallet disabled */
+"wallet disabled" = "Ví bị vô hiệu hoá";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "Ví không sẵn sàng";
+/* Translated from: WARNING */
+"WARNING" = "CẢNH BÁO";
+/* Translated from: wipe */
+"wipe" = "lau";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "GHI CỤM TỪ PHỤC HỒI CỦA BẠN";
+/* Translated from: you received dash! */
+"you received dash!" = "bạn nhận được dấu gạch ngang!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Ví của bạn có thể ra khỏi đồng bộ. \nThis thường có thể được cố định bởi rescanning blockchain.";

@@ -1,0 +1,410 @@
+/* Translated from: %1$@ is for 'duffs'. %2$@ = 1 dash. */
+"%@ is for 'duffs'. %@ = 1 dash." = "%1$ @ is voor 'duffs'. %2$ @ = 1 scheutje.";
+/* Translated from: \nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n */
+"\nDO NOT let anyone see your recovery phrase or they can spend your dash.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = "\nDO laat niet iedereen zien uw herstel zin of kunnen ze je dash.\n\nNEVER type uw herstel zin in wachtwoord managers of elders doorbrengen. Andere apparaten kunnen worden besmet. \n";
+/* Translated from: bad signature */
+"bad signature" = "= Bad signature";
+/* Translated from: dash address */
+"dash address" = "Dash adres";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with 'X' or '7'." = "Dash adressen kunnen ook worden gekopieerd naar het Klembord. Een streepje adres altijd begint met 'X' of '7'.";
+/* Translated from: dash network fees are only optional for high priority transactions (removal may cause delays) */
+"dash network fees are only optional for high priority transactions (removal may cause delays)" = "Dash netwerk vergoedingen zijn alleen optioneel voor hoge prioriteit transacties (verwijdering kan veroorzaken vertragingen)";
+/* Translated from: clipboard doesn't contain a valid Dash or Bitcoin address */
+"clipboard doesn't contain a valid Dash or Bitcoin address" = "Klembord bevat een geldig Dash of Bitcoin adres geen";
+/* Translated from: CONFIRM WIPE */
+"CONFIRM WIPE" = "WISSEN BEVESTIGEN";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs)." = "APPARAAT beveiliging COMPROMISED\nAny 'jailbreak' app kan toegang tot een andere app sleutelhanger gegevens (en stelen van uw dashs).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dashs). Wipe this wallet immediately and restore on a secure device." = "APPARAAT beveiliging COMPROMISED\nAny 'jailbreak' app kan toegang tot een andere app sleutelhanger gegevens (en stelen van uw dashs). Veeg deze portemonnee onmiddellijk en herstel op een veilig apparaat.";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dashs to your wallet by transferring them to your address." = "Laat anderen scan deze QR-code om uw dash-adres. Door het overdragen daarvan naar uw adres kan iedereen dashs verzenden aan uw portemonnee.";
+/* Translated from: new phrase */
+"new phrase" = "nieuwe zin";
+/* Translated from: not a dash or dash QR code */
+"not a dash or dash QR code" = "niet een- of streepje QR-code";
+/* Translated from: post-dated */
+"post-dated" = "post gedateerd";
+/* Translated from: Receive dashs at this address: %@ */
+"Receive dashs at this address: %@" = "Dashs op dit adres ontvangen: %@";
+/* Translated from: the standard dash network fee for this transaction is %1$@ (%2$@)\n\nremoving this fee may delay confirmation */
+"the standard dash network fee for this transaction is %@ (%@)\n\nremoving this fee may delay confirmation" = "de standaard dash netwerk vergoeding voor deze transactie is %1$ @ (%2$@)\n\nremoving deze vergoeding kan er vertraging optreden bevestiging";
+/* Translated from: This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your digital cash (DASH) address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Dit is het adres van uw digitale cash (KOPPELTEKEN). Tik om te kopiëren of stuur het per e-mail of sms. Het adres verandert elke keer dat u geld ontvangen, maar oude adressen altijd werken.";
+/* Translated from: transaction is post-dated */
+"transaction is post-dated" = "transactie is na gedateerd";
+/* Translated from: %@ is for 'dash'. %@ = 1 dash. */
+"%@ is for 'dash'. %@ = 1 dash." = "%@ is voor 'dash'. %@ = 1 scheutje.";
+/* Translated from: %@ is not allowed to access the camera */
+"%@ is not allowed to access the camera" = "%@ het is niet toegestaan om toegang tot de camera";
+/* Translated from: %@\n\nbalance: %@ (%@) */
+"%@\n\nbalance: %@ (%@)" = "%@ \n\nbalance: %@ (*)";
+/* Translated from: %d confirmations */
+"%d confirmations" = "%d bevestigingen";
+/* Translated from: 0 confirmations */
+"0 confirmations" = "0 bevestigingen";
+/* Translated from: 1 confirmation */
+"1 confirmation" = "1 bevestiging";
+/* Translated from: \"%@\" is not a recovery phrase word */
+"\"%@\" is not a recovery phrase word" = "\ '%@ \' is niet een woord van de woordgroep herstel";
+/* Translated from: \n         total %1$@ (%2$@) */
+"\n         total %@ (%@)" = "\n totaal %1$ @ (%2$ @)";
+/* Translated from: \n%@\n\nif you ever lose your phone, you will need it to recover your wallet */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "\n%@\n\nif u kan uw telefoon ooit kwijtraakt, moet u te herstellen uw portemonnee";
+/* Translated from: \n%d attempts remaining\n */
+"\n%d attempts remaining\n" = "\n%d probeert remaining\n";
+/* Translated from: \n1 attempt remaining\n */
+"\n1 attempt remaining\n" = "\n1 poging remaining\n";
+/* Translated from: \n\n     amount %1$@ (%2$@) */
+"\n\n     amount %@ (%@)" = "\n\n bedrag %1$ @ (%2$ @)";
+/* Translated from: \nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "\nA apparaat toegangscode nodig is ter bescherming van uw portefeuille. Ga naar instellingen en wachtwoord inschakelen om door te gaan.";
+/* Translated from: \nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address */
+"\nADDRESS ALREADY USED\n\ndash addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = "\nADDRESS al USED\n\ndash adressen zijn bedoeld voor eenmalig gebruik only\n\nre-gebruik privacy voor zowel u als de ontvanger vermindert en in verlies resulteren kan als de ontvanger niet direct het adres bepalen";
+/* Translated from: \nallow camera access in\nSettings->Privacy->Camera->%@ */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = "\nallow camera toegang in\nSettings-> Privacy-> Camera-> %@";
+/* Translated from: \nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your dash.\n" = "\nDO laat niet iedereen zien uw recovery\nphrase of ze kunnen besteden uw dash. \n";
+/* Translated from: \nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n */
+"\nDO NOT take a screenshot.\nScreenshots are visible to other apps\nand devices.\n" = "\nDO niet nemen een screenshot.\nScreenshots zijn zichtbaar voor andere apps\nand apparaten. \n";
+/* Translated from: \nnetwork fee +%1$@ (%2$@) */
+"\nnetwork fee +%@ (%@)" = "\nnetwork vergoeding + %1$ @ (%2$ @)";
+/* Translated from: \nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = "\nNEVER Typ uw herstel zin into\npassword managers of elders. \nOther apparaten kunnen worden besmet. \n";
+/* Translated from: \ntry again in %1$d %2$@ */
+"\ntry again in %d %@" = "\ntry weer in %1$ d %2$ @";
+/* Translated from: about */
+"about" = "over";
+/* Translated from: always require passcode */
+"always require passcode" = "altijd vereist wachtwoord";
+/* Translated from: amount too small */
+"amount too small" = "bedrag te klein";
+/* Translated from: bad password, try again */
+"bad password, try again" = "ongeldig wachtwoord, probeer het opnieuw";
+/* Translated from: bad payment request */
+"bad payment request" = "slechte betalingsaanvraag";
+/* Translated from: bad payment request URL */
+"bad payment request URL" = "slechte betaling aanvraag-URL";
+/* Translated from: bad payment URL */
+"bad payment URL" = "slechte betaling URL";
+/* Translated from: bad recovery phrase */
+"bad recovery phrase" = "slecht herstel zin";
+/* Translated from: block #%1$d of %2$d */
+"block #%d of %d" = "#%1$ d van %2$ d blokkeren";
+/* Translated from: Buy Dash */
+"Buy Dash" = "Kopen Dash";
+/* Translated from: cancel */
+"cancel" = "Annuleren";
+/* Translated from: change */
+"change" = "wijzigen";
+/* Translated from: change passcode */
+"change passcode" = "wijzigen toegangscode";
+/* Translated from: change payment amount? */
+"change payment amount?" = "verschuldigde bedrag wijzigen?";
+/* Translated from: checking address balance... */
+"checking address balance..." = "controle adres evenwicht...";
+/* Translated from: checking private key balance... */
+"checking private key balance..." = "controle van particuliere belangrijke evenwicht...";
+/* Translated from: choose passcode for %@ */
+"choose passcode for %@" = "Kies wachtwoord voor %@";
+/* Translated from: clipboard doesn't contain a valid dash address */
+"clipboard doesn't contain a valid dash address" = "Klembord bevatten niet een geldige dash-adres";
+/* Translated from: close app */
+"close app" = "sluit app";
+/* Translated from: confirmed in block #%d */
+"confirmed in block #%d" = "bevestigd in blok #%d";
+/* Translated from: connect timeout */
+"connect timeout" = "verbinding timeout";
+/* Translated from: copied */
+"copied" = "gekopieerd";
+/* Translated from: copy */
+"copy" = "kopie";
+/* Translated from: copy address to clipboard */
+"copy address to clipboard" = "adres van de kopie naar Klembord";
+/* Translated from: copy request to clipboard */
+"copy request to clipboard" = "verzoek van de kopie naar Klembord";
+/* Translated from: copy wallet addresses to clipboard? */
+"copy wallet addresses to clipboard?" = "portemonnee adressen naar het Klembord kopiëren?";
+/* Translated from: couldn't check address balance */
+"couldn't check address balance" = "kon niet adres saldo checken";
+/* Translated from: couldn't make payment */
+"couldn't make payment" = "betaling kon het niet maken";
+/* Translated from: couldn't sweep balance */
+"couldn't sweep balance" = "evenwicht niet kon vegen";
+/* Translated from: couldn't transmit payment to dash network */
+"couldn't transmit payment to dash network" = "betaling met dash netwerk kon niet verzenden";
+/* Translated from: Dash address */
+"Dash address" = "Dash adres";
+/* Translated from: Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'. */
+"Dash addresses can also be copied to the clipboard. A dash address always starts with '1' or '3'." = "Dash adressen kunnen ook worden gekopieerd naar het Klembord. Een dash adres begint altijd met '1' of '3'.";
+/* Translated from: dash network fee */
+"dash network fee" = "Dash netwerk vergoeding";
+/* Translated from: dash payments can't be less than %@ */
+"dash payments can't be less than %@" = "Dash betalingen kunnen niet minder dan %@";
+/* Translated from: dash transaction not signed */
+"dash transaction not signed" = "Dash transactie niet ondertekend";
+/* Translated from: dash transaction outputs can't be less than %@ */
+"dash transaction outputs can't be less than %@" = "Dash transactie uitgangen mag niet minder dan %@";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash)." = "APPARAAT beveiliging COMPROMISED\nAny 'jailbreak' app kan toegang tot een andere app sleutelhanger gegevens (en stelen uw dash).";
+/* Translated from: DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your dash). Wipe this wallet immediately and restore on a secure device." = "APPARAAT beveiliging COMPROMISED\nAny 'jailbreak' app kan toegang tot een andere app sleutelhanger gegevens (en stelen uw dash). Veeg deze portemonnee onmiddellijk en herstel op een veilig apparaat.";
+/* Translated from: Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase. */
+"Disable wallet for 48 hours? You can re-enable at any time using your recovery phrase." = "Portefeuille voor 48 uur uitschakelen? U kunt weer inschakelen op elk gewenst moment met behulp van uw recovery zin.";
+/* Translated from: do it later */
+"do it later" = "later doen";
+/* Translated from: done */
+"done" = "gedaan";
+/* Translated from: double spend */
+"double spend" = "dubbele besteden";
+/* Translated from: email not configured */
+"email not configured" = "e-mail niet geconfigureerd";
+/* Translated from: enable receive notifications */
+"enable receive notifications" = "ontvangen meldingen inschakelen";
+/* Translated from: enter old passcode */
+"enter old passcode" = "Voer de toegangscode van de oude";
+/* Translated from: error determining if bundle exists */
+"error determining if bundle exists" = "fout vast te stellen of bundel bestaat";
+/* Translated from: error determining versions */
+"error determining versions" = "fout bepalen van versies";
+/* Translated from: error downloading diff: \(e) */
+"error downloading diff: \(e)" = "fout diff downloaden: \(e)";
+/* Translated from: error extracting bundle: \(e) */
+"error extracting bundle: \(e)" = "fout extractie van de bundel: \(e)";
+/* Translated from: error fetching bundle:  */
+"error fetching bundle: " = "fout fetching bundel:";
+/* Translated from: error reading current bundle */
+"error reading current bundle" = "fout lezen huidige bundel";
+/* Translated from: error signing dash transaction */
+"error signing dash transaction" = "fout ondertekening dash transactie";
+/* Translated from: error signing transaction */
+"error signing transaction" = "fout ondertekening transactie";
+/* Translated from: error writing bundle file:  */
+"error writing bundle file: " = "fout bij het schrijven van de bundel bestand:";
+/* Translated from: from: */
+"from:" = "Van:";
+/* Translated from: hour */
+"hour" = "uur";
+/* Translated from: hours */
+"hours" = "uur";
+/* Translated from: id: */
+"id:" = "id:";
+/* Translated from: ignore */
+"ignore" = "negeren";
+/* Translated from: sweep private key */
+"sweep private key" = "de persoonlijke sleutel importeren";
+/* Translated from: IMPORTANT */
+"IMPORTANT" = "BELANGRIJK";
+/* Translated from: insufficient funds */
+"insufficient funds" = "onvoldoende fondsen";
+/* Translated from: insufficient funds for dash network fee */
+"insufficient funds for dash network fee" = "onvoldoende fondsen voor dash netwerk vergoeding";
+/* Translated from: insufficient funds for sending with instantSend, please wait a few minutes or send normally */
+"insufficient funds for sending with instantX, please wait a few minutes or send normally" = "onvoldoende middelen voor het verzenden van met instantSend, alstublieft wacht een paar minuten of stuur normaal";
+/* Translated from: INVALID */
+"INVALID" = "Ongeldig";
+/* Translated from: JSON Serialization Error */
+"JSON Serialization Error" = "JSON serialisatie fout";
+/* Translated from: Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address. */
+"Let others scan this QR code to get your dash address. Anyone can send dash to your wallet by transferring them to your address." = "Laat anderen scan deze QR-code om uw dash-adres. Door het overdragen daarvan naar uw adres kan iedereen dash verzenden aan uw portemonnee.";
+/* Translated from: Location services are disabled */
+"Location services are disabled" = "Locatieservices zijn uitgeschakeld";
+/* Translated from: Location services are not authorized */
+"Location services are not authorized" = "Locatieservices zijn niet toegestaan";
+/* Translated from: lock */
+"lock" = "vergrendelen";
+/* Translated from: memo: */
+"memo:" = "Memo:";
+/* Translated from: minute */
+"minute" = "minuut";
+/* Translated from: minutes */
+"minutes" = "minuten";
+/* Translated from: missing certificate */
+"missing certificate" = "ontbrekende certificaat";
+/* Translated from: more... */
+"more..." = "meer...";
+/* Translated from: moved */
+"moved" = "verplaatst";
+/* Translated from: next, write down your recovery phrase */
+"next, write down your recovery phrase" = "vervolgens Noteer je herstel zin";
+/* Translated from: no exchange rate data */
+"no exchange rate data" = "geen gegevens van de wisselkoers";
+/* Translated from: no peers found */
+"no peers found" = "geen collega's gevonden";
+/* Translated from: No wallet */
+"No wallet" = "Geen portemonnee";
+/* Translated from: not a dash QR code */
+"not a dash QR code" = "niet een streepje QR-code";
+/* Translated from: not a valid dash address */
+"not a valid dash address" = "niet een geldige dash-adres";
+/* Translated from: not a valid private key */
+"not a valid private key" = "niet een geldige sleutel";
+/* Translated from: not connected to the dash network */
+"not connected to the dash network" = "niet verbonden met het netwerk van de dash";
+/* Translated from: ok */
+"ok" = "OK";
+/* Translated from: panic */
+"panic" = "paniek";
+/* Translated from: panic lock */
+"panic lock" = "paniek slot";
+/* Translated from: passcode */
+"passcode" = "toegangscode";
+/* Translated from: passcode for %@ */
+"passcode for %@" = "toegangscode voor %@";
+/* Translated from: password */
+"password" = "wachtwoord";
+/* Translated from: password protected key */
+"password protected key" = "wachtwoord beschermde sleutel";
+/* Translated from: pay */
+"pay" = "betalen";
+/* Translated from: payee identity isn't certified */
+"payee identity isn't certified" = "identiteit van de begunstigde is niet gecertificeerd";
+/* Translated from: payment address */
+"payment address" = "betalingsadres";
+/* Translated from: payment output */
+"payment output" = "betaling-uitgang";
+/* Translated from: pending */
+"pending" = "in behandeling";
+/* Translated from: Please wait */
+"Please wait" = "Een ogenblik geduld";
+/* Translated from: Receive dash at this address: %@ */
+"Receive dash at this address: %@" = "Dash op dit adres ontvangen: %@";
+/* Translated from: received */
+"received" = "Ontvangen";
+/* Translated from: received %1$@ (%2$@) */
+"received %@ (%@)" = "Ontvangen van %1$ @ (%2$ @)";
+/* Translated from: recovery phrase */
+"recovery phrase" = "herstel zin";
+/* Translated from: recovery phrase doesn't match */
+"recovery phrase doesn't match" = "herstel zin komt niet overeen met";
+/* Translated from: recovery phrase must have %d words */
+"recovery phrase must have %d words" = "herstel zin moet %d woorden";
+/* Translated from: reduce payment amount by\n%1$@ (%2$@)? */
+"reduce payment amount by\n%@ (%@)?" = "verminderen van betaling bedrag by\n%1$@ (%2$ @)?";
+/* Translated from: request */
+"request" = "aanvraag";
+/* Translated from: request an amount */
+"request an amount" = "verzoek een bedrag";
+/* Translated from: request expired */
+"request expired" = "aanvraag is verlopen";
+/* Translated from: requested network \"%1$@\" instead of \"%2$@\" */
+"requested network \"%@\" instead of \"%@\"" = "gevraagde netwerk \'%1$@\' in plaats van \'%2$@\'";
+/* Translated from: rescan */
+"rescan" = "opnieuw scannen";
+/* Translated from: rescan blockchain */
+"rescan blockchain" = "scannen van de blockchain";
+/* Translated from: rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes) */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "rescan blockchain als je denkt je dat wellicht mist transacties of ondervindt problemen verzenden (aanloopfase kan enkele minuten duren)";
+/* Translated from: reset */
+"reset" = "Reset";
+/* Translated from: Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address. */
+"Scan someone else's QR code to get their dash address. You can send a payment to anyone with an address." = "Andermans QR-code om hun dash-adres scannen. U kunt een betaling verzenden naar iemand met een mailadres.";
+/* Translated from: Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Screenshots zijn zichtbaar voor andere apps en apparaten. Genereren van een nieuwe herstel-zin en houd het geheim.";
+/* Translated from: Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Screenshots zijn zichtbaar voor andere apps en apparaten. Uw fondsen worden bedreigd. Overdracht van uw saldo aan een andere portefeuille.";
+/* Translated from: seen by %1$d of %2$d peers */
+"seen by %d of %d peers" = "gezien door %1$ d van %2$ d peers";
+/* Translated from: Send %1$@ (%2$@) from this private key into your wallet? The dash network will receive a fee of %3$@ (%4$@). */
+"Send %@ (%@) from this private key into your wallet? The dash network will receive a fee of %@ (%@)." = "Versturen van %1$ @ (%2$ @) van deze persoonlijke sleutel in uw portemonnee? Het dash-netwerk ontvangt een vergoeding van 3% $@ (4% $@).";
+/* Translated from: send address as email */
+"send address as email" = "adres verzenden als e-mail";
+/* Translated from: send address as message */
+"send address as message" = "adres verzenden als bericht";
+/* Translated from: send request as email */
+"send request as email" = "verzenden als e-mail";
+/* Translated from: send request as message */
+"send request as message" = "verzenden als bericht";
+/* Translated from: sent */
+"sent" = "verzonden";
+/* Translated from: sent! */
+"sent!" = "verzonden!";
+/* Translated from: settings */
+"settings" = "Instellingen";
+/* Translated from: show */
+"show" = "Toon";
+/* Translated from: show phrase */
+"show phrase" = "Toon van zin";
+/* Translated from: sms not currently available */
+"sms not currently available" = "SMS momenteel niet beschikbaar";
+/* Translated from: spent address */
+"spent address" = "verbruikte adres";
+/* Translated from: spent input */
+"spent input" = "verbruikte input";
+/* Translated from: status: */
+"status:" = "status:";
+/* Translated from: swept! */
+"swept!" = "geveegd!";
+/* Translated from: syncing, please wait... */
+"syncing, please wait..." = "synchroniseren, moment geduld a.u.b....";
+/* Translated from: the app will now close */
+"the app will now close" = "de app wordt nu afgesloten";
+/* Translated from: This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work. */
+"This is your dash address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Dit is uw adres dash. Tik om te kopiëren of stuur het per e-mail of sms. Het adres verandert elke keer dat u geld ontvangen, maar oude adressen altijd werken.";
+/* Translated from: This is your dash balance. Dash is a currency. The exchange rate changes with the market. */
+"This is your dash balance. Dash is a currency. The exchange rate changes with the market." = "Dit is uw saldo dash. Dash is een munteenheid. De wijzigingen van de wisselkoers met de markt.";
+/* Translated from: this payment address is already in your wallet */
+"this payment address is already in your wallet" = "Dit betalingsadres is al in uw portemonnee";
+/* Translated from: this private key is already in your wallet */
+"this private key is already in your wallet" = "deze persoonlijke sleutel is al in uw portemonnee";
+/* Translated from: this private key is empty */
+"this private key is empty" = "deze sleutel is leeg";
+/* Translated from: to: */
+"to:" = "Aan:";
+/* Translated from: to: %@ */
+"to: %@" = "om: %@";
+/* Translated from: touch id limit */
+"touch id limit" = "Touch id limiet";
+/* Translated from: touch id spending limit */
+"touch id spending limit" = "Touch id uitgaven beperken";
+/* Translated from: transaction canceled, network timeout */
+"transaction canceled, network timeout" = "transactie geannuleerd, netwerk time-out";
+/* Translated from: transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits) */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "Transactie fees zou meer kosten dan de fondsen beschikbaar op deze persoonlijke sleutel (als gevolg van kleine \'dust\'deposito's)";
+/* Translated from: transaction history */
+"transaction history" = "transactiegeschiedenis";
+/* Translated from: transaction rejected */
+"transaction rejected" = "transactie afgewezen";
+/* Translated from: turn device passcode on */
+"turn device passcode on" = "de toegangscode van de apparaat inschakelen";
+/* Translated from: Unable to retrieve API token */
+"Unable to retrieve API token" = "Niet API token ophalen";
+/* Translated from: Unable to save API token */
+"Unable to save API token" = "Kan niet opslaan API token";
+/* Translated from: unexpected response from %@ */
+"unexpected response from %@" = "onverwachte reactie van de %@";
+/* Translated from: unknown address */
+"unknown address" = "onbekend adres";
+/* Translated from: unrecognized address */
+"unrecognized address" = "niet-herkende adres";
+/* Translated from: unsupported or corrupted document */
+"unsupported or corrupted document" = "niet-ondersteunde of beschadigd document";
+/* Translated from: unsupported signature type */
+"unsupported signature type" = "niet-ondersteunde handtekening type";
+/* Translated from: unsupported url */
+"unsupported url" = "niet-ondersteunde url";
+/* Translated from: untrusted certificate */
+"untrusted certificate" = "niet-vertrouwde certificaat";
+/* Translated from: unverified */
+"unverified" = "niet-geverifieerde";
+/* Translated from: verified, waiting for confirmation */
+"verified, waiting for confirmation" = "geverifieerd, wachten op bevestiging";
+/* Translated from: verify passcode */
+"verify passcode" = "Controleer of de toegangscode";
+/* Translated from: wallet address */
+"wallet address" = "portemonnee adres";
+/* Translated from: wallet disabled */
+"wallet disabled" = "portemonnee uitgeschakeld";
+/* Translated from: Wallet not ready */
+"Wallet not ready" = "Portemonnee niet klaar";
+/* Translated from: WARNING */
+"WARNING" = "WAARSCHUWING";
+/* Translated from: wipe */
+"wipe" = "Veeg";
+/* Translated from: WRITE DOWN YOUR RECOVERY PHRASE */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "NOTEER UW RECOVERY-ZIN";
+/* Translated from: you received dash! */
+"you received dash!" = "u ontving dash!";
+/* Translated from: Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Uw portemonnee kan worden uit sync. \nThis kan vaak worden opgelost door de blockchain aanloopfase.";

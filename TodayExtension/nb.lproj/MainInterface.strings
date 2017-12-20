@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BYI-Sc-uwe"; */
+"BYI-Sc-uwe.text" = "";
+
+/* Class = "UILabel"; text = "send"; ObjectID = "L1g-Y8-cLk"; */
+"L1g-Y8-cLk.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Setup wallet"; ObjectID = "a23-fX-YZj"; */
+"a23-fX-YZj.normalTitle" = "";
+
+/* Class = "UILabel"; text = "receive"; ObjectID = "ixC-ei-kYE"; */
+"ixC-ei-kYE.text" = "";
+
+/* Class = "UILabel"; text = "scan QR code"; ObjectID = "uDU-px-zTR"; */
+"uDU-px-zTR.text" = "";

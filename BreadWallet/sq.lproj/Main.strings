@@ -1,0 +1,246 @@
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "00M-e1-IWY"; */
+"00M-e1-IWY.text" = "";
+
+/* Class = "UILabel"; text = "đ 1,000"; ObjectID = "0ui-yr-JjJ"; */
+"0ui-yr-JjJ.text" = "";
+
+/* Class = "UIButton"; normalTitle = "recover wallet"; ObjectID = "4w7-k8-9wY"; */
+"4w7-k8-9wY.normalTitle" = "rikthe kuletën";
+
+/* Class = "UILabel"; text = "subtitle"; ObjectID = "55a-IW-IjK"; */
+"55a-IW-IjK.text" = "";
+
+/* Class = "UILabel"; text = "spiralus@mazacoin.org"; ObjectID = "5OA-tB-Exg"; */
+"5OA-tB-Exg.text" = "";
+
+/* Class = "UILabel"; text = "local currency"; ObjectID = "8e2-ar-Ehc"; */
+"8e2-ar-Ehc.text" = "monedha lokale";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "9L3-gM-TgP"; */
+"9L3-gM-TgP.title" = "";
+
+/* Class = "UITextField"; text = "to: 1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"; ObjectID = "9T2-dq-yVS"; */
+"9T2-dq-yVS.text" = "";
+
+/* Class = "UIButton"; normalTitle = "generate recovery phrase"; ObjectID = "A4M-yq-26d"; */
+"A4M-yq-26d.normalTitle" = "gjenero frazën rikthyese";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "CsQ-fq-mfQ"; */
+"CsQ-fq-mfQ.text" = "";
+
+/* Class = "UILabel"; text = "start/recover another wallet"; ObjectID = "D1b-HB-lKH"; */
+"D1b-HB-lKH.text" = "starto/rikthe një tjetër kulet";
+
+/* Class = "UILabel"; text = "exchange rate data provided by\nbitpay.com/rates and coinmarketcap.com. Graphics by Giovanni Martina"; ObjectID = "D4H-hd-LsX"; */
+"D4H-hd-LsX.text" = "të dhënat e çmimit të tregut ofrohen nga\nbitpay.com/rates";
+
+/* Class = "UITextField"; placeholder = "đ 0.00"; ObjectID = "DLS-lz-uxJ"; */
+"DLS-lz-uxJ.placeholder" = "";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "E2i-Cd-bly"; */
+"E2i-Cd-bly.normalTitle" = "";
+
+/* Class = "UILabel"; text = "if you ever lose your phone, you will need this phrase to recover your wallet"; ObjectID = "EQG-Km-ZKY"; */
+"EQG-Km-ZKY.text" = "nëse e humbni telefonin tuaj ndonjëherë, do të ju duhet kjo frazë për ta rikthyer kuletën tuaj";
+
+/* Class = "UILabel"; text = "sent"; ObjectID = "FjB-H2-BnK"; */
+"FjB-H2-BnK.text" = "";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "GAm-wQ-UwG"; */
+"GAm-wQ-UwG.text" = "";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "GWf-4e-jTu"; */
+"GWf-4e-jTu.text" = "";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "HrP-wv-Y1B"; */
+"HrP-wv-Y1B.text" = "";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Huq-Vk-LaF"; */
+"Huq-Vk-LaF.title" = "";
+
+/* Class = "UIButton"; normalTitle = "copy logs"; ObjectID = "Irz-6P-zvD"; */
+"Irz-6P-zvD.normalTitle" = "";
+
+/* Class = "UILabel"; text = "($1,000.00)"; ObjectID = "JNR-nK-iyP"; */
+"JNR-nK-iyP.text" = "";
+
+/* Class = "UIButton"; normalTitle = "."; ObjectID = "Ktu-9p-xOl"; */
+"Ktu-9p-xOl.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "Lbu-bB-iV8"; */
+"Lbu-bB-iV8.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "LgR-qo-dYy"; */
+"LgR-qo-dYy.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "MOQ-nc-fFL"; */
+"MOQ-nc-fFL.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "Mvz-cZ-Yby"; */
+"Mvz-cZ-Yby.normalTitle" = "";
+
+/* Class = "UILabel"; text = "đ 1,000"; ObjectID = "N6a-t6-1jK"; */
+"N6a-t6-1jK.text" = "";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "NyY-8N-uhK"; */
+"NyY-8N-uhK.normalTitle" = "";
+
+/* Class = "UILabel"; text = "($1,000.00)"; ObjectID = "O7K-cF-GAA"; */
+"O7K-cF-GAA.text" = "";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "OBr-C7-abe"; */
+"OBr-C7-abe.title" = "";
+
+/* Class = "UILabel"; text = "($1,000.00)"; ObjectID = "Ofd-q3-a1P"; */
+"Ofd-q3-a1P.text" = "";
+
+/* Class = "UILabel"; text = "đ 1,000"; ObjectID = "PSx-oa-hSL"; */
+"PSx-oa-hSL.text" = "";
+
+/* Class = "UIBarButtonItem"; title = "remind me later"; ObjectID = "QQS-Me-RNh"; */
+"QQS-Me-RNh.title" = "ma kujto më vonë";
+
+/* Class = "UILabel"; text = "please write it down"; ObjectID = "Td7-xP-kmB"; */
+"Td7-xP-kmB.text" = "ju lutem shkruajeni diku";
+
+/* Class = "UILabel"; text = "not connected"; ObjectID = "UyF-OV-QVY"; */
+"UyF-OV-QVY.text" = "nuk është konektuar";
+
+/* Class = "UINavigationItem"; title = "settings"; ObjectID = "W8m-Eh-Nf9"; */
+"W8m-Eh-Nf9.title" = "konfigurimi";
+
+/* Class = "UILabel"; text = "subtitle"; ObjectID = "WHQ-zW-IjD"; */
+"WHQ-zW-IjD.text" = "";
+
+/* Class = "UIButton"; normalTitle = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"; ObjectID = "WSe-0v-Fha"; */
+"WSe-0v-Fha.normalTitle" = "";
+
+/* Class = "UILabel"; text = "id:"; ObjectID = "WsQ-ej-Wh4"; */
+"WsQ-ej-Wh4.text" = "";
+
+/* Class = "UILabel"; text = "amount:"; ObjectID = "XJu-9x-HqQ"; */
+"XJu-9x-HqQ.text" = "shuma:";
+
+/* Class = "UIButton"; normalTitle = "1WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"; ObjectID = "XV7-2s-hZs"; */
+"XV7-2s-hZs.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Enter this wallet's recovery phrase to wipe it and start/recover another. Your current balance remains on this phrase."; ObjectID = "YC6-rN-4P5"; */
+"YC6-rN-4P5.text" = "Shëno këtë frazë rikthyese të kuletës për ta fshir atë dhe startoni/riktheni një tjetër. Bilanci i juaj aktual do të mbetet në këtë frazë.";
+
+/* Class = "UILabel"; text = "($0.00)"; ObjectID = "ZH0-Ng-7xb"; */
+"ZH0-Ng-7xb.text" = "";
+
+/* Class = "UIButton"; normalTitle = "↔︎"; ObjectID = "Zbe-Kx-XvG"; */
+"Zbe-Kx-XvG.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "b8y-tJ-xAB"; */
+"b8y-tJ-xAB.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "pay address from clipboard"; ObjectID = "bfj-xS-5rN"; */
+"bfj-xS-5rN.normalTitle" = "paguaj adresën nga memorja";
+
+/* Class = "UILabel"; text = "đ 0.00 ($0.00)"; ObjectID = "cRT-Sr-x6R"; */
+"cRT-Sr-x6R.text" = "";
+
+/* Class = "UIButton"; normalTitle = "scan QR code"; ObjectID = "ce6-Wi-wk4"; */
+"ce6-Wi-wk4.normalTitle" = "skano QR kodin";
+
+/* Class = "UILabel"; text = "I wrote it down:"; ObjectID = "cyp-mV-Bhd"; */
+"cyp-mV-Bhd.text" = "E shkruajta:";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "dBP-3X-1o6"; */
+"dBP-3X-1o6.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "new wallet"; ObjectID = "dOa-zm-TDG"; */
+"dOa-zm-TDG.normalTitle" = "kuletë e re";
+
+/* Class = "UILabel"; text = "if you ever lose your phone, you will need this phrase to recover your wallet"; ObjectID = "dX6-jg-5IA"; */
+"dX6-jg-5IA.text" = "nëse e humbni ndonjëherë telefonin, do të ju duhet kjo frazë për ta rikthyer kuletën tuaj";
+
+/* Class = "UILabel"; text = "unconfirmed"; ObjectID = "eJ2-5h-DO2"; */
+"eJ2-5h-DO2.text" = "";
+
+/* Class = "UIButton"; normalTitle = "show"; ObjectID = "efL-Cj-Aho"; */
+"efL-Cj-Aho.normalTitle" = "shfaq";
+
+/* Class = "UINavigationItem"; title = "confirm:"; ObjectID = "fQN-xb-SYb"; */
+"fQN-xb-SYb.title" = "konfirmo:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "fVX-tM-tZx"; */
+"fVX-tM-tZx.text" = "";
+
+/* Class = "UIViewController"; title = "StartWallet"; ObjectID = "gE8-de-XET"; */
+"gE8-de-XET.title" = "";
+
+/* Class = "UILabel"; text = "subtitle"; ObjectID = "gZx-fI-siU"; */
+"gZx-fI-siU.text" = "";
+
+/* Class = "UILabel"; text = "đ 1,000"; ObjectID = "hJG-af-ws1"; */
+"hJG-af-ws1.text" = "";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "hWS-2G-hHE"; */
+"hWS-2G-hHE.title" = "";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "hre-wm-YW3"; */
+"hre-wm-YW3.title" = "";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "jGg-9z-XEe"; */
+"jGg-9z-XEe.normalTitle" = "";
+
+/* Class = "UILabel"; text = "send money:"; ObjectID = "l5l-JR-LKA"; */
+"l5l-JR-LKA.text" = "dërgo para:";
+
+/* Class = "UILabel"; text = "app support:"; ObjectID = "lYb-eg-NfF"; */
+"lYb-eg-NfF.text" = "";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mpz-vn-jZ1"; */
+"mpz-vn-jZ1.text" = "";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mxS-i4-y1n"; */
+"mxS-i4-y1n.text" = "";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ncN-gc-vpQ"; */
+"ncN-gc-vpQ.text" = "";
+
+/* Class = "UINavigationItem"; title = "recovery phrase:"; ObjectID = "ooJ-EA-DFl"; */
+"ooJ-EA-DFl.title" = "fraza rikthyese:";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "p8P-3o-INx"; */
+"p8P-3o-INx.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "pXc-8D-8Gh"; */
+"pXc-8D-8Gh.text" = "";
+
+/* Class = "UILabel"; text = "($1,000.00)"; ObjectID = "qNV-Ka-14n"; */
+"qNV-Ka-14n.text" = "";
+
+/* Class = "UILabel"; text = "receive money:"; ObjectID = "qel-3J-2VC"; */
+"qel-3J-2VC.text" = "prano para:";
+
+/* Class = "UITableViewController"; title = "transaction details"; ObjectID = "s4T-yd-VfX"; */
+"s4T-yd-VfX.title" = "detajet e transaksionit";
+
+/* Class = "UILabel"; text = "no transactions"; ObjectID = "t1j-JZ-FW0"; */
+"t1j-JZ-FW0.text" = "nuk ka transaksione";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uaG-gX-Ias"; */
+"uaG-gX-Ias.text" = "";
+
+/* Class = "UILabel"; text = "đ 1,000,000"; ObjectID = "ue1-2S-fEr"; */
+"ue1-2S-fEr.text" = "";
+
+/* Class = "UILabel"; text = "dashwallet v%ver%%net%\ncopyright © 2016"; ObjectID = "uvz-hk-Nr4"; */
+"uvz-hk-Nr4.text" = "dashwallet v%ver%%net%\ncopyright © 2015 Aaron Voisine\n\n";
+
+/* Class = "UILabel"; text = "start a new wallet by generating a wallet recovery phrase"; ObjectID = "wDZ-DN-szv"; */
+"wDZ-DN-szv.text" = "starto një kuletë të re duke gjeneruar një frazë rikthyese";
+
+/* Class = "UILabel"; text = "($1,000.00)"; ObjectID = "wd8-oB-KWn"; */
+"wd8-oB-KWn.text" = "";
+
+/* Class = "UILabel"; text = "status:"; ObjectID = "x2u-C3-wz6"; */
+"x2u-C3-wz6.text" = "";
+
+/* Class = "UILabel"; text = "88.8%"; ObjectID = "xl3-sr-16q"; */
+"xl3-sr-16q.text" = "";
